@@ -1,0 +1,196 @@
+{
+    "amh": {
+        "qa": {
+            "baseline": []
+        },
+        "qah": {
+            "baseline": []
+        },
+        "mt_from_en": {
+            "baseline": 18.13,
+            "adapted": {
+                "name": "Add-100",
+                "prop": "prop-0.5",
+                "ds": "wura",
+                "value": 20.5
+            }
+        },
+        "mt_to_en": {
+            "baseline": 1.87,
+            "adapted": {
+                "name": "Add-2000",
+                "prop": "prop-0",
+                "ds": "wura",
+                "value": 7.63
+            }
+        },
+        "news_topic": {
+            "baseline": 0.0,
+            "adapted": {
+                "name": "Add-2000",
+                "prop": "prop-0.25",
+                "ds": "wura",
+                "value": 19.56
+            }
+        },
+        "sentiment": {
+            "baseline": 39.52,
+            "adapted": {
+                "name": "Add-100",
+                "prop": "prop-0.25",
+                "ds": "wura",
+                "value": 52.51
+            }
+        }
+    },
+    "hau": {
+        "qa": {
+            "baseline": 23.3,
+            "adapted": {
+                "name": "Add-100",
+                "prop": "prop-0.25",
+                "ds": "aya",
+                "value": 25.5
+            }
+        },
+        "qah": {
+            "baseline": 0.0,
+            "adapted": {
+                "name": "Add-2000",
+                "prop": "prop-0.5",
+                "ds": "aya",
+                "value": 11.0
+            }
+        },
+        "mt_from_en": {
+            "baseline": 20.23
+        },
+        "mt_to_en": {
+            "baseline": 18.39,
+            "adapted": {
+                "name": "OPT Tokeniser",
+                "prop": "prop-0",
+                "ds": "aya",
+                "value": 22.7
+            }
+        },
+        "news_topic": {
+            "baseline": 5.7,
+            "adapted": {
+                "name": "Add-2000",
+                "prop": "prop-0.5",
+                "ds": "wura",
+                "value": 16.49
+            }
+        },
+        "sentiment": {
+            "baseline": 40.79,
+            "adapted": {
+                "name": "Add-2000",
+                "prop": "prop-0.5",
+                "ds": "wura",
+                "value": 43.94
+            }
+        }
+    },
+    "ibo": {
+        "qa": {
+            "baseline": 11.4,
+            "adapted": {
+                "name": "Add-2000",
+                "prop": "prop-0",
+                "ds": "aya",
+                "value": 16.3
+            }
+        },
+        "qah": {
+            "baseline": 3.5,
+            "adapted": {
+                "name": "Add-2000",
+                "prop": "prop-0.25",
+                "ds": "aya",
+                "value": 4.9
+            }
+        },
+        "mt_from_en": {
+            "baseline": 19.76
+        },
+        "mt_to_en": {
+            "baseline": 12.48,
+            "adapted": {
+                "name": "Add-2000",
+                "prop": "prop-0.5",
+                "ds": "wura",
+                "value": 16.1
+            }
+        },
+        "news_topic": {
+            "baseline": 12.0,
+            "adapted": {
+                "name": "Replace-2000",
+                "prop": "prop-0.5",
+                "ds": "aya",
+                "value": 20.36
+            }
+        },
+        "sentiment": {
+            "baseline": 38.36,
+            "adapted": {
+                "name": "Replace-2000",
+                "prop": "prop-0.5",
+                "ds": "wura",
+                "value": 38.48
+            }
+        }
+    },
+    "yor": {
+        "qa": {
+            "baseline": 18.0,
+            "adapted": {
+                "name": "Add-100",
+                "prop": "prop-0",
+                "ds": "aya",
+                "value": 25.7
+            }
+        },
+        "qah": {
+            "baseline": 4.8,
+            "adapted": {
+                "name": "Replace-2000",
+                "prop": "prop-0",
+                "ds": "aya",
+                "value": 11.2
+            }
+        },
+        "mt_from_en": {
+            "baseline": 20.8,
+            "adapted": {
+                "name": "Replace-2000",
+                "prop": "prop-0.5",
+                "ds": "wura",
+                "value": 22.34
+            }
+        },
+        "mt_to_en": {
+            "baseline": 7.81,
+            "adapted": {
+                "name": "Replace-2000",
+                "prop": "prop-0.5",
+                "ds": "wura",
+                "value": 13.14
+            }
+        },
+        "news_topic": {
+            "baseline": 13.9,
+            "adapted": {
+                "name": "OPT Tokeniser",
+                "prop": "prop-0",
+                "ds": "aya",
+                "value": 29.59
+            }
+        },
+        "sentiment": {
+            "baseline": 34.41
+        }
+    }
+}

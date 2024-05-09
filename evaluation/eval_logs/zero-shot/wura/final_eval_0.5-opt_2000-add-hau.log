@@ -1,0 +1,467 @@
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+Using device: cuda:1
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [04:36<00:00, 276.17s/it]100%|██████████| 1/1 [04:36<00:00, 276.17s/it]
+
+Language: Amharic, using file: data_repos/afrisent-semeval-2023//data/hau/test.tsv
+                                               tweet     label
+0  ah su rahama za axha madara sa lemu fah mudai ...  positive
+1                             tohh allah shi taimaka  positive
+2  allah ubangiji yakara maka lapia da tsawon ray...  positive
+3  wannan shine gaskiyar lamari domin siyasar nig...  positive
+4  alhamdulillah allah tabbatar dan isar maulatii...  positive
+Avg length of prompts 162.9683198189704
+generation progress: 0/166... batch time: 1.74s
+generation progress: 1/166... batch time: 1.47s
+generation progress: 2/166... batch time: 1.50s
+generation progress: 3/166... batch time: 1.42s
+generation progress: 4/166... batch time: 1.50s
+generation progress: 5/166... batch time: 1.53s
+generation progress: 6/166... batch time: 1.72s
+generation progress: 7/166... batch time: 1.61s
+generation progress: 8/166... batch time: 1.55s
+generation progress: 9/166... batch time: 1.55s
+generation progress: 10/166... batch time: 1.47s
+generation progress: 11/166... batch time: 1.55s
+generation progress: 12/166... batch time: 1.42s
+generation progress: 13/166... batch time: 1.64s
+generation progress: 14/166... batch time: 1.67s
+generation progress: 15/166... batch time: 1.55s
+generation progress: 16/166... batch time: 1.50s
+generation progress: 17/166... batch time: 1.55s
+generation progress: 18/166... batch time: 2.38s
+generation progress: 19/166... batch time: 1.42s
+generation progress: 20/166... batch time: 1.56s
+generation progress: 21/166... batch time: 1.42s
+generation progress: 22/166... batch time: 1.55s
+generation progress: 23/166... batch time: 1.53s
+generation progress: 24/166... batch time: 1.53s
+generation progress: 25/166... batch time: 1.55s
+generation progress: 26/166... batch time: 1.56s
+generation progress: 27/166... batch time: 1.56s
+generation progress: 28/166... batch time: 1.64s
+generation progress: 29/166... batch time: 1.56s
+generation progress: 30/166... batch time: 1.56s
+generation progress: 31/166... batch time: 1.56s
+generation progress: 32/166... batch time: 1.56s
+generation progress: 33/166... batch time: 1.56s
+generation progress: 34/166... batch time: 1.50s
+generation progress: 35/166... batch time: 1.53s
+generation progress: 36/166... batch time: 1.42s
+generation progress: 37/166... batch time: 4.13s
+generation progress: 38/166... batch time: 1.56s
+generation progress: 39/166... batch time: 1.56s
+generation progress: 40/166... batch time: 1.42s
+generation progress: 41/166... batch time: 1.42s
+generation progress: 42/166... batch time: 1.56s
+generation progress: 43/166... batch time: 1.64s
+generation progress: 44/166... batch time: 1.53s
+generation progress: 45/166... batch time: 1.42s
+generation progress: 46/166... batch time: 1.50s
+generation progress: 47/166... batch time: 1.56s
+generation progress: 48/166... batch time: 1.50s
+generation progress: 49/166... batch time: 1.56s
+generation progress: 50/166... batch time: 2.40s
+generation progress: 51/166... batch time: 1.58s
+generation progress: 52/166... batch time: 1.56s
+generation progress: 53/166... batch time: 1.56s
+generation progress: 54/166... batch time: 1.56s
+generation progress: 55/166... batch time: 1.56s
+generation progress: 56/166... batch time: 1.42s
+generation progress: 57/166... batch time: 1.42s
+generation progress: 58/166... batch time: 1.56s
+generation progress: 59/166... batch time: 1.42s
+generation progress: 60/166... batch time: 1.42s
+generation progress: 61/166... batch time: 1.50s
+generation progress: 62/166... batch time: 1.72s
+generation progress: 63/166... batch time: 1.42s
+generation progress: 64/166... batch time: 1.42s
+generation progress: 65/166... batch time: 1.56s
+generation progress: 66/166... batch time: 1.56s
+generation progress: 67/166... batch time: 1.58s
+generation progress: 68/166... batch time: 1.67s
+generation progress: 69/166... batch time: 2.81s
+generation progress: 70/166... batch time: 1.61s
+generation progress: 71/166... batch time: 1.50s
+generation progress: 72/166... batch time: 1.42s
+generation progress: 73/166... batch time: 1.42s
+generation progress: 74/166... batch time: 1.53s
+generation progress: 75/166... batch time: 1.42s
+generation progress: 76/166... batch time: 2.43s
+generation progress: 77/166... batch time: 1.56s
+generation progress: 78/166... batch time: 1.61s
+generation progress: 79/166... batch time: 1.42s
+generation progress: 80/166... batch time: 1.56s
+generation progress: 81/166... batch time: 1.64s
+generation progress: 82/166... batch time: 1.50s
+generation progress: 83/166... batch time: 1.42s
+generation progress: 84/166... batch time: 1.53s
+generation progress: 85/166... batch time: 3.16s
+generation progress: 86/166... batch time: 1.42s
+generation progress: 87/166... batch time: 1.58s
+generation progress: 88/166... batch time: 1.53s
+generation progress: 89/166... batch time: 2.69s
+generation progress: 90/166... batch time: 1.53s
+generation progress: 91/166... batch time: 1.42s
+generation progress: 92/166... batch time: 1.42s
+generation progress: 93/166... batch time: 1.67s
+generation progress: 94/166... batch time: 1.50s
+generation progress: 95/166... batch time: 1.42s
+generation progress: 96/166... batch time: 1.64s
+generation progress: 97/166... batch time: 1.42s
+generation progress: 98/166... batch time: 2.95s
+generation progress: 99/166... batch time: 2.90s
+generation progress: 100/166... batch time: 1.53s
+generation progress: 101/166... batch time: 1.42s
+generation progress: 102/166... batch time: 1.67s
+generation progress: 103/166... batch time: 2.06s
+generation progress: 104/166... batch time: 1.42s
+generation progress: 105/166... batch time: 1.53s
+generation progress: 106/166... batch time: 1.42s
+generation progress: 107/166... batch time: 1.42s
+generation progress: 108/166... batch time: 1.56s
+generation progress: 109/166... batch time: 1.53s
+generation progress: 110/166... batch time: 1.53s
+generation progress: 111/166... batch time: 1.59s
+generation progress: 112/166... batch time: 1.64s
+generation progress: 113/166... batch time: 1.59s
+generation progress: 114/166... batch time: 1.45s
+generation progress: 115/166... batch time: 1.42s
+generation progress: 116/166... batch time: 1.67s
+generation progress: 117/166... batch time: 1.70s
+generation progress: 118/166... batch time: 1.53s
+generation progress: 119/166... batch time: 1.42s
+generation progress: 120/166... batch time: 1.78s
+generation progress: 121/166... batch time: 2.61s
+generation progress: 122/166... batch time: 1.53s
+generation progress: 123/166... batch time: 1.70s
+generation progress: 124/166... batch time: 1.59s
+generation progress: 125/166... batch time: 1.47s
+generation progress: 126/166... batch time: 1.67s
+generation progress: 127/166... batch time: 1.42s
+generation progress: 128/166... batch time: 1.59s
+generation progress: 129/166... batch time: 1.61s
+generation progress: 130/166... batch time: 1.53s
+generation progress: 131/166... batch time: 1.56s
+generation progress: 132/166... batch time: 1.42s
+generation progress: 133/166... batch time: 1.61s
+generation progress: 134/166... batch time: 1.70s
+generation progress: 135/166... batch time: 1.42s
+generation progress: 136/166... batch time: 1.64s
+generation progress: 137/166... batch time: 1.56s
+generation progress: 138/166... batch time: 1.56s
+generation progress: 139/166... batch time: 1.70s
+generation progress: 140/166... batch time: 1.56s
+generation progress: 141/166... batch time: 1.47s
+generation progress: 142/166... batch time: 1.42s
+generation progress: 143/166... batch time: 1.64s
+generation progress: 144/166... batch time: 1.56s
+generation progress: 145/166... batch time: 1.56s
+generation progress: 146/166... batch time: 1.59s
+generation progress: 147/166... batch time: 1.64s
+generation progress: 148/166... batch time: 1.59s
+generation progress: 149/166... batch time: 1.59s
+generation progress: 150/166... batch time: 1.61s
+generation progress: 151/166... batch time: 1.75s
+generation progress: 152/166... batch time: 1.67s
+generation progress: 153/166... batch time: 1.67s
+generation progress: 154/166... batch time: 1.73s
+generation progress: 155/166... batch time: 1.61s
+generation progress: 156/166... batch time: 1.59s
+generation progress: 157/166... batch time: 1.59s
+generation progress: 158/166... batch time: 1.61s
+generation progress: 159/166... batch time: 1.42s
+generation progress: 160/166... batch time: 1.64s
+generation progress: 161/166... batch time: 1.59s
+generation progress: 162/166... batch time: 1.53s
+generation progress: 163/166... batch time: 2.12s
+generation progress: 164/166... batch time: 1.64s
+generation progress: 165/166... batch time: 1.24s
+Message:
+Does this Amharic statement; "ah su rahama za axha madara sa lemu fah mudai deja mn muna tchikin sa alhmdllh allah ya karbi ibadumu yakuma yafe mana kurakurai ameen barka da charuwa ️" have a {{Neutral, Positive or Negative}} sentiment? Labels only 
+Entire output:
+Does this Amharic statement; "ah su rahama za axha madara sa lemu fah mudai deja mn muna tchikin sa alhmdllh allah ya karbi ibadumu yakuma yafe mana kurakurai ameen barka da charuwa ️" have a {{Neutral, Positive or Negative}} sentiment? Labels only should be used for positive statements.
+
+Cropped output:
+should be used for positive statements.
+
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [02:51<00:00, 171.22s/it]100%|██████████| 1/1 [02:51<00:00, 171.23s/it]
+
+Language: hau, using file: data_repos/masakhane-news/data/hau/test.tsv
+   category  ...                                              url
+0  business  ...       https://www.bbc.com/hausa/labarai-56269227
+1  business  ...  https://www.bbc.com/hausa/articles/cz5851g5pe8o
+2  business  ...     https://www.bbc.com/hausa/rahotanni-57794870
+3  business  ...       https://www.bbc.com/hausa/labarai-60642688
+4  business  ...       https://www.bbc.com/hausa/labarai-51749802
+
+[5 rows x 4 columns]
+generation progress: 0/20... batch time: 8.67s
+generation progress: 1/20... batch time: 8.80s
+generation progress: 2/20... batch time: 8.80s
+generation progress: 3/20... batch time: 8.81s
+generation progress: 4/20... batch time: 8.82s
+generation progress: 5/20... batch time: 4.92s
+generation progress: 6/20... batch time: 8.82s
+generation progress: 7/20... batch time: 8.80s
+generation progress: 8/20... batch time: 8.80s
+generation progress: 9/20... batch time: 8.81s
+generation progress: 10/20... batch time: 8.81s
+generation progress: 11/20... batch time: 8.81s
+generation progress: 12/20... batch time: 8.81s
+generation progress: 13/20... batch time: 7.01s
+generation progress: 14/20... batch time: 8.81s
+generation progress: 15/20... batch time: 8.81s
+generation progress: 16/20... batch time: 8.81s
+generation progress: 17/20... batch time: 8.82s
+generation progress: 18/20... batch time: 8.81s
+generation progress: 19/20... batch time: 8.10s
+Message:
+Labels only. Is this an article regarding {{business, entertainment, health, politics, religion, sports or technology}}? 
+Article: Najeriya: Kayan gwari sun yi kwantai a arewa bayan hana kai kaya kudu A yayin da farashin kayan gwari da dabbobi suka tashi a kudancin Najeriya, a arewacin kuma farashin kayayyakin ne ya karye. Tasirin yajin aikin Haɗaɗɗiyar ƙungiyar masu kayan gwari da dabbobi da kayan cimaka ya haifar da tashin farashin a kudancin Najeriya da kuma karyewar farashin a arewacin ƙasar. Ƴan kasuwar kayan gwari a Kano sun yi kukan faɗuwar farashin tare da tabka asara mai yawa. Akwai tarin tumatus kwando-kwando jibge a kasuwar kayan gwari a Kano bayan hana kai kayan zuwa kudancin Najeriya. Kusan ana kai
+Label:
+Entire output:
+Labels only. Is this an article regarding {{business, entertainment, health, politics, religion, sports or technology}}? 
+Article: Najeriya: Kayan gwari sun yi kwantai a arewa bayan hana kai kaya kudu A yayin da farashin kayan gwari da dabbobi suka tashi a kudancin Najeriya, a arewacin kuma farashin kayayyakin ne ya karye. Tasirin yajin aikin Haɗaɗɗiyar ƙungiyar masu kayan gwari da dabbobi da kayan cimaka ya haifar da tashin farashin a kudancin Najeriya da kuma karyewar farashin a arewacin ƙasar. Ƴan kasuwar kayan gwari a Kano sun yi kukan faɗuwar farashin tare da tabka asara mai yawa. Akwai tarin tumatus kwando-kwando jibge a kasuwar kayan gwari a Kano bayan hana kai kayan zuwa kudancin Najeriya. Kusan ana kai
+Label: Buhunan Nigeri - Kudadenmu na yaudar sugayenwa kan gado Da yawan tsada waƙarƙe ta saɓa shiƙatattun abinci gagariwar dake siyarorina daga cikin gida ko wasu baƙici suke sayar musu sayo akansu don hakashi sai daidaiiyar ke nan gabasawa sosai har yanzu babu wani shagonsuya kamar yanyini ake yin awon buguji suna namacewa kawai za ka iya sayen abincinsa domin kuwakarshi yake kara kuzuwa idan aka kanken bututun dana ruwaftaun kwalliya sannan hakan yawata hatsihe yasa saka tukunurrufi tak riuwan miyayi sanyauke duk sauran shgoshin matsuki yana taka rawa dashi wan tofa albarkana ita cecema doleko aisha Allah yayi ƙaradanta mu’�amari lafiya zai zama jinkan rago amma wannan abuncin rayuwa bai soyayya masahabbaba wanda kowa cancantar abin alfarma
+Cropped output:
+ Buhunan Nigeri - Kudadenmu na yaudar sugayenwa kan gado Da yawan tsada waƙarƙe ta saɓa shiƙatattun abinci gagariwar dake siyarorina daga cikin gida ko wasu baƙici suke sayar musu sayo akansu don hakashi sai daidaiiyar ke nan gabasawa sosai har yanzu babu wani shagonsuya kamar yanyini ake yin awon buguji suna namacewa kawai za ka iya sayen abincinsa domin kuwakarshi yake kara kuzuwa idan aka kanken bututun dana ruwaftaun kwalliya sannan hakan yawata hatsihe yasa saka tukunurrufi tak riuwan miyayi sanyauke duk sauran shgoshin matsuki yana taka rawa dashi wan tofa albarkana ita cecema doleko aisha Allah yayi ƙaradanta mu’�amari lafiya zai zama jinkan rago amma wannan abuncin rayuwa bai soyayya masahabbaba wanda kowa cancantar abin alfarma
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [01:22<00:00, 82.68s/it]100%|██████████| 1/1 [01:22<00:00, 82.68s/it]
+hau
+
+Language: hau, using file: data_repos/afriqa/data/gold_passages/hau/*test.json
+                                       answer_pivot  ...    answer_lang
+0  {'answer_start': [51], 'text': ['southeastern']}  ...  gabas ta kudu
+1         {'answer_start': [185], 'text': ['Doha']}  ...           Doha
+2      {'answer_start': [0], 'text': ['Eni Njoku']}  ...      Eni Njoku
+3         {'answer_start': [27], 'text': ['seven']}  ...         bakwai
+4          {'answer_start': [26], 'text': ['1951']}  ...           1951
+
+[5 rows x 7 columns]
+generation progress: 0/10... batch time: 8.81s
+generation progress: 1/10... batch time: 8.81s
+generation progress: 2/10... batch time: 6.89s
+generation progress: 3/10... batch time: 8.81s
+generation progress: 4/10... batch time: 8.81s
+generation progress: 5/10... batch time: 8.81s
+generation progress: 6/10... batch time: 8.81s
+generation progress: 7/10... batch time: 8.81s
+generation progress: 8/10... batch time: 8.81s
+generation progress: 9/10... batch time: 4.06s
+Message:
+Use the following pieces of context to answer the provided question. If you don't know the answer, just say that you don't know, don't try to make up an answer. Provide the answer with the least number of words possible. Provide the answer only. Provide answer in English. Do not repeat the question
+Context: Anambra State  is a Nigerian state, located in the southeastern region of the country. The State was created on August 27, 1991. Anambra state is bounded by Delta State to the west, Imo State to the south, Enugu State to the east and Kogi State to the north.
+Question: What region is Anambra State in Nigeria?
+Answer:
+Entire output:
+Use the following pieces of context to answer the provided question. If you don't know the answer, just say that you don't know, don't try to make up an answer. Provide the answer with the least number of words possible. Provide the answer only. Provide answer in English. Do not repeat the question
+Context: Anambra State  is a Nigerian state, located in the southeastern region of the country. The State was created on August 27, 1991. Anambra state is bounded by Delta State to the west, Imo State to the south, Enugu State to the east and Kogi State to the north.
+Question: What region is Anambra State in Nigeria?
+Answer: A Region (R) refers to any part or area within which there are two distinct ethnic groups living together under one government system; for example, if I were asked what my ethnicity would be it might include both Yoruba & Hausas as well as some other people who may have different ancestries but live side-by-side because they all belong to this same nation ca Afri continent.
+Cropped output:
+ A Region (R) refers to any part or area within which there are two distinct ethnic groups living together under one government system; for example, if I were asked what my ethnicity would be it might include both Yoruba & Hausas as well as some other people who may have different ancestries but live side-by-side because they all belong to this same nation ca Afri continent.
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [01:23<00:00, 83.84s/it]100%|██████████| 1/1 [01:23<00:00, 83.85s/it]
+hau
+
+Language: hau, using file: data_repos/afriqa/data/gold_passages/hau/*test.json
+                                       answer_pivot  ...    answer_lang
+0  {'answer_start': [51], 'text': ['southeastern']}  ...  gabas ta kudu
+1         {'answer_start': [185], 'text': ['Doha']}  ...           Doha
+2      {'answer_start': [0], 'text': ['Eni Njoku']}  ...      Eni Njoku
+3         {'answer_start': [27], 'text': ['seven']}  ...         bakwai
+4          {'answer_start': [26], 'text': ['1951']}  ...           1951
+
+[5 rows x 7 columns]
+generation progress: 0/10... batch time: 8.81s
+generation progress: 1/10... batch time: 8.82s
+generation progress: 2/10... batch time: 8.81s
+generation progress: 3/10... batch time: 8.81s
+generation progress: 4/10... batch time: 8.81s
+generation progress: 5/10... batch time: 7.76s
+generation progress: 6/10... batch time: 8.81s
+generation progress: 7/10... batch time: 8.81s
+generation progress: 8/10... batch time: 8.83s
+generation progress: 9/10... batch time: 4.06s
+Message:
+Use the following pieces of context to answer the provided question. If you don't know the answer, just say that you don't know, don't try to make up an answer. Provide the answer with the least number of words possible. Provide the answer only. Provide answer in English. Do not repeat the question
+Context: Anambra State  is a Nigerian state, located in the southeastern region of the country. The State was created on August 27, 1991. Anambra state is bounded by Delta State to the west, Imo State to the south, Enugu State to the east and Kogi State to the north.
+Question: Awane yanki jahar Anambra take a Nijeriya?
+Answer:
+Entire output:
+Use the following pieces of context to answer the provided question. If you don't know the answer, just say that you don't know, don't try to make up an answer. Provide the answer with the least number of words possible. Provide the answer only. Provide answer in English. Do not repeat the question
+Context: Anambra State  is a Nigerian state, located in the southeastern region of the country. The State was created on August 27, 1991. Anambra state is bounded by Delta State to the west, Imo State to the south, Enugu State to the east and Kogi State to the north.
+Question: Awane yanki jahar Anambra take a Nijeriya?
+Answer: Ambarai taken a Nijeriya necessary because it has been under British rule for more than 200 years now!
+Cropped output:
+ Ambarai taken a Nijeriya necessary because it has been under British rule for more than 200 years now!
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [06:45<00:00, 405.33s/it]100%|██████████| 1/1 [06:45<00:00, 405.33s/it]
+
+Language: Amharic, using file: data_repos/lafand-mt/data/tsv_files/en-hau/test.tsv
+                                                  en                                                hau
+0  Leader’s Office Urges Iranians to Aid People o...  Sakamakon tsanantan yanayin fari da kuma bayya...
+1      The full text of the statement is as follows:             Ga fassarar abin da sanarwar ta kumsa:
+2  In the Name of Allah, the Beneficent, the Merc...              Da Sunan Allah Mai Rahama Mai Jin Kai
+3  These days the Horn of Africa and particularly...  A cikin wadannan ranaku yankin kusurwar Afirka...
+4  For this purpose and considering the Leader's ...  A saboda haka sannan kuma sakamakon irin kulaw...
+generation progress: 0/47... batch time: 8.81s
+generation progress: 1/47... batch time: 8.81s
+generation progress: 2/47... batch time: 8.81s
+generation progress: 3/47... batch time: 8.81s
+generation progress: 4/47... batch time: 8.81s
+generation progress: 5/47... batch time: 8.81s
+generation progress: 6/47... batch time: 8.82s
+generation progress: 7/47... batch time: 8.81s
+generation progress: 8/47... batch time: 8.80s
+generation progress: 9/47... batch time: 8.81s
+generation progress: 10/47... batch time: 8.81s
+generation progress: 11/47... batch time: 8.81s
+generation progress: 12/47... batch time: 8.81s
+generation progress: 13/47... batch time: 8.81s
+generation progress: 14/47... batch time: 8.81s
+generation progress: 15/47... batch time: 8.81s
+generation progress: 16/47... batch time: 8.81s
+generation progress: 17/47... batch time: 8.51s
+generation progress: 18/47... batch time: 8.81s
+generation progress: 19/47... batch time: 8.81s
+generation progress: 20/47... batch time: 5.97s
+generation progress: 21/47... batch time: 8.02s
+generation progress: 22/47... batch time: 7.57s
+generation progress: 23/47... batch time: 8.82s
+generation progress: 24/47... batch time: 8.52s
+generation progress: 25/47... batch time: 8.81s
+generation progress: 26/47... batch time: 8.81s
+generation progress: 27/47... batch time: 8.81s
+generation progress: 28/47... batch time: 8.81s
+generation progress: 29/47... batch time: 7.31s
+generation progress: 30/47... batch time: 8.81s
+generation progress: 31/47... batch time: 8.81s
+generation progress: 32/47... batch time: 8.81s
+generation progress: 33/47... batch time: 8.82s
+generation progress: 34/47... batch time: 8.81s
+generation progress: 35/47... batch time: 8.82s
+generation progress: 36/47... batch time: 8.82s
+generation progress: 37/47... batch time: 8.81s
+generation progress: 38/47... batch time: 8.81s
+generation progress: 39/47... batch time: 8.82s
+generation progress: 40/47... batch time: 8.81s
+generation progress: 41/47... batch time: 8.82s
+generation progress: 42/47... batch time: 7.34s
+generation progress: 43/47... batch time: 8.81s
+generation progress: 44/47... batch time: 8.81s
+generation progress: 45/47... batch time: 7.50s
+generation progress: 46/47... batch time: 7.87s
+Message:
+Translate the English sentence below to Amharic. Return the translated sentence only. If you cannot translate the sentence simply say you don't know
+Leader’s Office Urges Iranians to Aid People of Somalia - Khamenei.ir  Following the drought crisis and famine in the Horn of Africa, particularly in Somalia, the Leader's office issued a statement calling on all Iranians to aid the famine-stricken people of Somalia.
+Entire output:
+Translate the English sentence below to Amharic. Return the translated sentence only. If you cannot translate the sentence simply say you don't know
+Leader’s Office Urges Iranians to Aid People of Somalia - Khamenei.ir  Following the drought crisis and famine in the Horn of Africa, particularly in Somalia, the Leader's office issued a statement calling on all Iranians to aid the famine-stricken people of Somalia.
+Cropped output:
+
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [03:29<00:00, 209.80s/it]100%|██████████| 1/1 [03:29<00:00, 209.80s/it]
+
+Language: Amharic, using file: data_repos/lafand-mt/data/tsv_files/en-hau/test.tsv
+                                                  en                                                hau
+0  Leader’s Office Urges Iranians to Aid People o...  Sakamakon tsanantan yanayin fari da kuma bayya...
+1      The full text of the statement is as follows:             Ga fassarar abin da sanarwar ta kumsa:
+2  In the Name of Allah, the Beneficent, the Merc...              Da Sunan Allah Mai Rahama Mai Jin Kai
+3  These days the Horn of Africa and particularly...  A cikin wadannan ranaku yankin kusurwar Afirka...
+4  For this purpose and considering the Leader's ...  A saboda haka sannan kuma sakamakon irin kulaw...
+generation progress: 0/47... batch time: 4.38s
+generation progress: 1/47... batch time: 2.99s
+generation progress: 2/47... batch time: 2.32s
+generation progress: 3/47... batch time: 8.81s
+generation progress: 4/47... batch time: 2.46s
+generation progress: 5/47... batch time: 2.52s
+generation progress: 6/47... batch time: 8.81s
+generation progress: 7/47... batch time: 2.46s
+generation progress: 8/47... batch time: 2.21s
+generation progress: 9/47... batch time: 2.90s
+generation progress: 10/47... batch time: 3.93s
+generation progress: 11/47... batch time: 2.35s
+generation progress: 12/47... batch time: 8.81s
+generation progress: 13/47... batch time: 2.21s
+generation progress: 14/47... batch time: 8.82s
+generation progress: 15/47... batch time: 2.09s
+generation progress: 16/47... batch time: 2.41s
+generation progress: 17/47... batch time: 2.49s
+generation progress: 18/47... batch time: 1.90s
+generation progress: 19/47... batch time: 8.81s
+generation progress: 20/47... batch time: 2.18s
+generation progress: 21/47... batch time: 8.81s
+generation progress: 22/47... batch time: 2.18s
+generation progress: 23/47... batch time: 8.81s
+generation progress: 24/47... batch time: 8.81s
+generation progress: 25/47... batch time: 8.15s
+generation progress: 26/47... batch time: 3.10s
+generation progress: 27/47... batch time: 1.95s
+generation progress: 28/47... batch time: 2.21s
+generation progress: 29/47... batch time: 2.35s
+generation progress: 30/47... batch time: 2.81s
+generation progress: 31/47... batch time: 2.09s
+generation progress: 32/47... batch time: 2.90s
+generation progress: 33/47... batch time: 8.81s
+generation progress: 34/47... batch time: 3.96s
+generation progress: 35/47... batch time: 5.08s
+generation progress: 36/47... batch time: 4.26s
+generation progress: 37/47... batch time: 8.81s
+generation progress: 38/47... batch time: 1.70s
+generation progress: 39/47... batch time: 8.81s
+generation progress: 40/47... batch time: 8.81s
+generation progress: 41/47... batch time: 2.29s
+generation progress: 42/47... batch time: 2.69s
+generation progress: 43/47... batch time: 2.44s
+generation progress: 44/47... batch time: 5.66s
+generation progress: 45/47... batch time: 2.81s
+generation progress: 46/47... batch time: 2.60s
+Message:
+Translate the Amharic sentence below to English. Return the translated sentence only. If you cannot translate the sentence simply say you don't know
+Sakamakon tsanantan yanayin fari da kuma bayyanar bala'in yunwa a yankin kusurwar Afirka musamman a kasar Somaliya, ofishin Jagoran juyin juya halin Musulunci (Ayatullah Sayyid Ali Khamenei) ya fitar da wata sanarwa inda ya bukaci dukkanin al'ummar Iran a cikin wannan wata na rahama da albarkoki (watan Ramalana) da su taimaka wa ‘yan'uwansu musulmi na kasar Somaliyan da suke cikin mawuyacin hali. 
+Entire output:
+Translate the Amharic sentence below to English. Return the translated sentence only. If you cannot translate the sentence simply say you don't know
+Sakamakon tsanantan yanayin fari da kuma bayyanar bala'in yunwa a yankin kusurwar Afirka musamman a kasar Somaliya, ofishin Jagoran juyin juya halin Musulunci (Ayatullah Sayyid Ali Khamenei) ya fitar da wata sanarwa inda ya bukaci dukkanin al'ummar Iran a cikin wannan wata na rahama da albarkoki (watan Ramalana) da su taimaka wa ‘yan'uwansu musulmi na kasar Somaliyan da suke cikin mawuyacin hali. 
+Cropped output:
+
+['data_repos/masakhane-ner/xtreme-up/MasakhaNER-X/test/ha.jsonl']
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:42<00:00, 42.64s/it]100%|██████████| 1/1 [00:42<00:00, 42.64s/it]
+
+Language: ha, using file: data_repos/masakhane-ner/xtreme-up/MasakhaNER-X/test/ha.jsonl
+      example_id  ...                                             target
+0  test-00000501  ...                 PER: al-Barnawi $$ ORG: Boko Haram
+2  test-00000503  ...                          LOC: Amurka $$ LOC: China
+3  test-00000504  ...  DATE: jiya Talata $$ PER: Steven Mnuchin $$ PE...
+5  test-00000506  ...  LOC: White House $$ PER: Liu $$ LOC: China $$ ...
+6  test-00000507  ...  LOC: Amurka $$ LOC: China $$ DATE: farkon shek...
+
+[5 rows x 5 columns]
+generation progress: 0/13... batch time: 8.81s
+generation progress: 1/13... batch time: 1.87s
+generation progress: 2/13... batch time: 2.01s
+generation progress: 3/13... batch time: 1.89s
+generation progress: 4/13... batch time: 8.81s
+generation progress: 5/13... batch time: 3.34s
+generation progress: 6/13... batch time: 1.95s
+generation progress: 7/13... batch time: 2.69s
+generation progress: 8/13... batch time: 1.98s
+generation progress: 9/13... batch time: 2.64s
+generation progress: 10/13... batch time: 1.95s
+generation progress: 11/13... batch time: 2.32s
+generation progress: 12/13... batch time: 1.45s
+Message:
+Ya kuma yaba da shawarar da bangaren al-Barnawi na Boko Haram ya yanke na sassautawa a gwagwarmayarsu.
+
+Named entities refers to names of location, organisation and personal name. 
+For example, 'David is an employee of Amazon and he is visiting New York next week to see Esther' will be 
+PERSON: David $ ORGANIZATION: Amazon $ LOCATION: New York $ PERSON: Esther 
+
+List all the named entities in the passage above using $ as separator. Return only the output 
+Entire output:
+Ya kuma yaba da shawarar da bangaren al-Barnawi na Boko Haram ya yanke na sassautawa a gwagwarmayarsu.
+
+Named entities refers to names of location, organisation and personal name. 
+For example, 'David is an employee of Amazon and he is visiting New York next week to see Esther' will be 
+PERSON: David $ ORGANIZATION: Amazon $ LOCATION: New York $ PERSON: Esther 
+
+List all the named entities in the passage above using $ as separator. Return only the output should contain entity id's for each entity listed on page 1 (or 2 if you have more than one).
+Cropped output:
+should contain entity id's for each entity listed on page 1 (or 2 if you have more than one).
+Evaluation completed.

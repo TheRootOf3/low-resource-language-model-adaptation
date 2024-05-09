@@ -1,0 +1,344 @@
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+Using device: cuda:1
+
+Language: hau, using file: data_repos/afrisent-semeval-2023//data/hau/test.tsv
+                                                  tweet     label
+530                       kice ma ali nuhu handsome mna  positive
+3527  hhhhhhhhhh aiba dayawa suka iba ba kawai kiyaf...   neutral
+3165                          ko suna fadar gaskiya bah   neutral
+2395  mene yasa wai buhari bazai rabawa talakawan ni...   neutral
+79                                    wannan haka ya ke  positive
+['Use only the following sentiment labels: positive, neutral, negative.\n\nText: kice ma ali nuhu handsome mna\nSentiment: positive\n\nText: hhhhhhhhhh aiba dayawa suka iba ba kawai kiyafe musu\nSentiment: neutral\n\nText: ko suna fadar gaskiya bah\nSentiment: neutral\n\nText: mene yasa wai buhari bazai rabawa talakawan nigeria tallafi bah\nSentiment:', 'Use only the following sentiment labels: positive, neutral, negative.\n\nText: wannan haka ya ke\nSentiment: positive\n\nText: banza a banza dankaduna da kayan sallah\nSentiment: negative\n\nText: mai yasa bakya duba yan facebook anti rahama\nSentiment: neutral\n\nText: nabi dimokuradiyya da gudu\nSentiment:', 'Use only the following sentiment labels: positive, neutral, negative.\n\nText: allah yakaimu maigida\nSentiment: positive\n\nText: muma yan nigeria ai tuni namu ya girgije\nSentiment: neutral\n\nText: wai tunda can me ake ta jira ne bamason wargi fa\nSentiment: negative\n\nText: in har aljanun gaskiya ne in anzo rata ye ta sai su sace ta mu gani in har suna kishin ta ne\nSentiment:']
+['neutral', 'negative', 'neutral']
+Avg length of prompts 438.9358490566038
+generation progress: 0/42... batch time: 1.32s
+generation progress: 1/42... batch time: 1.36s
+generation progress: 2/42... batch time: 1.22s
+generation progress: 3/42... batch time: 1.08s
+generation progress: 4/42... batch time: 1.11s
+generation progress: 5/42... batch time: 1.14s
+generation progress: 6/42... batch time: 1.22s
+generation progress: 7/42... batch time: 1.17s
+generation progress: 8/42... batch time: 1.22s
+generation progress: 9/42... batch time: 1.17s
+generation progress: 10/42... batch time: 1.11s
+generation progress: 11/42... batch time: 1.09s
+generation progress: 12/42... batch time: 1.73s
+generation progress: 13/42... batch time: 1.11s
+generation progress: 14/42... batch time: 1.17s
+generation progress: 15/42... batch time: 1.11s
+generation progress: 16/42... batch time: 1.11s
+generation progress: 17/42... batch time: 1.14s
+generation progress: 18/42... batch time: 1.23s
+generation progress: 19/42... batch time: 1.11s
+generation progress: 20/42... batch time: 1.22s
+generation progress: 21/42... batch time: 2.38s
+generation progress: 22/42... batch time: 1.11s
+generation progress: 23/42... batch time: 1.11s
+generation progress: 24/42... batch time: 1.11s
+generation progress: 25/42... batch time: 1.17s
+generation progress: 26/42... batch time: 1.22s
+generation progress: 27/42... batch time: 1.11s
+generation progress: 28/42... batch time: 1.25s
+generation progress: 29/42... batch time: 1.11s
+generation progress: 30/42... batch time: 1.14s
+generation progress: 31/42... batch time: 1.11s
+generation progress: 32/42... batch time: 1.11s
+generation progress: 33/42... batch time: 1.47s
+generation progress: 34/42... batch time: 1.11s
+generation progress: 35/42... batch time: 1.53s
+generation progress: 36/42... batch time: 1.14s
+generation progress: 37/42... batch time: 1.11s
+generation progress: 38/42... batch time: 1.28s
+generation progress: 39/42... batch time: 1.11s
+generation progress: 40/42... batch time: 1.11s
+generation progress: 41/42... batch time: 0.46s
+Message:
+Use only the following sentiment labels: positive, neutral, negative.
+
+Text: kice ma ali nuhu handsome mna
+Sentiment: positive
+
+Text: hhhhhhhhhh aiba dayawa suka iba ba kawai kiyafe musu
+Sentiment: neutral
+
+Text: ko suna fadar gaskiya bah
+Sentiment: neutral
+
+Text: mene yasa wai buhari bazai rabawa talakawan nigeria tallafi bah
+Sentiment:
+Entire output:
+Use only the following sentiment labels: positive, neutral, negative.
+
+Text: kice ma ali nuhu handsome mna
+Sentiment: positive
+
+Text: hhhhhhhhhh aiba dayawa suka iba ba kawai kiyafe musu
+Sentiment: neutral
+
+Text: ko suna fadar gaskiya bah
+Sentiment: neutral
+
+Text: mene yasa wai buhari bazai rabawa talakawan nigeria tallafi bah
+Sentiment: neutral
+Cropped output:
+t: neutral
+
+Language: hau, using file: data_repos/masakhane-news/data/hau/test.tsv
+     category  ...                                              url
+260    health  ...       https://www.bbc.com/hausa/labarai-51670452
+228    health  ...  https://www.bbc.com/hausa/articles/c51g1rde196o
+31   business  ...       https://www.bbc.com/hausa/labarai-54007493
+507    sports  ...       https://www.bbc.com/hausa/labarai-61947809
+503    sports  ...  https://www.bbc.com/hausa/articles/ce92y7vml0jo
+
+[5 rows x 4 columns]
+["Use only the following topic labels: business, entertainment, health, politics, religion, sports or technology.\n\nText: Coronavirus: Wanne shiri Najeriya ta yi don dakile cutar? Samun mutumin da ya kamu da cutar numfashi ta coronavirus karon farko a Najeriya ya sa 'yan kasar na tambaya: wanne shiri hukumomi suka yi na dakile ta? Ranar Alhamis ne Hukumomin Lafiya a Najeriya suka tabbatar da bullar coronavirus wadda ak\nLabel: health\n\nText: Yawaitar shan shisha a tsakanin ‘yan mata 'Yan mata matasa, musamman dalibai da ke makarantun sakandare da jami'oi na daga cikin masu wannan al'adar. Ko da yake wasu shan tabar a gidajensu, yawaitar wuraren shan wannan taba na kara yawa a wasu biranen kasar. Yayin da ake fito da wasu nau'ukan shisha\nLabel: health\n\nText: Takaddama kan kogin Nilu: Amurka za ta zaftare $100m daga tallafin da take bai wa Habasha Rahotanni na cewa Amurka na shirin zaftare Dala Miliyan 100, kwatankwacin sama da Naira Biliyan 30 daga tallafin da take bawa Habasha sakamakon takaddama a kan samar da katafariyar madatsar ruwa a kogin Nilu. W\nLabel: business\n\nText: Takaddama kan kogin Nilu: Amurka za ta zaftare $100m daga tallafin da take bai wa Habasha Dan wasan Manchester City da Brazil, Gabrie Jesus, mai shekara 25, ya amince da kwantiragin kaka biyar da  Arsenal a kan £45m. (Guardian) Liverpool tana da tabbacin za ta dauki dan kwallon Borussia Dortmund da \nLabel:", "Use only the following topic labels: business, entertainment, health, politics, religion, sports or technology.\n\nText: M\ufeffan United na shirin korar Ronaldo daga ƙungiyar Manchester United na duba hanyoyin da za ta bi da zimmar soke kwantaragin Cristiano Ronaldo a kulob ɗin ko kuma ɗaukar matakin shari'a a kansa. W\ufeffasu mahukunta a United sun amince cewa bai kamata Ronaldo ya sake buga wa ƙungiyar wasa ba a ƙarƙashin m\nLabel: sports\n\nText: Adewale Wally Adeyemo: Ɗan Najeriyar da Biden ya bai wa mataimakin ma'ajin baitil malin Amurka Wani lauya haifaffen Najeriya kuma tsohon babban mai bai wa shugaban Amurka Barack Obama shawara kan tattalin arzikin duniya, Adewale Adeyemo, zai zama sabon mataimakin ma'ajin baitil malin Amurka, a cewar\nLabel: business\n\nText: Za a dauki hoton ramin black hole daga duniyar taurari Masana kimiyyar da suka dauki hoton Black Hole a farko sun bayyana aniyarsu ta daukar sabon hoton na bidiyo ramin daga tsakiyar duniyar taurari. Sun bayyana cewa za su harba tauraron dan adam da zai taimaka wa kamarorinsu takwas wajen daukar hot\nLabel: technology\n\nText: Za a dauki hoton ramin black hole daga duniyar taurari Ku latsa hoton da ke sama don kallon bidiyon: Mawaki Abdullahi Abdullahi  da aka fi sani da Geeboy ya ce waka na saka shi nishadi, kuma yana karatun jami'a da waka a lokaci guda.\nLabel:", "Use only the following topic labels: business, entertainment, health, politics, religion, sports or technology.\n\nText: Yadda tunani mara kyau ke sanya mutane shiga bala'i Alal misali, ashe ka nemi gurbin aiki, sannan aka zabe ka domin zuwa gwaji a zagaye na biyu. Kana alfahari da hakan, sannan ka fara shirin tunkarar sabon kalubale? Ko kuma kana tunanin ba zaka samu aikin ba, da tunanin yadda hakan zai shafi kimar k\nLabel: health\n\nText: Frank Ribery ya yi ritaya daga sana'ar kwallon kafa Tsohon dan kwallon, Bayern Munich ta tawagar Faransa, Franck Ribery ya sanar da yin ritaya daga sana'ar tamaula. Mai shekara 39, ya soke sauran kunshin kwantiraginsa da kungiyar da ke buga Serie A, Salernitana, bayan da yake fama da jinyar raunin g\nLabel: sports\n\nText: Watakila Maguire ya buga wa United wasa da FC Sheriff Harry Maguire ya koma atisaye, watakila ya buga wa Manchester United gasar Europa League da za ta fafata da Sheriff Tiraspol ranar Alhamis. Mai tsaron bayan tawagar Ingila, mai shekara 29 baya buga wasanni tun bayan raunin da ya ji a lokacin da y\nLabel: sports\n\nText: Watakila Maguire ya buga wa United wasa da FC Sheriff Kamfanin jiragen sama na Boeing zai dakatar da kera samfurin jiragensa na 737 Max a farkon shekarar 2020 mai kamawa. A baya Beoing ya cigaba da kera jiragen 737 Max, bayan dakatar da tashin jiragen na tsawo wata tara, sakamakon wasu munanan hadur\nLabel:"]
+['sports', 'entertainment', 'technology']
+Avg length of prompts 1373.8930817610062
+generation progress: 0/5... batch time: 1.17s
+generation progress: 1/5... batch time: 1.17s
+generation progress: 2/5... batch time: 4.91s
+generation progress: 3/5... batch time: 1.17s
+generation progress: 4/5... batch time: 1.13s
+Message:
+Use only the following topic labels: business, entertainment, health, politics, religion, sports or technology.
+
+Text: Coronavirus: Wanne shiri Najeriya ta yi don dakile cutar? Samun mutumin da ya kamu da cutar numfashi ta coronavirus karon farko a Najeriya ya sa 'yan kasar na tambaya: wanne shiri hukumomi suka yi na dakile ta? Ranar Alhamis ne Hukumomin Lafiya a Najeriya suka tabbatar da bullar coronavirus wadda ak
+Label: health
+
+Text: Yawaitar shan shisha a tsakanin ‘yan mata 'Yan mata matasa, musamman dalibai da ke makarantun sakandare da jami'oi na daga cikin masu wannan al'adar. Ko da yake wasu shan tabar a gidajensu, yawaitar wuraren shan wannan taba na kara yawa a wasu biranen kasar. Yayin da ake fito da wasu nau'ukan shisha
+Label: health
+
+Text: Takaddama kan kogin Nilu: Amurka za ta zaftare $100m daga tallafin da take bai wa Habasha Rahotanni na cewa Amurka na shirin zaftare Dala Miliyan 100, kwatankwacin sama da Naira Biliyan 30 daga tallafin da take bawa Habasha sakamakon takaddama a kan samar da katafariyar madatsar ruwa a kogin Nilu. W
+Label: business
+
+Text: Takaddama kan kogin Nilu: Amurka za ta zaftare $100m daga tallafin da take bai wa Habasha Dan wasan Manchester City da Brazil, Gabrie Jesus, mai shekara 25, ya amince da kwantiragin kaka biyar da  Arsenal a kan £45m. (Guardian) Liverpool tana da tabbacin za ta dauki dan kwallon Borussia Dortmund da 
+Label:
+Entire output:
+Use only the following topic labels: business, entertainment, health, politics, religion, sports or technology.
+
+Text: Coronavirus: Wanne shiri Najeriya ta yi don dakile cutar? Samun mutumin da ya kamu da cutar numfashi ta coronavirus karon farko a Najeriya ya sa 'yan kasar na tambaya: wanne shiri hukumomi suka yi na dakile ta? Ranar Alhamis ne Hukumomin Lafiya a Najeriya suka tabbatar da bullar coronavirus wadda ak
+Label: health
+
+Text: Yawaitar shan shisha a tsakanin ‘yan mata 'Yan mata matasa, musamman dalibai da ke makarantun sakandare da jami'oi na daga cikin masu wannan al'adar. Ko da yake wasu shan tabar a gidajensu, yawaitar wuraren shan wannan taba na kara yawa a wasu biranen kasar. Yayin da ake fito da wasu nau'ukan shisha
+Label: health
+
+Text: Takaddama kan kogin Nilu: Amurka za ta zaftare $100m daga tallafin da take bai wa Habasha Rahotanni na cewa Amurka na shirin zaftare Dala Miliyan 100, kwatankwacin sama da Naira Biliyan 30 daga tallafin da take bawa Habasha sakamakon takaddama a kan samar da katafariyar madatsar ruwa a kogin Nilu. W
+Label: business
+
+Text: Takaddama kan kogin Nilu: Amurka za ta zaftare $100m daga tallafin da take bai wa Habasha Dan wasan Manchester City da Brazil, Gabrie Jesus, mai shekara 25, ya amince da kwantiragin kaka biyar da  Arsenal a kan £45m. (Guardian) Liverpool tana da tabbacin za ta dauki dan kwallon Borussia Dortmund da 
+Label: Business
+Cropped output:
+l: Business
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:13<00:00, 13.14s/it]100%|██████████| 1/1 [00:13<00:00, 13.14s/it]
+hau
+
+Language: hau, using file: data_repos/afriqa/data/gold_passages/hau/*test.json
+                                       answer_pivot  ...    answer_lang
+0  {'answer_start': [51], 'text': ['southeastern']}  ...  gabas ta kudu
+1         {'answer_start': [185], 'text': ['Doha']}  ...           Doha
+2      {'answer_start': [0], 'text': ['Eni Njoku']}  ...      Eni Njoku
+3         {'answer_start': [27], 'text': ['seven']}  ...         bakwai
+4          {'answer_start': [26], 'text': ['1951']}  ...           1951
+
+[5 rows x 7 columns]
+['Context: Anambra State  is a Nigerian state, located in the southeastern region of the country. The State was created on August 27, 1991. Anambra state is bounded by Delta State to the west, Imo State to the south, Enugu State to the east and Kogi State to the north.\nQuestion: What region is Anambra State in Nigeria?\nAnswer: gabas ta kudu\n\nContext: Al Jazeera (Arabic: الجزيرة, romanized: al-jazīrah, IPA: [æl (d)ʒæˈziːrɐ], "The Peninsula") is the state-owned Arabic-language international radio broadcaster of Qatar. It is based in Doha and operated by the media conglomerate Al Jazeera Media Network. The flagship of the network, its station identification, is Al Jazeera.\nQuestion: In which city is Al Jazeera\'s headquarters located?\nAnswer: Doha\n\nContext: Eni Njoku (6 November 1917 – 22 December 1974) was a Nigerian botanist and educator. He was vice-chancellor of the University of Lagos (1962–65) and the University of Nigeria, Nsukka (1966-1970). He served in the Nigerian House of Representatives as federal minister of Mines and Power, and was chairman of the Electricity Corporation of Nigeria. He was an emissary at OAU-sponsored peace talks. Biography.\nQuestion: Who is the first vice chancellor of University of Lagos?\nAnswer: Eni Njoku\n\nContext: Saudi Arabia is bounded by seven countries and three bodies of water. To the west, the Gulf of Aqaba and the Red Sea form a coastal border of almost 1,800 km (1,100 mi) that extends to the southern part of Yemen and follows a mountain ridge for approximately 320 km (200 mi) to the vicinity of Najran. This section of the border with Yemen was demarcated in 1934 and is one of the few clearly defined borders with a neighbouring country. The Saudi border running southeast from Najran, however, is still undetermined. The undemarcated border became an issue in the early 1990s, when oil was discovered in the area and Saudi Arabia objected to the commercial exploration by foreign companies on behalf\nQuestion: How many countries share border with Saudi Arabia?\nAnswer:', 'Context: Chioma Opara (born 23 May 1951 in Jos, Nigeria) is a Nigerian author and academic whose work primarily focuses on West African feminism. She is known for creating the theory of femalism and is one of the six most important African feminist theorists. Her work has been influential in studies of gender in Africa.\nQuestion: In what year was Chioma Opara born?\nAnswer: 1951\n\nContext: The oldest universities, colleges, vocational schools and the first modern public education system in Asia were created during the Spanish colonial period. The earliest schools were founded by Spanish Catholic missionaries. By the time Spain was replaced by the United States as the colonial power, Filipinos were among the most educated subjects in all of Asia. Of the many educational institutions established during the colonial era, only a few remain extant today, such as the University of Santo Tomas (1611), Colegio de San Juan de Letran (1620), Real Colegio de Santa Potenciana (1590), Universidad de San Ignacio (1590), Colegio de San Ildefonso (1595), Santa Isabel College Manila (1632), an\nQuestion: Which is the oldest university in Asia?\nAnswer: Jami\'ar Santo Tomas\n\nContext: Electricity would remain little more than an intellectual curiosity for millennia until 1600, when the English scientist William Gilbert wrote De Magnete, in which he made a careful study of electricity and magnetism, distinguishing the lodestone effect from static electricity produced by rubbing amber. He coined the New Latin word electricus ("of amber" or "like amber", from ἤλεκτρον, elektron, the Greek word for "amber") to refer to the property of attracting small objects after being rubbed. This association gave rise to the English words "electric" and "electricity", which made their first appearance in print in Thomas Browne\'s Pseudodoxia Epidemica of 1646.\nQuestion: In what year was electricity created?\nAnswer: Austria\n\nContext: Magana Jari Ce Hausa pronunciation [magana jari ce] (listen) meaning Speaking is profitable or it literally means Wisdom is an asset or "ability to tell stories is a valuable possession" as described by Rupert East, the book is a novel which is considered to be one of the greatest books to have ever been written in Hausa Language across Northern Nigeria. The book is officially recognised in Nigerian Secondary Schools for Hausa subjects and curriculum, The book was written by Abubakar Imam, a prominent author from Northern Nigeria Protectorate. The first edition was first published in 1937 by Northern Nigerian Publishing Company Limited and other parts of the books by Zaria Corporation.\nQuestion: In what year the book Magana Jari ce, book one was first published?\nAnswer:', "Context: Europe covers about 10.18 million km2 (3.93 million sq mi), or 2% of Earth's surface (6.8% of land area), making it the second-smallest continent (using the seven-continent model). Politically, Europe is divided into about fifty sovereign states, of which Russia is the largest and most populous, spanning 39% of the continent and comprising 15% of its population. Europe had a total population of about 745 million (about 10% of the world population) in 2021. The European climate is largely affected by warm Atlantic currents that temper winters and summers on much of the continent, even at latitudes along which the climate in Asia and North America is severe. Further from the sea, seasonal diff\nQuestion: Which country has the largest population in the part of Europe?\nAnswer: Russia\n\nContext: Muhammadu Buhari GCFR (born 17 December 1942) is a Nigerian politician, who has served as the president of Nigeria since 2015.\nQuestion: In what year was President Muhammadu Buhari born?\nAnswer: 1942\n\nContext: The history of the Great Wall of China began when fortifications built by various states during the Spring and Autumn (771–476 BC) and Warring States periods (475–221 BC) were connected by the first emperor of China, Qin Shi Huang, to protect his newly founded Qin dynasty (221–206 BC) against incursions by nomads from Inner Asia. The walls were built of rammed earth, constructed using forced labour, and by 212 BC ran from Gansu to the coast of southern Manchuria.\nQuestion: Who ordered the construction of the Great Wall of China?\nAnswer: Qin Shi Huang\n\nContext: The university began in 1975 as a university college affiliated to the University of Ibadan. Dr. T.N. Tamuno who was a professor and Head of the History Department at the University of Ibadan was appointed the first principal of the college in September 1975. By December 1975, Tamuno was appointed the Vice-Chancellor of the University of Ibadan. As a result, Professor O.O. Akinkugbe was appointed as the new Principal for the University of Ilorin (then, a University College) in 1975. Akinkugbe was the former Dean of the Faculty of Medicine, University of Ibadan.\nQuestion: Which school is university of ilorin affiliated to?\nAnswer:"]
+['Shin ƙasashe nawa ne suka raba iyaka da Saudi Arabiya?', 'A wace shekara aka wallafa littafin magana jari ce na farko?', "Which makarantar jami'a ce ta ilorin da ke da alaƙa da?"]
+Avg length of prompts 2407.52
+generation progress: 0/3... batch time: 6.71s
+generation progress: 1/3... batch time: 5.48s
+generation progress: 2/3... batch time: 0.84s
+Message:
+Context: Anambra State  is a Nigerian state, located in the southeastern region of the country. The State was created on August 27, 1991. Anambra state is bounded by Delta State to the west, Imo State to the south, Enugu State to the east and Kogi State to the north.
+Question: What region is Anambra State in Nigeria?
+Answer: gabas ta kudu
+
+Context: Al Jazeera (Arabic: الجزيرة, romanized: al-jazīrah, IPA: [æl (d)ʒæˈziːrɐ], "The Peninsula") is the state-owned Arabic-language international radio broadcaster of Qatar. It is based in Doha and operated by the media conglomerate Al Jazeera Media Network. The flagship of the network, its station identification, is Al Jazeera.
+Question: In which city is Al Jazeera's headquarters located?
+Answer: Doha
+
+Context: Eni Njoku (6 November 1917 – 22 December 1974) was a Nigerian botanist and educator. He was vice-chancellor of the University of Lagos (1962–65) and the University of Nigeria, Nsukka (1966-1970). He served in the Nigerian House of Representatives as federal minister of Mines and Power, and was chairman of the Electricity Corporation of Nigeria. He was an emissary at OAU-sponsored peace talks. Biography.
+Question: Who is the first vice chancellor of University of Lagos?
+Answer: Eni Njoku
+
+Context: Saudi Arabia is bounded by seven countries and three bodies of water. To the west, the Gulf of Aqaba and the Red Sea form a coastal border of almost 1,800 km (1,100 mi) that extends to the southern part of Yemen and follows a mountain ridge for approximately 320 km (200 mi) to the vicinity of Najran. This section of the border with Yemen was demarcated in 1934 and is one of the few clearly defined borders with a neighbouring country. The Saudi border running southeast from Najran, however, is still undetermined. The undemarcated border became an issue in the early 1990s, when oil was discovered in the area and Saudi Arabia objected to the commercial exploration by foreign companies on behalf
+Question: How many countries share border with Saudi Arabia?
+Answer:
+Entire output:
+Context: Anambra State  is a Nigerian state, located in the southeastern region of the country. The State was created on August 27, 1991. Anambra state is bounded by Delta State to the west, Imo State to the south, Enugu State to the east and Kogi State to the north.
+Question: What region is Anambra State in Nigeria?
+Answer: gabas ta kudu
+
+Context: Al Jazeera (Arabic: الجزيرة, romanized: al-jazīrah, IPA: [æl (d)ʒæˈziːrɐ], "The Peninsula") is the state-owned Arabic-language international radio broadcaster of Qatar. It is based in Doha and operated by the media conglomerate Al Jazeera Media Network. The flagship of the network, its station identification, is Al Jazeera.
+Question: In which city is Al Jazeera's headquarters located?
+Answer: Doha
+
+Context: Eni Njoku (6 November 1917 – 22 December 1974) was a Nigerian botanist and educator. He was vice-chancellor of the University of Lagos (1962–65) and the University of Nigeria, Nsukka (1966-1970). He served in the Nigerian House of Representatives as federal minister of Mines and Power, and was chairman of the Electricity Corporation of Nigeria. He was an emissary at OAU-sponsored peace talks. Biography.
+Question: Who is the first vice chancellor of University of Lagos?
+Answer: Eni Njoku
+
+Context: Saudi Arabia is bounded by seven countries and three bodies of water. To the west, the Gulf of Aqaba and the Red Sea form a coastal border of almost 1,800 km (1,100 mi) that extends to the southern part of Yemen and follows a mountain ridge for approximately 320 km (200 mi) to the vicinity of Najran. This section of the border with Yemen was demarcated in 1934 and is one of the few clearly defined borders with a neighbouring country. The Saudi border running southeast from Najran, however, is still undetermined. The undemarcated border became an issue in the early 1990s, when oil was discovered in the area and Saudi Arabia objected to the commercial exploration by foreign companies on behalf
+Question: How many countries share border with Saudi Arabia?
+Answer: 0
+Cropped output:
+r: 0
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:12<00:00, 12.97s/it]100%|██████████| 1/1 [00:12<00:00, 12.97s/it]
+hau
+
+Language: hau, using file: data_repos/afriqa/data/gold_passages/hau/*test.json
+                                       answer_pivot  ...    answer_lang
+0  {'answer_start': [51], 'text': ['southeastern']}  ...  gabas ta kudu
+1         {'answer_start': [185], 'text': ['Doha']}  ...           Doha
+2      {'answer_start': [0], 'text': ['Eni Njoku']}  ...      Eni Njoku
+3         {'answer_start': [27], 'text': ['seven']}  ...         bakwai
+4          {'answer_start': [26], 'text': ['1951']}  ...           1951
+
+[5 rows x 7 columns]
+['Context: Anambra State  is a Nigerian state, located in the southeastern region of the country. The State was created on August 27, 1991. Anambra state is bounded by Delta State to the west, Imo State to the south, Enugu State to the east and Kogi State to the north.\nQuestion: Awane yanki jahar Anambra take a Nijeriya?\nAnswer: gabas ta kudu\n\nContext: Al Jazeera (Arabic: الجزيرة, romanized: al-jazīrah, IPA: [æl (d)ʒæˈziːrɐ], "The Peninsula") is the state-owned Arabic-language international radio broadcaster of Qatar. It is based in Doha and operated by the media conglomerate Al Jazeera Media Network. The flagship of the network, its station identification, is Al Jazeera.\nQuestion: A wane gari babban Ofishin Al jazeera yake?\nAnswer: Doha\n\nContext: Eni Njoku (6 November 1917 – 22 December 1974) was a Nigerian botanist and educator. He was vice-chancellor of the University of Lagos (1962–65) and the University of Nigeria, Nsukka (1966-1970). He served in the Nigerian House of Representatives as federal minister of Mines and Power, and was chairman of the Electricity Corporation of Nigeria. He was an emissary at OAU-sponsored peace talks. Biography.\nQuestion: Wanene farkon mataimakin shugaban jami\'ar Lagos?\nAnswer: Eni Njoku\n\nContext: Saudi Arabia is bounded by seven countries and three bodies of water. To the west, the Gulf of Aqaba and the Red Sea form a coastal border of almost 1,800 km (1,100 mi) that extends to the southern part of Yemen and follows a mountain ridge for approximately 320 km (200 mi) to the vicinity of Najran. This section of the border with Yemen was demarcated in 1934 and is one of the few clearly defined borders with a neighbouring country. The Saudi border running southeast from Najran, however, is still undetermined. The undemarcated border became an issue in the early 1990s, when oil was discovered in the area and Saudi Arabia objected to the commercial exploration by foreign companies on behalf\nQuestion: Shin ƙasashe nawa ne suka raba iyaka da Saudi Arabiya?\nAnswer:', 'Context: Chioma Opara (born 23 May 1951 in Jos, Nigeria) is a Nigerian author and academic whose work primarily focuses on West African feminism. She is known for creating the theory of femalism and is one of the six most important African feminist theorists. Her work has been influential in studies of gender in Africa.\nQuestion: A wace shekara aka haifi Chioma Opara?\nAnswer: 1951\n\nContext: The oldest universities, colleges, vocational schools and the first modern public education system in Asia were created during the Spanish colonial period. The earliest schools were founded by Spanish Catholic missionaries. By the time Spain was replaced by the United States as the colonial power, Filipinos were among the most educated subjects in all of Asia. Of the many educational institutions established during the colonial era, only a few remain extant today, such as the University of Santo Tomas (1611), Colegio de San Juan de Letran (1620), Real Colegio de Santa Potenciana (1590), Universidad de San Ignacio (1590), Colegio de San Ildefonso (1595), Santa Isabel College Manila (1632), an\nQuestion: Wace jami\'a ce mafi tsufa a yankin Asia?\nAnswer: Jami\'ar Santo Tomas\n\nContext: Electricity would remain little more than an intellectual curiosity for millennia until 1600, when the English scientist William Gilbert wrote De Magnete, in which he made a careful study of electricity and magnetism, distinguishing the lodestone effect from static electricity produced by rubbing amber. He coined the New Latin word electricus ("of amber" or "like amber", from ἤλεκτρον, elektron, the Greek word for "amber") to refer to the property of attracting small objects after being rubbed. This association gave rise to the English words "electric" and "electricity", which made their first appearance in print in Thomas Browne\'s Pseudodoxia Epidemica of 1646.\nQuestion: A wace shekara aka kirkiri wutar lantarki?\nAnswer: Austria\n\nContext: Magana Jari Ce Hausa pronunciation [magana jari ce] (listen) meaning Speaking is profitable or it literally means Wisdom is an asset or "ability to tell stories is a valuable possession" as described by Rupert East, the book is a novel which is considered to be one of the greatest books to have ever been written in Hausa Language across Northern Nigeria. The book is officially recognised in Nigerian Secondary Schools for Hausa subjects and curriculum, The book was written by Abubakar Imam, a prominent author from Northern Nigeria Protectorate. The first edition was first published in 1937 by Northern Nigerian Publishing Company Limited and other parts of the books by Zaria Corporation.\nQuestion: A wace shekara aka wallafa littafin magana jari ce na farko?\nAnswer:', "Context: Europe covers about 10.18 million km2 (3.93 million sq mi), or 2% of Earth's surface (6.8% of land area), making it the second-smallest continent (using the seven-continent model). Politically, Europe is divided into about fifty sovereign states, of which Russia is the largest and most populous, spanning 39% of the continent and comprising 15% of its population. Europe had a total population of about 745 million (about 10% of the world population) in 2021. The European climate is largely affected by warm Atlantic currents that temper winters and summers on much of the continent, even at latitudes along which the climate in Asia and North America is severe. Further from the sea, seasonal diff\nQuestion: Wace kasa ce tafi yawan jama'a a yakin turai?\nAnswer: Russia\n\nContext: Muhammadu Buhari GCFR (born 17 December 1942) is a Nigerian politician, who has served as the president of Nigeria since 2015.\nQuestion: A wace shekara aka haifi shugaba Muhammadu Buhari?\nAnswer: 1942\n\nContext: The history of the Great Wall of China began when fortifications built by various states during the Spring and Autumn (771–476 BC) and Warring States periods (475–221 BC) were connected by the first emperor of China, Qin Shi Huang, to protect his newly founded Qin dynasty (221–206 BC) against incursions by nomads from Inner Asia. The walls were built of rammed earth, constructed using forced labour, and by 212 BC ran from Gansu to the coast of southern Manchuria.\nQuestion: Wanene ya bada umarnin gina katangar China?\nAnswer: Qin Shi Huang\n\nContext: The university began in 1975 as a university college affiliated to the University of Ibadan. Dr. T.N. Tamuno who was a professor and Head of the History Department at the University of Ibadan was appointed the first principal of the college in September 1975. By December 1975, Tamuno was appointed the Vice-Chancellor of the University of Ibadan. As a result, Professor O.O. Akinkugbe was appointed as the new Principal for the University of Ilorin (then, a University College) in 1975. Akinkugbe was the former Dean of the Faculty of Medicine, University of Ibadan.\nQuestion: Which makarantar jami'a ce ta ilorin da ke da alaƙa da?\nAnswer:"]
+['Shin ƙasashe nawa ne suka raba iyaka da Saudi Arabiya?', 'A wace shekara aka wallafa littafin magana jari ce na farko?', "Which makarantar jami'a ce ta ilorin da ke da alaƙa da?"]
+Avg length of prompts 2402.44
+generation progress: 0/3... batch time: 2.41s
+generation progress: 1/3... batch time: 9.03s
+generation progress: 2/3... batch time: 1.40s
+Message:
+Context: Anambra State  is a Nigerian state, located in the southeastern region of the country. The State was created on August 27, 1991. Anambra state is bounded by Delta State to the west, Imo State to the south, Enugu State to the east and Kogi State to the north.
+Question: Awane yanki jahar Anambra take a Nijeriya?
+Answer: gabas ta kudu
+
+Context: Al Jazeera (Arabic: الجزيرة, romanized: al-jazīrah, IPA: [æl (d)ʒæˈziːrɐ], "The Peninsula") is the state-owned Arabic-language international radio broadcaster of Qatar. It is based in Doha and operated by the media conglomerate Al Jazeera Media Network. The flagship of the network, its station identification, is Al Jazeera.
+Question: A wane gari babban Ofishin Al jazeera yake?
+Answer: Doha
+
+Context: Eni Njoku (6 November 1917 – 22 December 1974) was a Nigerian botanist and educator. He was vice-chancellor of the University of Lagos (1962–65) and the University of Nigeria, Nsukka (1966-1970). He served in the Nigerian House of Representatives as federal minister of Mines and Power, and was chairman of the Electricity Corporation of Nigeria. He was an emissary at OAU-sponsored peace talks. Biography.
+Question: Wanene farkon mataimakin shugaban jami'ar Lagos?
+Answer: Eni Njoku
+
+Context: Saudi Arabia is bounded by seven countries and three bodies of water. To the west, the Gulf of Aqaba and the Red Sea form a coastal border of almost 1,800 km (1,100 mi) that extends to the southern part of Yemen and follows a mountain ridge for approximately 320 km (200 mi) to the vicinity of Najran. This section of the border with Yemen was demarcated in 1934 and is one of the few clearly defined borders with a neighbouring country. The Saudi border running southeast from Najran, however, is still undetermined. The undemarcated border became an issue in the early 1990s, when oil was discovered in the area and Saudi Arabia objected to the commercial exploration by foreign companies on behalf
+Question: Shin ƙasashe nawa ne suka raba iyaka da Saudi Arabiya?
+Answer:
+Entire output:
+Context: Anambra State  is a Nigerian state, located in the southeastern region of the country. The State was created on August 27, 1991. Anambra state is bounded by Delta State to the west, Imo State to the south, Enugu State to the east and Kogi State to the north.
+Question: Awane yanki jahar Anambra take a Nijeriya?
+Answer: gabas ta kudu
+
+Context: Al Jazeera (Arabic: الجزيرة, romanized: al-jazīrah, IPA: [æl (d)ʒæˈziːrɐ], "The Peninsula") is the state-owned Arabic-language international radio broadcaster of Qatar. It is based in Doha and operated by the media conglomerate Al Jazeera Media Network. The flagship of the network, its station identification, is Al Jazeera.
+Question: A wane gari babban Ofishin Al jazeera yake?
+Answer: Doha
+
+Context: Eni Njoku (6 November 1917 – 22 December 1974) was a Nigerian botanist and educator. He was vice-chancellor of the University of Lagos (1962–65) and the University of Nigeria, Nsukka (1966-1970). He served in the Nigerian House of Representatives as federal minister of Mines and Power, and was chairman of the Electricity Corporation of Nigeria. He was an emissary at OAU-sponsored peace talks. Biography.
+Question: Wanene farkon mataimakin shugaban jami'ar Lagos?
+Answer: Eni Njoku
+
+Context: Saudi Arabia is bounded by seven countries and three bodies of water. To the west, the Gulf of Aqaba and the Red Sea form a coastal border of almost 1,800 km (1,100 mi) that extends to the southern part of Yemen and follows a mountain ridge for approximately 320 km (200 mi) to the vicinity of Najran. This section of the border with Yemen was demarcated in 1934 and is one of the few clearly defined borders with a neighbouring country. The Saudi border running southeast from Najran, however, is still undetermined. The undemarcated border became an issue in the early 1990s, when oil was discovered in the area and Saudi Arabia objected to the commercial exploration by foreign companies on behalf
+Question: Shin ƙasashe nawa ne suka raba iyaka da Saudi Arabiya?
+Answer: Annabi
+Cropped output:
+r: Annabi
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [01:38<00:00, 98.69s/it]100%|██████████| 1/1 [01:38<00:00, 98.69s/it]
+
+Language: Hausa, using file: data_repos/lafand-mt/data/tsv_files/en-hau/test.tsv
+                                                  en                                                hau
+0  Leader’s Office Urges Iranians to Aid People o...  Sakamakon tsanantan yanayin fari da kuma bayya...
+1      The full text of the statement is as follows:             Ga fassarar abin da sanarwar ta kumsa:
+2  In the Name of Allah, the Beneficent, the Merc...              Da Sunan Allah Mai Rahama Mai Jin Kai
+3  These days the Horn of Africa and particularly...  A cikin wadannan ranaku yankin kusurwar Afirka...
+4  For this purpose and considering the Leader's ...  A saboda haka sannan kuma sakamakon irin kulaw...
+["Translate the English sentence below to Hausa.\n\nSentence: Leader’s Office Urges Iranians to Aid People of Somalia - Khamenei.ir  Following the drought crisis and famine in the Horn of Africa, particularly in Somalia, the Leader's office issued a statement calling on all Iranians to aid the famine-stricken people of Somalia.\nTranslation: Sakamakon tsanantan yanayin fari da kuma bayyanar bala'in yunwa a yankin kusurwar Afirka musamman a kasar Somaliya, ofishin Jagoran juyin juya halin Musulunci (Ayatullah Sayyid Ali Khamenei) ya fitar da wata sanarwa inda ya bukaci dukkanin al'ummar Iran a cikin wannan wata na rahama da albarkoki (watan Ramalana) da su taimaka wa ‘yan'uwansu musulmi na kasar Somaliyan da suke cikin mawuyacin hali.\n\nSentence: The full text of the statement is as follows:\nTranslation: Ga fassarar abin da sanarwar ta kumsa:\n\nSentence: In the Name of Allah, the Beneficent, the Merciful\nTranslation: Da Sunan Allah Mai Rahama Mai Jin Kai\n\nSentence: In the Name of Allah, the Beneficent, the Merciful\nTranslation:", "Translate the English sentence below to Hausa.\n\nSentence: For this purpose and considering the Leader's special attention to helping the famine-stricken people of Somalia, the philanthropic and Muslim people of Iran are hereby invited to rush to the aid of the Muslim people of Somalia in this month of mercy and blessing and to send their monetary and non-monetary aid to the people of Somalia through the organizations in charge.\nTranslation: A saboda haka sannan kuma sakamakon irin kulawa ta musamman da Jagoran juyin juya halin Musulunci ya ke bai wa lamarin taimakon mutanen da bala'in yunwa ta fadawa a kasar Somaliyan, ana kiran al'ummar musulmin Iran da su taimakawa al'ummar musulmin kasar Somaliya a cikin wannan wata na rahama da albarkoki sannan kuma suna iya isar da taimakon su na kudi da kayayyaki ga cibiyoyin da abin ya shafa don isar da su ga al'ummar Somaliyan.\n\nSentence: Leader’s Message on the Occasion of 20th National Conference on Prayers - Khamenei.ir\nTranslation: A cikin wani sako da ya aike wa taron tsai da salla karo na ashirin, Jagoran juyin juya halin Musulunci Ayatullah Sayyid Ali Khamenei ya jaddada cewar Wajibi ne masallaci ya zamanto wani tushe na gine-gine a garuruwa da kauyuka da wajajen taron jama'a. Jagoran ya ci gaba da cewa: Matukar dai masallaci ya sami irin yanayin da ya dace, to kuwa nauyi mai yawa na abin duniya da kuma addini da ke wuyan al'umma, mutane da kuma jami'ai zai ragu.\n\nSentence: The following is the full text of message.\nTranslation: Abin da ke biye fassarar wannan sako na Jagoran ne:\n\nSentence: The following is the full text of message.\nTranslation:", "Translate the English sentence below to Hausa.\n\nSentence: By their nature human beings, require and are eager to worship God and to show humility before Him, God who is the Creator of all goodness and beauties. And prayer fulfills this need.\nTranslation: Dan'adam dai a dabi'arsa, (halitta ce) mai kauna da kuma bukatar addu'a da kuma kankan da kai a gaban Allah Madaukakin Sarki Wanda Shi ne Mahaliccin dukkanin abubuwa masu kyau; ita kuwa salla ita ce mai samarwa da kuma biyan wannan bukatar.\n\nSentence: By making prayers obligatory, divine religions quench the thirst of human nature and save it from confusion and misguidance concerning the quenching of this thirst.\nTranslation: Addinan Ubangiji, ta hanyar shar'anta salla, sun shayar da kishirwar da dan'adam yake fama da ita ne da kuma tseratar da shi daga gagarumar damuwa da kuma batar dake tattare da wannan kishirwa ta dabi'a.\n\nSentence: Repeating prayers every day and night is an opportunity and a blessing which saves human beings from drowning in lack of vigilance. It gives human beings the opportunity to have a conscious presence of the heart before God.\nTranslation: Nanata yin salla dare da rana, wata dama da kuma ni'ima ce da take ‘yantar da dan'adam daga fadawa cikin wannan tarko na gafala; da ba shi damar gabatowa da zuciyarsa cikin masaniya a gaban Allah; da goge masa ransa ta yadda badininsa zai yi haske.\n\nSentence: Repeating prayers every day and night is an opportunity and a blessing which saves human beings from drowning in lack of vigilance. It gives human beings the opportunity to have a conscious presence of the heart before God.\nTranslation:"]
+Avg length of prompts 1174.2933333333333
+generation progress: 0/12... batch time: 8.82s
+generation progress: 1/12... batch time: 8.81s
+generation progress: 2/12... batch time: 8.82s
+generation progress: 3/12... batch time: 8.82s
+generation progress: 4/12... batch time: 8.82s
+generation progress: 5/12... batch time: 8.16s
+generation progress: 6/12... batch time: 3.81s
+generation progress: 7/12... batch time: 8.82s
+generation progress: 8/12... batch time: 8.81s
+generation progress: 9/12... batch time: 8.81s
+generation progress: 10/12... batch time: 8.81s
+generation progress: 11/12... batch time: 6.06s
+Message:
+Translate the English sentence below to Hausa.
+
+Sentence: Leader’s Office Urges Iranians to Aid People of Somalia - Khamenei.ir  Following the drought crisis and famine in the Horn of Africa, particularly in Somalia, the Leader's office issued a statement calling on all Iranians to aid the famine-stricken people of Somalia.
+Translation: Sakamakon tsanantan yanayin fari da kuma bayyanar bala'in yunwa a yankin kusurwar Afirka musamman a kasar Somaliya, ofishin Jagoran juyin juya halin Musulunci (Ayatullah Sayyid Ali Khamenei) ya fitar da wata sanarwa inda ya bukaci dukkanin al'ummar Iran a cikin wannan wata na rahama da albarkoki (watan Ramalana) da su taimaka wa ‘yan'uwansu musulmi na kasar Somaliyan da suke cikin mawuyacin hali.
+
+Sentence: The full text of the statement is as follows:
+Translation: Ga fassarar abin da sanarwar ta kumsa:
+
+Sentence: In the Name of Allah, the Beneficent, the Merciful
+Translation: Da Sunan Allah Mai Rahama Mai Jin Kai
+
+Sentence: In the Name of Allah, the Beneficent, the Merciful
+Translation:
+Entire output:
+Translate the English sentence below to Hausa.
+
+Sentence: Leader’s Office Urges Iranians to Aid People of Somalia - Khamenei.ir  Following the drought crisis and famine in the Horn of Africa, particularly in Somalia, the Leader's office issued a statement calling on all Iranians to aid the famine-stricken people of Somalia.
+Translation: Sakamakon tsanantan yanayin fari da kuma bayyanar bala'in yunwa a yankin kusurwar Afirka musamman a kasar Somaliya, ofishin Jagoran juyin juya halin Musulunci (Ayatullah Sayyid Ali Khamenei) ya fitar da wata sanarwa inda ya bukaci dukkanin al'ummar Iran a cikin wannan wata na rahama da albarkoki (watan Ramalana) da su taimaka wa ‘yan'uwansu musulmi na kasar Somaliyan da suke cikin mawuyacin hali.
+
+Sentence: The full text of the statement is as follows:
+Translation: Ga fassarar abin da sanarwar ta kumsa:
+
+Sentence: In the Name of Allah, the Beneficent, the Merciful
+Translation: Da Sunan Allah Mai Rahama Mai Jin Kai
+
+Sentence: In the Name of Allah, the Beneficent, the Merciful
+Translation: Lallaiahu Akbar! Ka gafara nesantau dagaani mai raika shikulatin Aljanna; lallailah Ubangiji Yana Raka Shikshiya Talika
+Cropped output:
+n: Lallaiahu Akbar! Ka gafara nesantau dagaani mai raika shikulatin Aljanna; lallailah Ubangiji Yana Raka Shikshiya Talika
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:57<00:00, 57.35s/it]100%|██████████| 1/1 [00:57<00:00, 57.35s/it]
+
+Language: Hausa, using file: data_repos/lafand-mt/data/tsv_files/en-hau/test.tsv
+                                                  en                                                hau
+0  Leader’s Office Urges Iranians to Aid People o...  Sakamakon tsanantan yanayin fari da kuma bayya...
+1      The full text of the statement is as follows:             Ga fassarar abin da sanarwar ta kumsa:
+2  In the Name of Allah, the Beneficent, the Merc...              Da Sunan Allah Mai Rahama Mai Jin Kai
+3  These days the Horn of Africa and particularly...  A cikin wadannan ranaku yankin kusurwar Afirka...
+4  For this purpose and considering the Leader's ...  A saboda haka sannan kuma sakamakon irin kulaw...
+["Translate the Hausa sentence below to English.\n\nSentence: Sakamakon tsanantan yanayin fari da kuma bayyanar bala'in yunwa a yankin kusurwar Afirka musamman a kasar Somaliya, ofishin Jagoran juyin juya halin Musulunci (Ayatullah Sayyid Ali Khamenei) ya fitar da wata sanarwa inda ya bukaci dukkanin al'ummar Iran a cikin wannan wata na rahama da albarkoki (watan Ramalana) da su taimaka wa ‘yan'uwansu musulmi na kasar Somaliyan da suke cikin mawuyacin hali.\nTranslation: Leader’s Office Urges Iranians to Aid People of Somalia - Khamenei.ir  Following the drought crisis and famine in the Horn of Africa, particularly in Somalia, the Leader's office issued a statement calling on all Iranians to aid the famine-stricken people of Somalia.\n\nSentence: Ga fassarar abin da sanarwar ta kumsa:\nTranslation: The full text of the statement is as follows:\n\nSentence: Da Sunan Allah Mai Rahama Mai Jin Kai\nTranslation: In the Name of Allah, the Beneficent, the Merciful\n\nSentence: Da Sunan Allah Mai Rahama Mai Jin Kai\nTranslation:", "Translate the Hausa sentence below to English.\n\nSentence: A saboda haka sannan kuma sakamakon irin kulawa ta musamman da Jagoran juyin juya halin Musulunci ya ke bai wa lamarin taimakon mutanen da bala'in yunwa ta fadawa a kasar Somaliyan, ana kiran al'ummar musulmin Iran da su taimakawa al'ummar musulmin kasar Somaliya a cikin wannan wata na rahama da albarkoki sannan kuma suna iya isar da taimakon su na kudi da kayayyaki ga cibiyoyin da abin ya shafa don isar da su ga al'ummar Somaliyan.\nTranslation: For this purpose and considering the Leader's special attention to helping the famine-stricken people of Somalia, the philanthropic and Muslim people of Iran are hereby invited to rush to the aid of the Muslim people of Somalia in this month of mercy and blessing and to send their monetary and non-monetary aid to the people of Somalia through the organizations in charge.\n\nSentence: A cikin wani sako da ya aike wa taron tsai da salla karo na ashirin, Jagoran juyin juya halin Musulunci Ayatullah Sayyid Ali Khamenei ya jaddada cewar Wajibi ne masallaci ya zamanto wani tushe na gine-gine a garuruwa da kauyuka da wajajen taron jama'a. Jagoran ya ci gaba da cewa: Matukar dai masallaci ya sami irin yanayin da ya dace, to kuwa nauyi mai yawa na abin duniya da kuma addini da ke wuyan al'umma, mutane da kuma jami'ai zai ragu.\nTranslation: Leader’s Message on the Occasion of 20th National Conference on Prayers - Khamenei.ir\n\nSentence: Abin da ke biye fassarar wannan sako na Jagoran ne:\nTranslation: The following is the full text of message.\n\nSentence: Abin da ke biye fassarar wannan sako na Jagoran ne:\nTranslation:", "Translate the Hausa sentence below to English.\n\nSentence: Dan'adam dai a dabi'arsa, (halitta ce) mai kauna da kuma bukatar addu'a da kuma kankan da kai a gaban Allah Madaukakin Sarki Wanda Shi ne Mahaliccin dukkanin abubuwa masu kyau; ita kuwa salla ita ce mai samarwa da kuma biyan wannan bukatar.\nTranslation: By their nature human beings, require and are eager to worship God and to show humility before Him, God who is the Creator of all goodness and beauties. And prayer fulfills this need.\n\nSentence: Addinan Ubangiji, ta hanyar shar'anta salla, sun shayar da kishirwar da dan'adam yake fama da ita ne da kuma tseratar da shi daga gagarumar damuwa da kuma batar dake tattare da wannan kishirwa ta dabi'a.\nTranslation: By making prayers obligatory, divine religions quench the thirst of human nature and save it from confusion and misguidance concerning the quenching of this thirst.\n\nSentence: Nanata yin salla dare da rana, wata dama da kuma ni'ima ce da take ‘yantar da dan'adam daga fadawa cikin wannan tarko na gafala; da ba shi damar gabatowa da zuciyarsa cikin masaniya a gaban Allah; da goge masa ransa ta yadda badininsa zai yi haske.\nTranslation: Repeating prayers every day and night is an opportunity and a blessing which saves human beings from drowning in lack of vigilance. It gives human beings the opportunity to have a conscious presence of the heart before God.\n\nSentence: Nanata yin salla dare da rana, wata dama da kuma ni'ima ce da take ‘yantar da dan'adam daga fadawa cikin wannan tarko na gafala; da ba shi damar gabatowa da zuciyarsa cikin masaniya a gaban Allah; da goge masa ransa ta yadda badininsa zai yi haske.\nTranslation:"]
+Avg length of prompts 1194.5306666666668
+generation progress: 0/12... batch time: 8.81s
+generation progress: 1/12... batch time: 3.81s
+generation progress: 2/12... batch time: 3.10s
+generation progress: 3/12... batch time: 3.57s
+generation progress: 4/12... batch time: 8.83s
+generation progress: 5/12... batch time: 3.19s
+generation progress: 6/12... batch time: 2.78s
+generation progress: 7/12... batch time: 3.57s
+generation progress: 8/12... batch time: 2.78s
+generation progress: 9/12... batch time: 8.81s
+generation progress: 10/12... batch time: 5.17s
+generation progress: 11/12... batch time: 2.67s
+Message:
+Translate the Hausa sentence below to English.
+
+Sentence: Sakamakon tsanantan yanayin fari da kuma bayyanar bala'in yunwa a yankin kusurwar Afirka musamman a kasar Somaliya, ofishin Jagoran juyin juya halin Musulunci (Ayatullah Sayyid Ali Khamenei) ya fitar da wata sanarwa inda ya bukaci dukkanin al'ummar Iran a cikin wannan wata na rahama da albarkoki (watan Ramalana) da su taimaka wa ‘yan'uwansu musulmi na kasar Somaliyan da suke cikin mawuyacin hali.
+Translation: Leader’s Office Urges Iranians to Aid People of Somalia - Khamenei.ir  Following the drought crisis and famine in the Horn of Africa, particularly in Somalia, the Leader's office issued a statement calling on all Iranians to aid the famine-stricken people of Somalia.
+
+Sentence: Ga fassarar abin da sanarwar ta kumsa:
+Translation: The full text of the statement is as follows:
+
+Sentence: Da Sunan Allah Mai Rahama Mai Jin Kai
+Translation: In the Name of Allah, the Beneficent, the Merciful
+
+Sentence: Da Sunan Allah Mai Rahama Mai Jin Kai
+Translation:
+Entire output:
+Translate the Hausa sentence below to English.
+
+Sentence: Sakamakon tsanantan yanayin fari da kuma bayyanar bala'in yunwa a yankin kusurwar Afirka musamman a kasar Somaliya, ofishin Jagoran juyin juya halin Musulunci (Ayatullah Sayyid Ali Khamenei) ya fitar da wata sanarwa inda ya bukaci dukkanin al'ummar Iran a cikin wannan wata na rahama da albarkoki (watan Ramalana) da su taimaka wa ‘yan'uwansu musulmi na kasar Somaliyan da suke cikin mawuyacin hali.
+Translation: Leader’s Office Urges Iranians to Aid People of Somalia - Khamenei.ir  Following the drought crisis and famine in the Horn of Africa, particularly in Somalia, the Leader's office issued a statement calling on all Iranians to aid the famine-stricken people of Somalia.
+
+Sentence: Ga fassarar abin da sanarwar ta kumsa:
+Translation: The full text of the statement is as follows:
+
+Sentence: Da Sunan Allah Mai Rahama Mai Jin Kai
+Translation: In the Name of Allah, the Beneficent, the Merciful
+
+Sentence: Da Sunan Allah Mai Rahama Mai Jin Kai
+Translation: To All Mankind! La ilaaha illallah wadanda mai raihassaunSallarahu Akbar!!
+Cropped output:
+n: To All Mankind! La ilaaha illallah wadanda mai raihassaunSallarahu Akbar!!
+Evaluation completed.

@@ -1,0 +1,445 @@
+Using device: cuda:3
+
+Language: ibo, using file: data_repos/afrisent-semeval-2023//data/ibo/test.tsv
+                                                  tweet     label
+2023                         hahahahaha noble igwe y na   neutral
+2586            zee ke mgbe anyi gafu la anyi kpa nkata   neutral
+2949                                   beta onye mgbu o  negative
+1263  mbada egwu na mbada na mbada nakwua mbada na i...   neutral
+781                                      ọdị mma ọdogwu  positive
+['Use only the following sentiment labels: positive, neutral, negative.\n\nText: hahahahaha noble igwe y na\nSentiment: neutral\n\nText: zee ke mgbe anyi gafu la anyi kpa nkata\nSentiment: neutral\n\nText: beta onye mgbu o\nSentiment: negative\n\nText: mbada egwu na mbada na mbada nakwua mbada na ime mbada\nSentiment:', 'Use only the following sentiment labels: positive, neutral, negative.\n\nText: ọdị mma ọdogwu\nSentiment: positive\n\nText: lmao nnaa amarọkwam nnem bụ onye ngwa nnam bụrụ onye ọba na anambra mana ihe m maa bụ na nne papam ekwetacharọ na nnam gaanụ nnem mana ha mechara nụọ\u200d️\nSentiment: neutral\n\nText: nwee obi ekele maka na jizọs jiri ndụ ya chụọ àjà ma nye anyị ohere ọzọ ịbụ ezigbo mmadụ ọnwụ ya mere ka anyị dị ọcha na mmehie anyị ezi ista\nSentiment: positive\n\nText: dun election to ndi ara chineke kporo oku inec\nSentiment:', 'Use only the following sentiment labels: positive, neutral, negative.\n\nText: obi ụtọ na ọnwa ọhụrụ nke ọgọstụ diri unu niile anamekpe ekpere ka ọnwa ọhụrụ nke ọgọstụ a bụrụ nke ọhụụ gaamịpụta mkpụrụ oma ka chineke mee ka ọrụ anyị niile gaa nke ọma ma gọzie anyị karịa ka anyị tụrụ anya amen\nSentiment: positive\n\nText: np egwu m cc\nSentiment: neutral\n\nText: anumanu anyi gafa adokpughali nwa obele oge\nSentiment: negative\n\nText: my boss oga ndị oga\nSentiment:']
+['neutral', 'negative', 'positive']
+Avg length of prompts 361.0608695652174
+generation progress: 0/29... batch time: 10.16s
+generation progress: 1/29... batch time: 8.79s
+generation progress: 2/29... batch time: 8.79s
+generation progress: 3/29... batch time: 8.79s
+generation progress: 4/29... batch time: 8.79s
+generation progress: 5/29... batch time: 8.79s
+generation progress: 6/29... batch time: 8.78s
+generation progress: 7/29... batch time: 8.78s
+generation progress: 8/29... batch time: 8.78s
+generation progress: 9/29... batch time: 8.79s
+generation progress: 10/29... batch time: 8.79s
+generation progress: 11/29... batch time: 8.79s
+generation progress: 12/29... batch time: 8.78s
+generation progress: 13/29... batch time: 8.79s
+generation progress: 14/29... batch time: 8.79s
+generation progress: 15/29... batch time: 8.79s
+generation progress: 16/29... batch time: 8.79s
+generation progress: 17/29... batch time: 8.79s
+generation progress: 18/29... batch time: 8.81s
+generation progress: 19/29... batch time: 8.79s
+generation progress: 20/29... batch time: 8.79s
+generation progress: 21/29... batch time: 8.79s
+generation progress: 22/29... batch time: 8.79s
+generation progress: 23/29... batch time: 8.79s
+generation progress: 24/29... batch time: 8.79s
+generation progress: 25/29... batch time: 8.79s
+generation progress: 26/29... batch time: 8.79s
+generation progress: 27/29... batch time: 8.80s
+generation progress: 28/29... batch time: 6.89s
+Message:
+Use only the following sentiment labels: positive, neutral, negative.
+
+Text: hahahahaha noble igwe y na
+Sentiment: neutral
+
+Text: zee ke mgbe anyi gafu la anyi kpa nkata
+Sentiment: neutral
+
+Text: beta onye mgbu o
+Sentiment: negative
+
+Text: mbada egwu na mbada na mbada nakwua mbada na ime mbada
+Sentiment:
+Entire output:
+Use only the following sentiment labels: positive, neutral, negative.
+
+Text: hahahahaha noble igwe y na
+Sentiment: neutral
+
+Text: zee ke mgbe anyi gafu la anyi kpa nkata
+Sentiment: neutral
+
+Text: beta onye mgbu o
+Sentiment: negative
+
+Text: mbada egwu na mbada na mbada nakwua mbada na ime mbada
+Sentiment: negative
+
+
+ Text: maka mma ihe dumara ya banyere gịkwa
+Sentiment: negative
+
+
+irectedescribedescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribe
+Cropped output:
+t: negative
+
+
+ Text: maka mma ihe dumara ya banyere gịkwa
+Sentiment: negative
+
+
+irectedescribedescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribeescribe
+
+Language: ibo, using file: data_repos/masakhane-news/data/ibo/test.tsv
+     category  ...                                             url
+9    business  ...       https://www.bbc.com/igbo/afirika-56895495
+42   business  ...  https://www.bbc.com/igbo/articles/cn3gn5jn54xo
+33   business  ...  https://www.bbc.com/igbo/articles/c5105g01lqdo
+311  politics  ...       https://www.bbc.com/igbo/afirika-59223597
+272  politics  ...       https://www.bbc.com/igbo/afirika-61199832
+
+[5 rows x 4 columns]
+['Use only the following topic labels: business, entertainment, health, politics, religion or sports.\n\nText: Ọgba mbọ: \'Ụmụnwoke anabughi ekwe ka m metụ ha aka n\'isi - Ada Chukwujekwu Ada Chukwujekwu kpọrọ onwe ya ọkaibe n\'ịkpụ isi. O kwuru ka o si bido kpụwa ndị mmadụ isi nakwa ihe kpalitere mmụọ ya ịkpu ịsị. Dịka o si kwuo, ma gwa ụmụ nwaanyị ibe ya "uru dị na ọrụ" Lee okwu ya n\'uju ebe a:\nLabel: business\n\nText: Etu ị ga-esi jiri ịzụ nchị bụrụ ọgaranya - Eluwa, Eze nchi na Naịjirịa Nchi so na otu n\'ime nrị na-amasị ndị bi na Naijirịa, ọkachasị ndị bi n\'ọwụwa anyanwụ Naijirịa. Nchi bụ anụ ọhịa kama akụkọ a bụ maka ndị bidoro ịkpa nchi dịka anụ ụlọ na anụ ha ji agba mgbere. Chinedu Eleuwa bụ onye ọrụ ugbo lek\nLabel: business\n\nText: Ndị mmadụ che na ọkụ ga-adọgbu m mgbe m na-amụ ọrụ \'electrician\' - Adaeze Chukwuneke Adaeze Chukwuneke bú nwaanyị na-arụ ọrụ dịka onye na-atọda ọkụ latrik n\'ụlọ. C\ufeffhukwuneke kwuru na enweghị ihe ịbụ nwaanyị gbochiri ya ịrụ ya bụ ọrụ. O\ufeff kwuru na agbanyeghị na nna ya bụ onye ọkụ latrịk, kama na ọ bụ \nLabel: business\n\nText: Ndị mmadụ che na ọkụ ga-adọgbu m mgbe m na-amụ ọrụ \'electrician\' - Adaeze Chukwuneke Oke ifufe nke ọtụtụ ndị mmadụ tụrụ uche na ọ ga-emebi nnukwu ihe na ntuliaka gọvanọ Anambara atụghị, kama ndị Anambara họpụtara Charles Soludo n\'udo dịka Gọvanọ ọhụrụ ha. Na ntuliaka a nke e mere malite n\'abalị isii\nLabel:', "Use only the following topic labels: business, entertainment, health, politics, religion or sports.\n\nText: Russia and Ukraine conflict: Kedụ ihe Nato na-eme maka mwakpo Russia? Mba ndị dị n'otu Nato na-ebunye mba Yukren ngwaagha ọnụahịa ya dara nde kwuru nde dọla iji nyere ha aka n'ọgụ megide Rọshịa. Ngwaagha ndị a gụnyere ụgbọagha na egbe ọdị-na-mba-ejere-mba-ozi (heavy artillery). Nato bụ aha ịchafụ ot\nLabel: politics\n\nText: Arsenal vs Tottenham: Kama anụ Arsenal ga-agbalahụ ha, ekwobiri ya ọdụ Egwu tara akpụ mgbe Arsenal an Tottenham Hotspur pịakọrịtara nkụ n'ọgbọegwu Emirate na mgbede Sọnde. Arsenal malitere ịzọ onwe ha azọ mgbe Eriksen nke Tottenham tinyere goolu mbụ ha na nkeji 10 amalitechere ya bụ egwu. Ka a na-ek\nLabel: sports\n\nText: Chinmark Group investments: Gbagharanu m maka ọrụ m rụrụ n'ihe gbasara ya - Amanda Chisom Amanda Chisom, bụ onye a ma ama na soshal midia, arịọla mgbaghara maka oke ya n’ịkpọta ndị tinyere ego ha n’ihe gbasara iji ego achụ ego nke ụlọọrụ Chinmark Group. Na mkparịtaụka ya na BBC Igbo nwere, Chisom kw\nLabel: business\n\nText: Chinmark Group investments: Gbagharanu m maka ọrụ m rụrụ n'ihe gbasara ya - Amanda Chisom Onye bụbu Mịnịsta njem ụgbọelụ Naijịrịa bụ Femi Fani-Kayode kwuru na ọ kwadoghi nkewa Naijịrịa maọbụ agha ọ bụla ga-esilete isi na mba Naijịrịa. Ọ bụ n'ọgbakọ ndị otu ntaakụkọ Kwararafa Reporters mere n'ụbọchị \nLabel:", 'Use only the following topic labels: business, entertainment, health, politics, religion or sports.\n\nText: Okwesilieze Nwodo: Ọ bụrụ na-enyeghi onye Igbo ọkwa onyeisi Naịjirịa, ihe ga-emebi Onye chịbụrụ dịka Gọvanọ Enugwu steeti bụ Okwesilieze Nwodo ekwuola na ọ bụrụ na Ndigbo enwetaghị ohere  ịbụ onyeisiala Naijirịa n\'afọ 2023, "na ihe ga-emebi rinne." Nwodo kwuru na e meghị etu a, na ndị Okenye Igbo na\nLabel: politics\n\nText: Igbo Culture: Ezenwaanyị, Ugoeze, Iyom na echichi ndị ọzọ a na-echi ụmụnwaanyị n\'ala Igbo Echichi bụ ihe a na-eme iji kwanyere ụfọdụ ụmụnwoke nakwa ụmụnwaanyị ugwu pụrụiche n\'obodo maka ọrụ ọma ha na-arụ. Igbo tụrụ ilu sị na \'ezi aha karịrị ego\', \'onye a na-akpọ nwere nke ọ na-eme\'. Nke a pụtara na \nLabel: entertainment\n\nText: Akụkọ dị mkpa: NLC agwala ndị ọrụ ha laghachị n\'ọrụ Akụkọ dị mkpa taa: Akụkọ na-eru anyị ntị ugbua ekwuola na otu jikọtara ndị ọrụ Bekee niile a kpọrọ Nigerian Labour Congress akwụsịla abụbụ ọrụ nke ha kpọkọrọ n\'izuụka gara aga. Onyeisi NLC bụ Denja Yaqub kwuputara nke a n\'ozi ha gụpụtaara ndị ntaak\nLabel: politics\n\nText: Akụkọ dị mkpa: NLC agwala ndị ọrụ ha laghachị n\'ọrụ Dịka onye ntaakụkọ BBC nọ n\'obodo Johannesburg depụtara na dịka mmachi ngagharị na nnọko na Saụt Afrịka mere ka a kwụsị ụfọdụ omenala, n\'aka nke ọzọ ụfọdụ omenala ọ dịka echefuru echefu adịwala ire. Otu n\'ime omenala ndị a bụ olili mmadụ na nzuzo. \nLabel:']
+['politics', 'politics', 'health']
+Avg length of prompts 1372.319587628866
+generation progress: 0/4... batch time: 8.79s
+generation progress: 1/4... batch time: 8.79s
+generation progress: 2/4... batch time: 8.80s
+generation progress: 3/4... batch time: 1.53s
+Message:
+Use only the following topic labels: business, entertainment, health, politics, religion or sports.
+
+Text: Ọgba mbọ: 'Ụmụnwoke anabughi ekwe ka m metụ ha aka n'isi - Ada Chukwujekwu Ada Chukwujekwu kpọrọ onwe ya ọkaibe n'ịkpụ isi. O kwuru ka o si bido kpụwa ndị mmadụ isi nakwa ihe kpalitere mmụọ ya ịkpu ịsị. Dịka o si kwuo, ma gwa ụmụ nwaanyị ibe ya "uru dị na ọrụ" Lee okwu ya n'uju ebe a:
+Label: business
+
+Text: Etu ị ga-esi jiri ịzụ nchị bụrụ ọgaranya - Eluwa, Eze nchi na Naịjirịa Nchi so na otu n'ime nrị na-amasị ndị bi na Naijirịa, ọkachasị ndị bi n'ọwụwa anyanwụ Naijirịa. Nchi bụ anụ ọhịa kama akụkọ a bụ maka ndị bidoro ịkpa nchi dịka anụ ụlọ na anụ ha ji agba mgbere. Chinedu Eleuwa bụ onye ọrụ ugbo lek
+Label: business
+
+Text: Ndị mmadụ che na ọkụ ga-adọgbu m mgbe m na-amụ ọrụ 'electrician' - Adaeze Chukwuneke Adaeze Chukwuneke bú nwaanyị na-arụ ọrụ dịka onye na-atọda ọkụ latrik n'ụlọ. C﻿hukwuneke kwuru na enweghị ihe ịbụ nwaanyị gbochiri ya ịrụ ya bụ ọrụ. O﻿ kwuru na agbanyeghị na nna ya bụ onye ọkụ latrịk, kama na ọ bụ 
+Label: business
+
+Text: Ndị mmadụ che na ọkụ ga-adọgbu m mgbe m na-amụ ọrụ 'electrician' - Adaeze Chukwuneke Oke ifufe nke ọtụtụ ndị mmadụ tụrụ uche na ọ ga-emebi nnukwu ihe na ntuliaka gọvanọ Anambara atụghị, kama ndị Anambara họpụtara Charles Soludo n'udo dịka Gọvanọ ọhụrụ ha. Na ntuliaka a nke e mere malite n'abalị isii
+Label:
+Entire output:
+Use only the following topic labels: business, entertainment, health, politics, religion or sports.
+
+Text: Ọgba mbọ: 'Ụmụnwoke anabughi ekwe ka m metụ ha aka n'isi - Ada Chukwujekwu Ada Chukwujekwu kpọrọ onwe ya ọkaibe n'ịkpụ isi. O kwuru ka o si bido kpụwa ndị mmadụ isi nakwa ihe kpalitere mmụọ ya ịkpu ịsị. Dịka o si kwuo, ma gwa ụmụ nwaanyị ibe ya "uru dị na ọrụ" Lee okwu ya n'uju ebe a:
+Label: business
+
+Text: Etu ị ga-esi jiri ịzụ nchị bụrụ ọgaranya - Eluwa, Eze nchi na Naịjirịa Nchi so na otu n'ime nrị na-amasị ndị bi na Naijirịa, ọkachasị ndị bi n'ọwụwa anyanwụ Naijirịa. Nchi bụ anụ ọhịa kama akụkọ a bụ maka ndị bidoro ịkpa nchi dịka anụ ụlọ na anụ ha ji agba mgbere. Chinedu Eleuwa bụ onye ọrụ ugbo lek
+Label: business
+
+Text: Ndị mmadụ che na ọkụ ga-adọgbu m mgbe m na-amụ ọrụ 'electrician' - Adaeze Chukwuneke Adaeze Chukwuneke bú nwaanyị na-arụ ọrụ dịka onye na-atọda ọkụ latrik n'ụlọ. C﻿hukwuneke kwuru na enweghị ihe ịbụ nwaanyị gbochiri ya ịrụ ya bụ ọrụ. O﻿ kwuru na agbanyeghị na nna ya bụ onye ọkụ latrịk, kama na ọ bụ 
+Label: business
+
+Text: Ndị mmadụ che na ọkụ ga-adọgbu m mgbe m na-amụ ọrụ 'electrician' - Adaeze Chukwuneke Oke ifufe nke ọtụtụ ndị mmadụ tụrụ uche na ọ ga-emebi nnukwu ihe na ntuliaka gọvanọ Anambara atụghị, kama ndị Anambara họpụtara Charles Soludo n'udo dịka Gọvanọ ọhụrụ ha. Na ntuliaka a nke e mere malite n'abalị isii
+Label: business
+
+Nke mbụ: Ihe niileziokwu ahịrịla Igodo nkewere ike iji nwata n’obi. Nke ọzọ abalabaala ada amaghachi n’ihiegharị alawa. Mmadummahụ ọbụla nọrọrọru ndi ndukwuu n’obodigharia n’ebe obibi. Mana nzuzugidere buola n’ezigidesi n’ihe di icheicheicheicheicheicheicheichecheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheiche
+Cropped output:
+l: business
+
+Nke mbụ: Ihe niileziokwu ahịrịla Igodo nkewere ike iji nwata n’obi. Nke ọzọ abalabaala ada amaghachi n’ihiegharị alawa. Mmadummahụ ọbụla nọrọrọru ndi ndukwuu n’obodigharia n’ebe obibi. Mana nzuzugidere buola n’ezigidesi n’ihe di icheicheicheicheicheicheicheichecheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheicheiche
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:29<00:00, 29.93s/it]100%|██████████| 1/1 [00:29<00:00, 29.93s/it]
+ibo
+
+Language: ibo, using file: data_repos/afriqa/data/gold_passages/ibo/*test.json
+                                        answer_pivot  ...           answer_lang
+0    {'answer_start': [18], 'text': ['May 14 1959']}  ...           Mee 14 1959
+1           {'answer_start': [24], 'text': ['1979']}  ...                  1979
+2  {'answer_start': [522], 'text': ['Half of a Ye...  ...  Half of a Yellow Sun
+3           {'answer_start': [44], 'text': ['1993']}  ...                  1993
+4  {'answer_start': [0], 'text': ['Caryn Elaine J...  ...  Caryn Elaine Johnson
+
+[5 rows x 7 columns]
+['Context: Andy Chukwu (born May 14 1959) is a Nigerian movie director. He started his career as an actor. Movies he has acted in include "Karishika (1996)", "Witches (1998)" and "Issakaba (2000)". Movies directed by him include "Mr. Ibu" and "2 Rats". Chukwu has directed movies starring A-list Nollywood actors/actresses such as Osita Iheme, Chinedu Ikedieze, Dakore Egbuson, Patience Ozokwor, Amaechi Muonagor, Julius Agwu, Pete Edochie, Ali Nuhu, Emeka Ike, Gentle Jack, Ronke Ojo, Sandra Achums, amongst others. He was one of the movie industry stakeholders invited by the president of Nigeria Goodluck Jonathan in 2013 to mark the 20th anniversary since the release of the first Nigerian movie on home vid\nQuestion: When was Amaechi Muonagor born?\nAnswer: Mee 14 1959\n\nContext: In the widely monitored 1979 election, Alhaji Shehu Shagari was elected on the NPN platform. On October 1, 1979, Shehu Shagari was sworn in as the first President and Commander-in-Chief of the Federal Republic of Nigeria. The military carefully planned the return to civil rule putting in place measures to ensure that political parties have broader support than witnessed during the first republic. But there was also uncertainties, like the first republic, political leaders may be unable to govern properly bringing another batch of new military rulers.\nQuestion: What year did Nigeria got her second republic?\nAnswer: 1979\n\nContext: In 1999 Lola Young, chair of the judges\' panel, claimed that British female literature fell into two categories, either "insular and parochial" or "domestic in a piddling kind of way". Linda Grant suffered accusations of plagiarism following her award in 2000. In 2001 a panel of male critics strongly criticised the Orange shortlist and produced its own. In 2007, broadcaster Muriel Gray, chair of the panel, said that judges had to wade through "a lot of dross" to get to the shortlist, but praised that year\'s winner, "Half of a Yellow Sun" by Nigerian author Chimamanda Ngozi Adichie, saying: "This is a moving and important book by an incredibly exciting author."\nQuestion: Which book won the women\'s award for fiction in 2007?\nAnswer: Half of a Yellow Sun\n\nContext: Oladipo Olamide Emmanuel (born 13 September 1993), known professionally as Chinko Ekun, is a Nigerian rapper and songwriter. He is a graduate of Law from the Obafemi Awolowo University. Early life.\nQuestion: Which year was Oladipo Olamide Emmanuel born?\nAnswer:', 'Context: Caryn Elaine Johnson (born November 13, 1955), known professionally as Whoopi Goldberg (), is an American actor, comedian, author, and television personality. A recipient of numerous accolades, she is one of 16 entertainers to win the EGOT, which includes an Emmy Award, a Grammy Award, an Academy Award, and a Tony Award. In 2001, she received the Mark Twain Prize for American Humor. Goldberg began her career on stage in 1983 with her one-woman show, "Spook Show", which transferred to Broadway under the title "Whoopi Goldberg", running from 1984 to 1985. She won a Grammy Award for Best Comedy Album for the recording of the show. Her film breakthrough came in 1985 with her role as Celie, a mis\nQuestion: What is Whoopi Goldberg\'s real name?\nAnswer: Caryn Elaine Johnson\n\nContext: The sank in the early morning hours of 15 April 1912 in the North Atlantic Ocean, four days into her maiden voyage from Southampton to New York City. The largest ocean liner in service at the time, "Titanic" had an estimated 2,224\xa0people on board when she struck an iceberg at around 23:40 (ship\'s time) on Sunday, 14 April 1912. Her sinking two hours and forty minutes later at 02:20 (ship\'s time; 05:18 GMT) on Monday, 15 April, resulted in the deaths of more than 1,500 people, making it one of the deadliest peacetime maritime disasters in history. "Titanic" received six warnings of sea ice on 14 April but was travelling about 22 knots when her lookouts sighted the iceberg. Unable to turn quic\nQuestion: When did the Titanic sink in the Atlantic ocean?\nAnswer: Fraịde, Eprel 15\n\nContext: Onyeka Nwelue was born in Ezeoke Nsu in Ehime Mbano in Imo State, Nigeria, the fourth of the six children of Sam Nwelue, a politician and Knight of St. Christopher, and Lady Catherine Nwelue, a teacher and Lay Reader. Lady Catherine, raised in the aristocratic family of Obua Ajukwu (Ndanike), of Oguta, is a cousin of Flora Nwapa.\nQuestion: Where is Onyeka Nwelue from?\nAnswer: Ezeoke Nsu na Ehime Mbano in Imo State, Nigeria\n\nContext: The Africa Cup of Nations referred to as AFCON (, sometimes referred to as CAN, or TotalEnergies Africa Cup of Nations for sponsorship reasons), and sometimes as African Cup of Nations, is the main international men\'s association football competition in Africa. It is sanctioned by the Confederation of African Football (CAF), and was first held in 1957. Since 1968, it has been held every two years, switching to odd-numbered years in 2013. In the first tournament in 1957, there were only three participating nations: Egypt, Sudan, and Ethiopia. South Africa was originally scheduled to join, but was disqualified due to the apartheid policies of the government then in power. Since then, the tourn\nQuestion: What year did the African Nations cup begin?\nAnswer:', 'Context: Many Malagasy were conscripted to fight for France in World Wars I and II, and during the latter Madagascar came under Vichy control before being captured and occupied by the British in the Battle of Madagascar. At the Brazzaville Conference of 1944, Charles de Gaulle gave the colony the status of an overseas territory with the right to representatives in the French National Assembly. When a bill proposed by Malagasy delegates of the Mouvement démocratique de la rénovation malgache for Madagascar\'s independence was not passed, militant nationalists led an unsuccessful Malagasy uprising (1947–1948), during which the French military committed atrocities that deeply scarred the population. The \nQuestion: Which year did Madagascar gain her independence?\nAnswer: 1960\n\nContext: The Senate is the upper chamber of Nigeria\'s bicameral legislature, the National Assembly of Nigeria. The National Assembly (popularly referred to as NASS) is the nation\'s highest legislature, whose power is to make laws, is summarized in chapter one, section four of the 1999 Nigerian Constitution. It consists of 109 senators: the 36 states are each divided in 3 senatorial districts each electing one senator using the first-past-the-post electoral system; the Federal Capital Territory elects only one senator also using first-past-the-post. The President of the Senate is the presiding officer of the Senate, whose chief function is to guide and regulate the proceedings in the Senate. The Senat\nQuestion: How many people are in the Nigerian Senate?\nAnswer: 109\n\nContext: The 2008 Russian presidential election was held on 2 March 2008, and resulted in the election of Dmitry Medvedev as the third President of Russia. Medvedev was elected for a four-year term, whose candidacy was supported by incumbent president Vladimir Putin and five political parties (United Russia, Fair Russia, Agrarian Party, Civilian Power, and Russian Ecological Party "The Greens"), received 71% of the vote, and defeated Gennady Zyuganov of the Communist Party of the Russian Federation, and Vladimir Zhirinovsky of the Liberal Democratic Party of Russia. The fairness of the election was disputed, with official monitoring groups giving conflicting reports. Some reported that the election w\nQuestion: Who was the president of Russia in the year 2007?\nAnswer: Vladimir Putin\n\nContext: Women\'s association football, simply women\'s football, is the team sport of association football when played by women only. It is played at the professional level in multiple countries throughout the world and 176 national teams participate internationally. The history of women\'s football has seen competitions being launched at both the national and international levels. Although the "first golden age" of women\'s football occurred in the United Kingdom in the 1920s, with one match attracting over 50,000 spectators, The Football Association initiated a ban in 1921 in England that disallowed women\'s football games from taking place on the grounds used by its member clubs. That ban remained in \nQuestion: What year did the association for women\'s football start?\nAnswer:']
+["Kedụ n'afọ a mụrụ Oladipo Olamide Emmanuel?", 'Kedụ afọ ebidoro Nations cup of African?', 'Kedụ afọ ebidoro otu egwuregwu bọọlu ụmụ nwanyị?']
+Avg length of prompts 2427.7156862745096
+generation progress: 0/4... batch time: 8.79s
+generation progress: 1/4... batch time: 8.80s
+generation progress: 2/4... batch time: 8.79s
+generation progress: 3/4... batch time: 3.41s
+Message:
+Context: Andy Chukwu (born May 14 1959) is a Nigerian movie director. He started his career as an actor. Movies he has acted in include "Karishika (1996)", "Witches (1998)" and "Issakaba (2000)". Movies directed by him include "Mr. Ibu" and "2 Rats". Chukwu has directed movies starring A-list Nollywood actors/actresses such as Osita Iheme, Chinedu Ikedieze, Dakore Egbuson, Patience Ozokwor, Amaechi Muonagor, Julius Agwu, Pete Edochie, Ali Nuhu, Emeka Ike, Gentle Jack, Ronke Ojo, Sandra Achums, amongst others. He was one of the movie industry stakeholders invited by the president of Nigeria Goodluck Jonathan in 2013 to mark the 20th anniversary since the release of the first Nigerian movie on home vid
+Question: When was Amaechi Muonagor born?
+Answer: Mee 14 1959
+
+Context: In the widely monitored 1979 election, Alhaji Shehu Shagari was elected on the NPN platform. On October 1, 1979, Shehu Shagari was sworn in as the first President and Commander-in-Chief of the Federal Republic of Nigeria. The military carefully planned the return to civil rule putting in place measures to ensure that political parties have broader support than witnessed during the first republic. But there was also uncertainties, like the first republic, political leaders may be unable to govern properly bringing another batch of new military rulers.
+Question: What year did Nigeria got her second republic?
+Answer: 1979
+
+Context: In 1999 Lola Young, chair of the judges' panel, claimed that British female literature fell into two categories, either "insular and parochial" or "domestic in a piddling kind of way". Linda Grant suffered accusations of plagiarism following her award in 2000. In 2001 a panel of male critics strongly criticised the Orange shortlist and produced its own. In 2007, broadcaster Muriel Gray, chair of the panel, said that judges had to wade through "a lot of dross" to get to the shortlist, but praised that year's winner, "Half of a Yellow Sun" by Nigerian author Chimamanda Ngozi Adichie, saying: "This is a moving and important book by an incredibly exciting author."
+Question: Which book won the women's award for fiction in 2007?
+Answer: Half of a Yellow Sun
+
+Context: Oladipo Olamide Emmanuel (born 13 September 1993), known professionally as Chinko Ekun, is a Nigerian rapper and songwriter. He is a graduate of Law from the Obafemi Awolowo University. Early life.
+Question: Which year was Oladipo Olamide Emmanuel born?
+Answer:
+Entire output:
+Context: Andy Chukwu (born May 14 1959) is a Nigerian movie director. He started his career as an actor. Movies he has acted in include "Karishika (1996)", "Witches (1998)" and "Issakaba (2000)". Movies directed by him include "Mr. Ibu" and "2 Rats". Chukwu has directed movies starring A-list Nollywood actors/actresses such as Osita Iheme, Chinedu Ikedieze, Dakore Egbuson, Patience Ozokwor, Amaechi Muonagor, Julius Agwu, Pete Edochie, Ali Nuhu, Emeka Ike, Gentle Jack, Ronke Ojo, Sandra Achums, amongst others. He was one of the movie industry stakeholders invited by the president of Nigeria Goodluck Jonathan in 2013 to mark the 20th anniversary since the release of the first Nigerian movie on home vid
+Question: When was Amaechi Muonagor born?
+Answer: Mee 14 1959
+
+Context: In the widely monitored 1979 election, Alhaji Shehu Shagari was elected on the NPN platform. On October 1, 1979, Shehu Shagari was sworn in as the first President and Commander-in-Chief of the Federal Republic of Nigeria. The military carefully planned the return to civil rule putting in place measures to ensure that political parties have broader support than witnessed during the first republic. But there was also uncertainties, like the first republic, political leaders may be unable to govern properly bringing another batch of new military rulers.
+Question: What year did Nigeria got her second republic?
+Answer: 1979
+
+Context: In 1999 Lola Young, chair of the judges' panel, claimed that British female literature fell into two categories, either "insular and parochial" or "domestic in a piddling kind of way". Linda Grant suffered accusations of plagiarism following her award in 2000. In 2001 a panel of male critics strongly criticised the Orange shortlist and produced its own. In 2007, broadcaster Muriel Gray, chair of the panel, said that judges had to wade through "a lot of dross" to get to the shortlist, but praised that year's winner, "Half of a Yellow Sun" by Nigerian author Chimamanda Ngozi Adichie, saying: "This is a moving and important book by an incredibly exciting author."
+Question: Which book won the women's award for fiction in 2007?
+Answer: Half of a Yellow Sun
+
+Context: Oladipo Olamide Emmanuel (born 13 September 1993), known professionally as Chinko Ekun, is a Nigerian rapper and songwriter. He is a graduate of Law from the Obafemi Awolowo University. Early life.
+Question: Which year was Oladipo Olamide Emmanuel born?
+Answer: 2021
+
+Context: During the 2019 Africa Cup of Nations, Super Eagles defeated hosts Egypt 3–1 with goals scored by Victor Moses, Ahmed Musah and Kelechi Nwabuchi. This victory marked their third consecutive title at this competition after victories over South African rivals Botswana and Equatorial Guinea. It resulted in them becoming only the fourth team ever to win three titles in four years.
+Question: How many players were part of the Super Eagle squad who represented Nigeria in Afcon 2019?
+
+ Answer: Seven
+
+
+......!...!,...!,crowdedness,...!,mixedsensationality,...!,conflictinglyso....!,interdependence,...!,fearfultensequence,...!,affectionate..!,uniformity,...!,biaseness,...!,non uniformity,...!,lucidity,...!,viscerality,...!,purity,...!,nobility,...!,reflexibility,...!,perplexity,...!,stability,...!,temperature stability,...!,hydrochloric acidity,...!,chemistry,...!,physics...!,geology...!,astronomy...!,physiology...!,biology...!,medicine
+Cropped output:
+r: 2021
+
+Context: During the 2019 Africa Cup of Nations, Super Eagles defeated hosts Egypt 3–1 with goals scored by Victor Moses, Ahmed Musah and Kelechi Nwabuchi. This victory marked their third consecutive title at this competition after victories over South African rivals Botswana and Equatorial Guinea. It resulted in them becoming only the fourth team ever to win three titles in four years.
+Question: How many players were part of the Super Eagle squad who represented Nigeria in Afcon 2019?
+
+ Answer: Seven
+
+
+......!...!,...!,crowdedness,...!,mixedsensationality,...!,conflictinglyso....!,interdependence,...!,fearfultensequence,...!,affectionate..!,uniformity,...!,biaseness,...!,non uniformity,...!,lucidity,...!,viscerality,...!,purity,...!,nobility,...!,reflexibility,...!,perplexity,...!,stability,...!,temperature stability,...!,hydrochloric acidity,...!,chemistry,...!,physics...!,geology...!,astronomy...!,physiology...!,biology...!,medicine
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:29<00:00, 29.14s/it]100%|██████████| 1/1 [00:29<00:00, 29.14s/it]
+ibo
+
+Language: ibo, using file: data_repos/afriqa/data/gold_passages/ibo/*test.json
+                                        answer_pivot  ...           answer_lang
+0    {'answer_start': [18], 'text': ['May 14 1959']}  ...           Mee 14 1959
+1           {'answer_start': [24], 'text': ['1979']}  ...                  1979
+2  {'answer_start': [522], 'text': ['Half of a Ye...  ...  Half of a Yellow Sun
+3           {'answer_start': [44], 'text': ['1993']}  ...                  1993
+4  {'answer_start': [0], 'text': ['Caryn Elaine J...  ...  Caryn Elaine Johnson
+
+[5 rows x 7 columns]
+['Context: Andy Chukwu (born May 14 1959) is a Nigerian movie director. He started his career as an actor. Movies he has acted in include "Karishika (1996)", "Witches (1998)" and "Issakaba (2000)". Movies directed by him include "Mr. Ibu" and "2 Rats". Chukwu has directed movies starring A-list Nollywood actors/actresses such as Osita Iheme, Chinedu Ikedieze, Dakore Egbuson, Patience Ozokwor, Amaechi Muonagor, Julius Agwu, Pete Edochie, Ali Nuhu, Emeka Ike, Gentle Jack, Ronke Ojo, Sandra Achums, amongst others. He was one of the movie industry stakeholders invited by the president of Nigeria Goodluck Jonathan in 2013 to mark the 20th anniversary since the release of the first Nigerian movie on home vid\nQuestion: Kedụ mgbe a mụrụ Amaechi Muonagor?\nAnswer: Mee 14 1959\n\nContext: In the widely monitored 1979 election, Alhaji Shehu Shagari was elected on the NPN platform. On October 1, 1979, Shehu Shagari was sworn in as the first President and Commander-in-Chief of the Federal Republic of Nigeria. The military carefully planned the return to civil rule putting in place measures to ensure that political parties have broader support than witnessed during the first republic. But there was also uncertainties, like the first republic, political leaders may be unable to govern properly bringing another batch of new military rulers.\nQuestion: Kedụ afọ Naijiria nwere Repoblik nke abụọ?\nAnswer: 1979\n\nContext: In 1999 Lola Young, chair of the judges\' panel, claimed that British female literature fell into two categories, either "insular and parochial" or "domestic in a piddling kind of way". Linda Grant suffered accusations of plagiarism following her award in 2000. In 2001 a panel of male critics strongly criticised the Orange shortlist and produced its own. In 2007, broadcaster Muriel Gray, chair of the panel, said that judges had to wade through "a lot of dross" to get to the shortlist, but praised that year\'s winner, "Half of a Yellow Sun" by Nigerian author Chimamanda Ngozi Adichie, saying: "This is a moving and important book by an incredibly exciting author."\nQuestion: Kedụ akwụkwọ nwetara ihe nrite ụmụ nwanyị maka akụkọ ifo n\'afọ 2007?\nAnswer: Half of a Yellow Sun\n\nContext: Oladipo Olamide Emmanuel (born 13 September 1993), known professionally as Chinko Ekun, is a Nigerian rapper and songwriter. He is a graduate of Law from the Obafemi Awolowo University. Early life.\nQuestion: Kedụ n\'afọ a mụrụ Oladipo Olamide Emmanuel?\nAnswer:', 'Context: Caryn Elaine Johnson (born November 13, 1955), known professionally as Whoopi Goldberg (), is an American actor, comedian, author, and television personality. A recipient of numerous accolades, she is one of 16 entertainers to win the EGOT, which includes an Emmy Award, a Grammy Award, an Academy Award, and a Tony Award. In 2001, she received the Mark Twain Prize for American Humor. Goldberg began her career on stage in 1983 with her one-woman show, "Spook Show", which transferred to Broadway under the title "Whoopi Goldberg", running from 1984 to 1985. She won a Grammy Award for Best Comedy Album for the recording of the show. Her film breakthrough came in 1985 with her role as Celie, a mis\nQuestion: Kedụ ezigbo aha Whoopi Goldberg?\nAnswer: Caryn Elaine Johnson\n\nContext: The sank in the early morning hours of 15 April 1912 in the North Atlantic Ocean, four days into her maiden voyage from Southampton to New York City. The largest ocean liner in service at the time, "Titanic" had an estimated 2,224\xa0people on board when she struck an iceberg at around 23:40 (ship\'s time) on Sunday, 14 April 1912. Her sinking two hours and forty minutes later at 02:20 (ship\'s time; 05:18 GMT) on Monday, 15 April, resulted in the deaths of more than 1,500 people, making it one of the deadliest peacetime maritime disasters in history. "Titanic" received six warnings of sea ice on 14 April but was travelling about 22 knots when her lookouts sighted the iceberg. Unable to turn quic\nQuestion: Kedụ mgbe Titanic kpuru na Atlantic Ocean?\nAnswer: Fraịde, Eprel 15\n\nContext: Onyeka Nwelue was born in Ezeoke Nsu in Ehime Mbano in Imo State, Nigeria, the fourth of the six children of Sam Nwelue, a politician and Knight of St. Christopher, and Lady Catherine Nwelue, a teacher and Lay Reader. Lady Catherine, raised in the aristocratic family of Obua Ajukwu (Ndanike), of Oguta, is a cousin of Flora Nwapa.\nQuestion: Onye ebee Onyeka Nwelue bu?\nAnswer: Ezeoke Nsu na Ehime Mbano in Imo State, Nigeria\n\nContext: The Africa Cup of Nations referred to as AFCON (, sometimes referred to as CAN, or TotalEnergies Africa Cup of Nations for sponsorship reasons), and sometimes as African Cup of Nations, is the main international men\'s association football competition in Africa. It is sanctioned by the Confederation of African Football (CAF), and was first held in 1957. Since 1968, it has been held every two years, switching to odd-numbered years in 2013. In the first tournament in 1957, there were only three participating nations: Egypt, Sudan, and Ethiopia. South Africa was originally scheduled to join, but was disqualified due to the apartheid policies of the government then in power. Since then, the tourn\nQuestion: Kedụ afọ ebidoro Nations cup of African?\nAnswer:', 'Context: Many Malagasy were conscripted to fight for France in World Wars I and II, and during the latter Madagascar came under Vichy control before being captured and occupied by the British in the Battle of Madagascar. At the Brazzaville Conference of 1944, Charles de Gaulle gave the colony the status of an overseas territory with the right to representatives in the French National Assembly. When a bill proposed by Malagasy delegates of the Mouvement démocratique de la rénovation malgache for Madagascar\'s independence was not passed, militant nationalists led an unsuccessful Malagasy uprising (1947–1948), during which the French military committed atrocities that deeply scarred the population. The \nQuestion: Kedụ n\'afọ mba Madagascar nweere onwe ha?\nAnswer: 1960\n\nContext: The Senate is the upper chamber of Nigeria\'s bicameral legislature, the National Assembly of Nigeria. The National Assembly (popularly referred to as NASS) is the nation\'s highest legislature, whose power is to make laws, is summarized in chapter one, section four of the 1999 Nigerian Constitution. It consists of 109 senators: the 36 states are each divided in 3 senatorial districts each electing one senator using the first-past-the-post electoral system; the Federal Capital Territory elects only one senator also using first-past-the-post. The President of the Senate is the presiding officer of the Senate, whose chief function is to guide and regulate the proceedings in the Senate. The Senat\nQuestion: Mmadụ ole na anọ na Senate Naijiria?\nAnswer: 109\n\nContext: The 2008 Russian presidential election was held on 2 March 2008, and resulted in the election of Dmitry Medvedev as the third President of Russia. Medvedev was elected for a four-year term, whose candidacy was supported by incumbent president Vladimir Putin and five political parties (United Russia, Fair Russia, Agrarian Party, Civilian Power, and Russian Ecological Party "The Greens"), received 71% of the vote, and defeated Gennady Zyuganov of the Communist Party of the Russian Federation, and Vladimir Zhirinovsky of the Liberal Democratic Party of Russia. The fairness of the election was disputed, with official monitoring groups giving conflicting reports. Some reported that the election w\nQuestion: Kedụ onye bụ onye isi ala mba Russia n’afọ puku abụọ na asaa?\nAnswer: Vladimir Putin\n\nContext: Women\'s association football, simply women\'s football, is the team sport of association football when played by women only. It is played at the professional level in multiple countries throughout the world and 176 national teams participate internationally. The history of women\'s football has seen competitions being launched at both the national and international levels. Although the "first golden age" of women\'s football occurred in the United Kingdom in the 1920s, with one match attracting over 50,000 spectators, The Football Association initiated a ban in 1921 in England that disallowed women\'s football games from taking place on the grounds used by its member clubs. That ban remained in \nQuestion: Kedụ afọ ebidoro otu egwuregwu bọọlu ụmụ nwanyị?\nAnswer:']
+["Kedụ n'afọ a mụrụ Oladipo Olamide Emmanuel?", 'Kedụ afọ ebidoro Nations cup of African?', 'Kedụ afọ ebidoro otu egwuregwu bọọlu ụmụ nwanyị?']
+Avg length of prompts 2428.1372549019607
+generation progress: 0/4... batch time: 8.79s
+generation progress: 1/4... batch time: 8.80s
+generation progress: 2/4... batch time: 8.80s
+generation progress: 3/4... batch time: 2.63s
+Message:
+Context: Andy Chukwu (born May 14 1959) is a Nigerian movie director. He started his career as an actor. Movies he has acted in include "Karishika (1996)", "Witches (1998)" and "Issakaba (2000)". Movies directed by him include "Mr. Ibu" and "2 Rats". Chukwu has directed movies starring A-list Nollywood actors/actresses such as Osita Iheme, Chinedu Ikedieze, Dakore Egbuson, Patience Ozokwor, Amaechi Muonagor, Julius Agwu, Pete Edochie, Ali Nuhu, Emeka Ike, Gentle Jack, Ronke Ojo, Sandra Achums, amongst others. He was one of the movie industry stakeholders invited by the president of Nigeria Goodluck Jonathan in 2013 to mark the 20th anniversary since the release of the first Nigerian movie on home vid
+Question: Kedụ mgbe a mụrụ Amaechi Muonagor?
+Answer: Mee 14 1959
+
+Context: In the widely monitored 1979 election, Alhaji Shehu Shagari was elected on the NPN platform. On October 1, 1979, Shehu Shagari was sworn in as the first President and Commander-in-Chief of the Federal Republic of Nigeria. The military carefully planned the return to civil rule putting in place measures to ensure that political parties have broader support than witnessed during the first republic. But there was also uncertainties, like the first republic, political leaders may be unable to govern properly bringing another batch of new military rulers.
+Question: Kedụ afọ Naijiria nwere Repoblik nke abụọ?
+Answer: 1979
+
+Context: In 1999 Lola Young, chair of the judges' panel, claimed that British female literature fell into two categories, either "insular and parochial" or "domestic in a piddling kind of way". Linda Grant suffered accusations of plagiarism following her award in 2000. In 2001 a panel of male critics strongly criticised the Orange shortlist and produced its own. In 2007, broadcaster Muriel Gray, chair of the panel, said that judges had to wade through "a lot of dross" to get to the shortlist, but praised that year's winner, "Half of a Yellow Sun" by Nigerian author Chimamanda Ngozi Adichie, saying: "This is a moving and important book by an incredibly exciting author."
+Question: Kedụ akwụkwọ nwetara ihe nrite ụmụ nwanyị maka akụkọ ifo n'afọ 2007?
+Answer: Half of a Yellow Sun
+
+Context: Oladipo Olamide Emmanuel (born 13 September 1993), known professionally as Chinko Ekun, is a Nigerian rapper and songwriter. He is a graduate of Law from the Obafemi Awolowo University. Early life.
+Question: Kedụ n'afọ a mụrụ Oladipo Olamide Emmanuel?
+Answer:
+Entire output:
+Context: Andy Chukwu (born May 14 1959) is a Nigerian movie director. He started his career as an actor. Movies he has acted in include "Karishika (1996)", "Witches (1998)" and "Issakaba (2000)". Movies directed by him include "Mr. Ibu" and "2 Rats". Chukwu has directed movies starring A-list Nollywood actors/actresses such as Osita Iheme, Chinedu Ikedieze, Dakore Egbuson, Patience Ozokwor, Amaechi Muonagor, Julius Agwu, Pete Edochie, Ali Nuhu, Emeka Ike, Gentle Jack, Ronke Ojo, Sandra Achums, amongst others. He was one of the movie industry stakeholders invited by the president of Nigeria Goodluck Jonathan in 2013 to mark the 20th anniversary since the release of the first Nigerian movie on home vid
+Question: Kedụ mgbe a mụrụ Amaechi Muonagor?
+Answer: Mee 14 1959
+
+Context: In the widely monitored 1979 election, Alhaji Shehu Shagari was elected on the NPN platform. On October 1, 1979, Shehu Shagari was sworn in as the first President and Commander-in-Chief of the Federal Republic of Nigeria. The military carefully planned the return to civil rule putting in place measures to ensure that political parties have broader support than witnessed during the first republic. But there was also uncertainties, like the first republic, political leaders may be unable to govern properly bringing another batch of new military rulers.
+Question: Kedụ afọ Naijiria nwere Repoblik nke abụọ?
+Answer: 1979
+
+Context: In 1999 Lola Young, chair of the judges' panel, claimed that British female literature fell into two categories, either "insular and parochial" or "domestic in a piddling kind of way". Linda Grant suffered accusations of plagiarism following her award in 2000. In 2001 a panel of male critics strongly criticised the Orange shortlist and produced its own. In 2007, broadcaster Muriel Gray, chair of the panel, said that judges had to wade through "a lot of dross" to get to the shortlist, but praised that year's winner, "Half of a Yellow Sun" by Nigerian author Chimamanda Ngozi Adichie, saying: "This is a moving and important book by an incredibly exciting author."
+Question: Kedụ akwụkwọ nwetara ihe nrite ụmụ nwanyị maka akụkọ ifo n'afọ 2007?
+Answer: Half of a Yellow Sun
+
+Context: Oladipo Olamide Emmanuel (born 13 September 1993), known professionally as Chinko Ekun, is a Nigerian rapper and songwriter. He is a graduate of Law from the Obafemi Awolowo University. Early life.
+Question: Kedụ n'afọ a mụrụ Oladipo Olamide Emmanuel?
+Answer: Ọnwa 23rd 1991
+
+Nkeji bụrụ: Nkechi baa na ya bukwara ụzọcha
+Biko baa na ya bukwa ọdịchiche
+Ụzọchuk baa na ya bukwasiri
+Ọka baa na ya buru
+Egosila baa na ya kpuchapuru
+Mana agbata ụta ọjọ
+Nyerera baa na ya gba
+Ochefu baa na ya hooja
+Ududo baa na ya eboja
+Iluya baa na ya uduku
+Kedu ka ozo
+Hibunye baa na ya obodo
+Anambala baa na ya alawa
+Akpa chighachacha baa na ya erube
+Akpughe baa na ya ede
+Okike baa na ya amami
+Obodobo jijiji maruo
+Yoruba baa na ya egosi
+Enweghịzịrịri nri
+Ịnịmfe ọbụla
+Ebekee nọ ebe
+Gịnị Igbanelo baa na ya gburu
+Rivers baa na ya rue
+Chinebere baa na ya chere
+Cropped output:
+r: Ọnwa 23rd 1991
+
+Nkeji bụrụ: Nkechi baa na ya bukwara ụzọcha
+Biko baa na ya bukwa ọdịchiche
+Ụzọchuk baa na ya bukwasiri
+Ọka baa na ya buru
+Egosila baa na ya kpuchapuru
+Mana agbata ụta ọjọ
+Nyerera baa na ya gba
+Ochefu baa na ya hooja
+Ududo baa na ya eboja
+Iluya baa na ya uduku
+Kedu ka ozo
+Hibunye baa na ya obodo
+Anambala baa na ya alawa
+Akpa chighachacha baa na ya erube
+Akpughe baa na ya ede
+Okike baa na ya amami
+Obodobo jijiji maruo
+Yoruba baa na ya egosi
+Enweghịzịrịri nri
+Ịnịmfe ọbụla
+Ebekee nọ ebe
+Gịnị Igbanelo baa na ya gburu
+Rivers baa na ya rue
+Chinebere baa na ya chere
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [01:43<00:00, 103.73s/it]100%|██████████| 1/1 [01:43<00:00, 103.73s/it]
+
+Language: Igbo, using file: data_repos/lafand-mt/data/tsv_files/en-ibo/test.tsv
+                                                  en                                                ibo
+0                   The news that will interest you:                             Akụkọ ndị ga-amasị gị:
+1     Joseph Achuzie, the Biafran brave man is gone.                  Joseph Achuzie, Dike Biafra alala
+2  Dapchi: Government has not defeated Boko Haram...    Dapchi: Gọọmenti emeribeghị Boko Haram - Massob
+3  Tottenham look forward to lifting the FA cup i...  Tottenham na-ele anya iburu iko FA na mmeri Ro...
+4  Son Heung-min, Fernando Llorente and Kyle Walt...  Son Heung-min, Fernando Llorente na Kyle Walte...
+['Translate the English sentence below to Igbo.\n\nSentence: The news that will interest you:\nTranslation: Akụkọ ndị ga-amasị gị:\n\nSentence: Joseph Achuzie, the Biafran brave man is gone.\nTranslation: Joseph Achuzie, Dike Biafra alala\n\nSentence: Dapchi: Government has not defeated Boko Haram and Massob\nTranslation: Dapchi: Gọọmenti emeribeghị Boko Haram - Massob\n\nSentence: Dapchi: Government has not defeated Boko Haram and Massob\nTranslation:', "Translate the English sentence below to Igbo.\n\nSentence: Son Heung-min, Fernando Llorente and Kyle Walter-Peters of Tottenham beat Rochadale mercilessly in their yesterday's FA cup competition. \nTranslation: Son Heung-min, Fernando Llorente na Kyle Walter-Peters nke Tottenham bụ ndị mmechiri ọnụ Rochadale n'asọmpị ụnyaahụ.\n\nSentence: Son Heung-min of Tottenham and his team mates were jubilating when he scored a goal in the FA cup competition. \nTranslation: Son Heung-min onye Tottenham na ndị otu ya na-nwe anụrị mgbe o nyere goolu n'asọmpị iko FA.\n\nSentence: Tottenham has won eight FA cup competitions.\nTranslation: Tottenham emerila n'asọmpị iko FA ugboro asatọ\n\nSentence: Tottenham has won eight FA cup competitions.\nTranslation:", "Translate the English sentence below to Igbo.\n\nSentence: This victory means that Tottenham is to compete with Swansea in the FA cup quarter final on the 17th of March. \nTranslation: Mmeri a pụtara na Tottenham na otu Swansea ga-asọ mpi Quarter Final n'iko FA a ga-agba n'ụbọchị 17 nke ọnwa Maachị.\n\nSentence: Son Heung-min scored the first and the fifth goal. Fernando Llorente scored hatrick within twelve minutes of the second half, while Kyle Walter-Peters scored the sixth goal.\nTranslation: Son Heung-min nyere goolu nke mbụ na nke ise. Fernando Llorente nyere goolu atọ n'ime nkeji iri na abụọ n'okara nke abụọ, ebe Kyle Walter-Peters nyere goolu nke isi.\n\nSentence: If Son Heung-min stops playing with Rochadale \nTranslation: Son Heung-min kwụsị bọọlụ otu Rochadale\n\nSentence: If Son Heung-min stops playing with Rochadale \nTranslation:"]
+Avg length of prompts 703.0853333333333
+generation progress: 0/12... batch time: 8.79s
+generation progress: 1/12... batch time: 8.79s
+generation progress: 2/12... batch time: 8.80s
+generation progress: 3/12... batch time: 8.81s
+generation progress: 4/12... batch time: 8.82s
+generation progress: 5/12... batch time: 8.80s
+generation progress: 6/12... batch time: 8.79s
+generation progress: 7/12... batch time: 8.80s
+generation progress: 8/12... batch time: 8.80s
+generation progress: 9/12... batch time: 8.80s
+generation progress: 10/12... batch time: 8.80s
+generation progress: 11/12... batch time: 6.67s
+Message:
+Translate the English sentence below to Igbo.
+
+Sentence: The news that will interest you:
+Translation: Akụkọ ndị ga-amasị gị:
+
+Sentence: Joseph Achuzie, the Biafran brave man is gone.
+Translation: Joseph Achuzie, Dike Biafra alala
+
+Sentence: Dapchi: Government has not defeated Boko Haram and Massob
+Translation: Dapchi: Gọọmenti emeribeghị Boko Haram - Massob
+
+Sentence: Dapchi: Government has not defeated Boko Haram and Massob
+Translation:
+Entire output:
+Translate the English sentence below to Igbo.
+
+Sentence: The news that will interest you:
+Translation: Akụkọ ndị ga-amasị gị:
+
+Sentence: Joseph Achuzie, the Biafran brave man is gone.
+Translation: Joseph Achuzie, Dike Biafra alala
+
+Sentence: Dapchi: Government has not defeated Boko Haram and Massob
+Translation: Dapchi: Gọọmenti emeribeghị Boko Haram - Massob
+
+Sentence: Dapchi: Government has not defeated Boko Haram and Massob
+Translation: Dapichi: GọmentịI emerubebeghị Boko Haram na Massob
+
+SentENCE: DAPCHIMU: Ajọ n'eluigwe banyere ụlọọrụ dịka a kpọrọ onyeisi ha nwụrụ. 
+ Translated: D APC CHINAMULA: A jidere ya maka ihe ọnụ nke mere ahụrụ ekweghi ezi gbaziri otuu oti ugbua.: Ọjịikata anya nwere ụzọ puku ịgba ụrọ n’ihichara ma amaghachi ya agwa akwụkwọ ọbụla ọzọ.: Ndị mmadịrị nọchiterela mgbe ụfọdụọgwụ maọbụgwọ nakwadozi na Naịjirịa Naijiria (Nigerian Minister of Information) wepụtaraọla edo ka esite nnyochaa.: Ụfọdụpụ ole si elelela nwannekemahana na Naịjirịa Naiijiria (Nigeria's Minister for Information) nyerelọọcha edo ka esite nnyochaa: Ihe niilekụrịrịrịrịrịrịrịrịrịrịrịrịrị
+Cropped output:
+n: Dapichi: GọmentịI emerubebeghị Boko Haram na Massob
+
+SentENCE: DAPCHIMU: Ajọ n'eluigwe banyere ụlọọrụ dịka a kpọrọ onyeisi ha nwụrụ. 
+ Translated: D APC CHINAMULA: A jidere ya maka ihe ọnụ nke mere ahụrụ ekweghi ezi gbaziri otuu oti ugbua.: Ọjịikata anya nwere ụzọ puku ịgba ụrọ n’ihichara ma amaghachi ya agwa akwụkwọ ọbụla ọzọ.: Ndị mmadịrị nọchiterela mgbe ụfọdụọgwụ maọbụgwọ nakwadozi na Naịjirịa Naijiria (Nigerian Minister of Information) wepụtaraọla edo ka esite nnyochaa.: Ụfọdụpụ ole si elelela nwannekemahana na Naịjirịa Naiijiria (Nigeria's Minister for Information) nyerelọọcha edo ka esite nnyochaa: Ihe niilekụrịrịrịrịrịrịrịrịrịrịrịrịrị
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [01:44<00:00, 104.74s/it]100%|██████████| 1/1 [01:44<00:00, 104.74s/it]
+
+Language: Igbo, using file: data_repos/lafand-mt/data/tsv_files/en-ibo/test.tsv
+                                                  en                                                ibo
+0                   The news that will interest you:                             Akụkọ ndị ga-amasị gị:
+1     Joseph Achuzie, the Biafran brave man is gone.                  Joseph Achuzie, Dike Biafra alala
+2  Dapchi: Government has not defeated Boko Haram...    Dapchi: Gọọmenti emeribeghị Boko Haram - Massob
+3  Tottenham look forward to lifting the FA cup i...  Tottenham na-ele anya iburu iko FA na mmeri Ro...
+4  Son Heung-min, Fernando Llorente and Kyle Walt...  Son Heung-min, Fernando Llorente na Kyle Walte...
+['Translate the Igbo sentence below to English.\n\nSentence: Akụkọ ndị ga-amasị gị:\nTranslation: The news that will interest you:\n\nSentence: Joseph Achuzie, Dike Biafra alala\nTranslation: Joseph Achuzie, the Biafran brave man is gone.\n\nSentence: Dapchi: Gọọmenti emeribeghị Boko Haram - Massob\nTranslation: Dapchi: Government has not defeated Boko Haram and Massob\n\nSentence: Dapchi: Gọọmenti emeribeghị Boko Haram - Massob\nTranslation:', "Translate the Igbo sentence below to English.\n\nSentence: Son Heung-min, Fernando Llorente na Kyle Walter-Peters nke Tottenham bụ ndị mmechiri ọnụ Rochadale n'asọmpị ụnyaahụ.\nTranslation: Son Heung-min, Fernando Llorente and Kyle Walter-Peters of Tottenham beat Rochadale mercilessly in their yesterday's FA cup competition. \n\nSentence: Son Heung-min onye Tottenham na ndị otu ya na-nwe anụrị mgbe o nyere goolu n'asọmpị iko FA.\nTranslation: Son Heung-min of Tottenham and his team mates were jubilating when he scored a goal in the FA cup competition. \n\nSentence: Tottenham emerila n'asọmpị iko FA ugboro asatọ\nTranslation: Tottenham has won eight FA cup competitions.\n\nSentence: Tottenham emerila n'asọmpị iko FA ugboro asatọ\nTranslation:", "Translate the Igbo sentence below to English.\n\nSentence: Mmeri a pụtara na Tottenham na otu Swansea ga-asọ mpi Quarter Final n'iko FA a ga-agba n'ụbọchị 17 nke ọnwa Maachị.\nTranslation: This victory means that Tottenham is to compete with Swansea in the FA cup quarter final on the 17th of March. \n\nSentence: Son Heung-min nyere goolu nke mbụ na nke ise. Fernando Llorente nyere goolu atọ n'ime nkeji iri na abụọ n'okara nke abụọ, ebe Kyle Walter-Peters nyere goolu nke isi.\nTranslation: Son Heung-min scored the first and the fifth goal. Fernando Llorente scored hatrick within twelve minutes of the second half, while Kyle Walter-Peters scored the sixth goal.\n\nSentence: Son Heung-min kwụsị bọọlụ otu Rochadale\nTranslation: If Son Heung-min stops playing with Rochadale \n\nSentence: Son Heung-min kwụsị bọọlụ otu Rochadale\nTranslation:"]
+Avg length of prompts 700.6773333333333
+generation progress: 0/12... batch time: 8.79s
+generation progress: 1/12... batch time: 8.81s
+generation progress: 2/12... batch time: 8.79s
+generation progress: 3/12... batch time: 8.79s
+generation progress: 4/12... batch time: 8.81s
+generation progress: 5/12... batch time: 8.80s
+generation progress: 6/12... batch time: 8.79s
+generation progress: 7/12... batch time: 8.79s
+generation progress: 8/12... batch time: 8.79s
+generation progress: 9/12... batch time: 8.79s
+generation progress: 10/12... batch time: 8.79s
+generation progress: 11/12... batch time: 6.67s
+Message:
+Translate the Igbo sentence below to English.
+
+Sentence: Akụkọ ndị ga-amasị gị:
+Translation: The news that will interest you:
+
+Sentence: Joseph Achuzie, Dike Biafra alala
+Translation: Joseph Achuzie, the Biafran brave man is gone.
+
+Sentence: Dapchi: Gọọmenti emeribeghị Boko Haram - Massob
+Translation: Dapchi: Government has not defeated Boko Haram and Massob
+
+Sentence: Dapchi: Gọọmenti emeribeghị Boko Haram - Massob
+Translation:
+Entire output:
+Translate the Igbo sentence below to English.
+
+Sentence: Akụkọ ndị ga-amasị gị:
+Translation: The news that will interest you:
+
+Sentence: Joseph Achuzie, Dike Biafra alala
+Translation: Joseph Achuzie, the Biafran brave man is gone.
+
+Sentence: Dapchi: Gọọmenti emeribeghị Boko Haram - Massob
+Translation: Dapchi: Government has not defeated Boko Haram and Massob
+
+Sentence: Dapchi: Gọọmenti emeribeghị Boko Haram - Massob
+Translation: Dapchi: Government has not defeated Boko Haram and Massob
+
+SentENCE: Nnukwu na-agba n'obi gwamgwa izu ohi nkejọ
+translated as follows:
+
+ Ndi nkwụuru a banyere n’obi gawara ya agbanye ihe jikọ njọ
+(Nna) Agbara nwere (Nke) Ọghọma (Iji). 
+ Nke meretara dịka ka ọnụ ahịa ma kpọrọ onye ọbụlaọrụ ha abaghiri maka
+makana. Ya nwekwara a pụrụiche iche niile anya n'ihu ndi ozo di ndu uduo.
+Mmademadum adighachieluo nwanne nwaye n'ime obodo. Ekebereruola buweghi otugbugbu n'ebe ahu
+bụluoro n'eluigwebe e kere eke. Mkpuchi nwata nwaawa awaa. Mana mma si elelela anya n'ụlọ
+ndinan'tule. Ka esichabe akpa aka nrika ụra n'otutu. Ụta
+nweghachi maria wee burula n'et
+Cropped output:
+n: Dapchi: Government has not defeated Boko Haram and Massob
+
+SentENCE: Nnukwu na-agba n'obi gwamgwa izu ohi nkejọ
+translated as follows:
+
+ Ndi nkwụuru a banyere n’obi gawara ya agbanye ihe jikọ njọ
+(Nna) Agbara nwere (Nke) Ọghọma (Iji). 
+ Nke meretara dịka ka ọnụ ahịa ma kpọrọ onye ọbụlaọrụ ha abaghiri maka
+makana. Ya nwekwara a pụrụiche iche niile anya n'ihu ndi ozo di ndu uduo.
+Mmademadum adighachieluo nwanne nwaye n'ime obodo. Ekebereruola buweghi otugbugbu n'ebe ahu
+bụluoro n'eluigwebe e kere eke. Mkpuchi nwata nwaawa awaa. Mana mma si elelela anya n'ụlọ
+ndinan'tule. Ka esichabe akpa aka nrika ụra n'otutu. Ụta
+nweghachi maria wee burula n'et
+Evaluation completed.

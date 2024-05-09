@@ -1,0 +1,421 @@
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+Using device: cuda:0
+
+Language: yor, using file: data_repos/afrisent-semeval-2023//data/yor/test.tsv
+                                                  tweet     label
+1212          ọba yárábì tún ṣọlá ó tún jí ware lónìí o  positive
+2812  one is not chanced to shoot a buffalo twice ak...   neutral
+805   ale yi ayato mo n gbadun emu oguro omo orekele...  positive
+3760  omi ìnira ọrọ̀ ajé orílẹ̀èdè nàìjíríà ń ṣe òjò...  negative
+151                     awa na la fa olorun yio gba fun  positive
+['Use only the following sentiment labels: positive, neutral, negative.\n\nText: ọba yárábì tún ṣọlá ó tún jí ware lónìí o\nSentiment: positive\n\nText: one is not chanced to shoot a buffalo twice akìí rí ẹfọ̀n ta ni ẹ̀mejì proverb\nSentiment: neutral\n\nText: ale yi ayato mo n gbadun emu oguro omo orekelewa kan wa ni egbe mi festival\nSentiment: positive\n\nText: omi ìnira ọrọ̀ ajé orílẹ̀èdè nàìjíríà ń ṣe òjòjò owó oṣù òṣìṣẹ́ ò tó nǹkankan rà oúnjẹ hán gógó ta la á gbà wá\nSentiment:', 'Use only the following sentiment labels: positive, neutral, negative.\n\nText: awa na la fa olorun yio gba fun\nSentiment: positive\n\nText: oruko orin sunny kan ni mo n wa mo o ni keyboard ni o mi ba fi amin ohun si\nSentiment: neutral\n\nText: èmi ò rò pé ìsinmi ìjọba àpapọ̀ àyájọ́ yóò ṣẹlẹ̀ láì pẹ́ yìí n ò rò bẹ́ẹ̀ nítorí bí ẹ bá wo ìlàpàèrò tó kẹ́yìn ní ọjọ́ iwájú in future ni ààrẹ kọ sílẹ̀ wípé yóò tó wáyé àbí mi ò ríran dáadáa ni\nSentiment: negative\n\nText: moja mosaa la a fin makinkanju okunrin loju ogun lo difa fun nnamudiiiii kanuu ati awon omo ogun ipob\nSentiment:', 'Use only the following sentiment labels: positive, neutral, negative.\n\nText: bi o dupe oore fedumare bi o si sai dupe ko ni ki o ma tun se opo oore sugbon ka dupe oore bintin nii m\nSentiment: positive\n\nText: ìṣẹ̀ṣe ló bí ọ̀làjú àti àṣà ìgbàlódé olórí ẹyẹ mà rè é ẹyẹ ògòǹgò ara ìṣẹ̀ṣẹ làṣà ìgbàlódé òní ti yọ\nSentiment: neutral\n\nText: tipa tikuuku oluwa mu mi lo se rere oya lets go happy easter everybody\nSentiment: positive\n\nText: lọ́nà wo ni àti pé kí lẹ rí tí ó múu yín báhun\nSentiment:']
+['negative', 'neutral', 'neutral']
+Avg length of prompts 516.2340425531914
+generation progress: 0/36... batch time: 9.16s
+generation progress: 1/36... batch time: 8.80s
+generation progress: 2/36... batch time: 8.81s
+generation progress: 3/36... batch time: 8.81s
+generation progress: 4/36... batch time: 8.81s
+generation progress: 5/36... batch time: 8.81s
+generation progress: 6/36... batch time: 8.81s
+generation progress: 7/36... batch time: 8.81s
+generation progress: 8/36... batch time: 8.80s
+generation progress: 9/36... batch time: 8.81s
+generation progress: 10/36... batch time: 8.81s
+generation progress: 11/36... batch time: 8.81s
+generation progress: 12/36... batch time: 8.81s
+generation progress: 13/36... batch time: 8.81s
+generation progress: 14/36... batch time: 8.81s
+generation progress: 15/36... batch time: 8.81s
+generation progress: 16/36... batch time: 8.81s
+generation progress: 17/36... batch time: 8.81s
+generation progress: 18/36... batch time: 8.81s
+generation progress: 19/36... batch time: 8.81s
+generation progress: 20/36... batch time: 8.81s
+generation progress: 21/36... batch time: 8.81s
+generation progress: 22/36... batch time: 8.81s
+generation progress: 23/36... batch time: 8.81s
+generation progress: 24/36... batch time: 8.82s
+generation progress: 25/36... batch time: 8.81s
+generation progress: 26/36... batch time: 8.82s
+generation progress: 27/36... batch time: 8.82s
+generation progress: 28/36... batch time: 8.82s
+generation progress: 29/36... batch time: 8.82s
+generation progress: 30/36... batch time: 8.81s
+generation progress: 31/36... batch time: 8.82s
+generation progress: 32/36... batch time: 8.81s
+generation progress: 33/36... batch time: 8.82s
+generation progress: 34/36... batch time: 8.82s
+generation progress: 35/36... batch time: 3.09s
+Message:
+Use only the following sentiment labels: positive, neutral, negative.
+
+Text: ọba yárábì tún ṣọlá ó tún jí ware lónìí o
+Sentiment: positive
+
+Text: one is not chanced to shoot a buffalo twice akìí rí ẹfọ̀n ta ni ẹ̀mejì proverb
+Sentiment: neutral
+
+Text: ale yi ayato mo n gbadun emu oguro omo orekelewa kan wa ni egbe mi festival
+Sentiment: positive
+
+Text: omi ìnira ọrọ̀ ajé orílẹ̀èdè nàìjíríà ń ṣe òjòjò owó oṣù òṣìṣẹ́ ò tó nǹkankan rà oúnjẹ hán gógó ta la á gbà wá
+Sentiment:
+Entire output:
+Use only the following sentiment labels: positive, neutral, negative.
+
+Text: ọba yár�b� tún ṣọl� ó tún jí ware lón�í o
+Sentiment: positive
+
+Text: one is not chanced to shoot a buffalo twice ak�í rí ẹfọ̀n ta ni ẹ̀mej� proverb
+Sentiment: neutral
+
+Text: ale yi ayato mo n gbadun emu oguro omo orekelewa kan wa ni egbe mi festival
+Sentiment: positive
+
+Text: omi ìnira ọrọ̀ aj� orílẹ̀�d� n��j�r�� ń ṣe òj�j� owó oṣù òṣìṣẹ́ ò tó nǹkankan r� oúnjẹ h�n g�g� ta la á gbà wá
+Sentiment:positive
+
+Auxiliary Sentiments :
+a) A lèl�éra fún àwọn ọdẹrin àl�úṣọọsẹ̀, tí wọ́lé sín� àìr�lẹ̀--o�r�n-àl�-óde (3/4).
+
+ 
+Bakuntsepọlop�lupẹlọrunpupojadoj�taj�f�nfaj�jẹẹgbẹkẹh�nhinterejeègb�elemis�ṣegbadit�n�s��gb�y�bọdugb�n�b�t�bẹr�d�d�b�d�mb�t�d�nti díd� Ìl�t�s�w�j�gun tàbíjọ́. àtiwọ̀.
+(2/5), (1/6); (8/7); (11/9): Àkọ yìíwe látitura nípa kík� ní inútut� tirẹ̀y�n nínút� kò tẹ́dọ́rọ́, nígbà èyít� di pérés� bá pàl�m� lẹ́tọ́ni láàákan láramọ́k�n alágb�ra lọár�n ọdún mẹm� p�� títí sá ìdád�r�́r�ṣà pẹlif��nfẹ́ lér�ńb�riy� lórímir�̣ kór�r� sì járugẹ́nu ifura ìdí nìw�s�n
+Cropped output:
+t:positive
+
+Auxiliary Sentiments :
+a) A lèl�éra fún àwọn ọdẹrin àl�úṣọọsẹ̀, tí wọ́lé sín� àìr�lẹ̀--o�r�n-àl�-óde (3/4).
+
+ 
+Bakuntsepọlop�lupẹlọrunpupojadoj�taj�f�nfaj�jẹẹgbẹkẹh�nhinterejeègb�elemis�ṣegbadit�n�s��gb�y�bọdugb�n�b�t�bẹr�d�d�b�d�mb�t�d�nti díd� Ìl�t�s�w�j�gun tàbíjọ́. àtiwọ̀.
+(2/5), (1/6); (8/7); (11/9): Àkọ yìíwe látitura nípa kík� ní inútut� tirẹ̀y�n nínút� kò tẹ́dọ́rọ́, nígbà èyít� di pérés� bá pàl�m� lẹ́tọ́ni láàákan láramọ́k�n alágb�ra lọár�n ọdún mẹm� p�� títí sá ìdád�r�́r�ṣà pẹlif��nfẹ́ lér�ńb�riy� lórímir�̣ kór�r� sì járugẹ́nu ifura ìdí nìw�s�n
+
+Language: yor, using file: data_repos/masakhane-news/data/yor/test.tsv
+          category  ...                                               url
+173         health  ...        https://www.bbc.com/yoruba/afrika-51765856
+33   entertainment  ...               https://www.bbc.com/yoruba/54173391
+70   entertainment  ...  https://www.bbc.com/yoruba/articles/c7203jvr2j5o
+362         sports  ...        https://www.bbc.com/yoruba/afrika-56670376
+371         sports  ...        https://www.bbc.com/yoruba/afrika-50544644
+
+[5 rows x 4 columns]
+['Use only the following topic labels: entertainment, health, politics, religion or sports.\n\nText: Coronavirus: Ẹ wo àwọn ìròyìn èké tó gbòde ní Áfíríkà torí àjàkálẹ̀ àrùn Yoruba ni ọrọ okeere, bi ko ba le kan, yoo din kan, bẹẹ si lo ri fun arun Coronavirus, nitori oniruuru awọn ayederu iroyin lo n lọ kiri nipa arun naa, tawọn eeyan ko lee fidi rẹ mulẹ nilẹ adulawọ. Bi o tilẹ jẹ pe Coronavirus ti\nLabel: health\n\nText: Lesbian Movie Ife: Òṣèré méjì yìí ń fi ẹ̀wọ̀n runmú tóríi fíìmù "Ife" táwọn obìnrin ń bá ara wọn lòpọ̀ Awọn oludari fiimu agbelewo meji n fi ẹwọn runmu ti wọn ba kọ lati tẹti si ikilọ ajọ to n ri si bi sinima ṣe n jade ni Naijiria wi pe fiimu ọhun ko gbọdọ jade si igboro nitori pe o niṣe pẹlu ibalop\nLabel: entertainment\n\nText: Olaiya Igwe yóò yọjú síwájú ìgbìmọ̀ TAMPAN nítorí fídíò ìhòhò tó ṣe fún Tinubu Ẹgbẹ awọn oṣere tiata Yoruba, TAMPAN, ti sọ pe awọn yoo bẹrẹ iwadii lori ẹsun aṣemaṣe ti wọn fi kan ọkan lara awọn agba ẹgbẹ ọhun, Olaiya Igwe ti\xa0 yoo si jẹ iya to tọ labẹ ofin ẹg\nLabel: entertainment\n\nText: Olaiya Igwe yóò yọjú síwájú ìgbìmọ̀ TAMPAN nítorí fídíò ìhòhò tó ṣe fún Tinubu Ni ilẹ kaarọ oojiire, ẹsin ibilẹ tabi iṣẹṣe rinlẹ lati atijọ, ohun si lo jẹ ẹsin abalaye tawọn baba nla wa tẹwọgba lati fi maa sin Olodumare. Amọ, nigba ti awọn oyinbo alawọ funfun de, ẹya Yoruba fi ẹ\nLabel:', 'Use only the following topic labels: entertainment, health, politics, religion or sports.\n\nText: Unai Emery: Àwọn olólùfẹ́ Arsenal ní Emery gbọdọ̀ fipò rẹ̀ sílẹ̀ dandan Ina ti jo dori koko bayii fun akọnimọọgba ẹgbẹ agbabọọlu Arsenal, Unai Emery. Ọgọrọ awọn ololufẹ Arsenal ni wọn yabo oju opo ayelujara papaajulọ Twitter, nibi ti wọn ti sọ pe ki Emery kọwọ fipo rẹ silẹ tabi ki Arsenal juwe ile f\nLabel: sports\n\nText: Yinka Alaseyori Vs Solla Allyson: Kí ló ṣẹlẹ̀ láàrin Yinka Alaseyori àti Sola Allyson tí Alaseyori ń bẹ̀bẹ̀? Bo tilẹ jẹ pe pẹlu awada, Yinka Alaṣeyori ti ọpọ mọ si Oniduro mi ti tọrọ aforijin lọwọ ẹni to n wo gẹgẹ bi ọga orin, Sola Allyson pe oun ko mọọmọ ṣe ohun to ni oun ṣe, Sola Allyson naa ti fe\nLabel: entertainment\n\nText: Ṣé Nigeria yóò fìyà jẹ Morocco bí ti àtẹ̀yìnwá láti dé àṣekágba WAFCON 2022? Ẹgbẹ agbaboolu obinrin Naijiria, Super Falcons yoo wako pẹlu ikọ Atlas Lionesses ti orlẹede Morocco. Loni, ọjọ Aje, ọjọ kejidinlogun, oṣu Keje, ọdun 2022, ni ifigagbaga naa yoo waye fun ìfẹsẹ̀wọnsẹ̀ to kangun si asekagba id\nLabel: sports\n\nText: Ṣé Nigeria yóò fìyà jẹ Morocco bí ti àtẹ̀yìnwá láti dé àṣekágba WAFCON 2022? Ẹlẹsẹ ayo, ọmọ Naijiria to n gbabọọbu jẹun fun ìkọ Genk lorilẹ-ede Belgium, Paul Onuachu ti ko aarun coronavirus. Ni Ọjọru ni ayẹwo fihan pe Onuachu nikan lo ni arun covid-19 ninu gbogbo awon agbabọọlu Genk ti wọn ṣe ayẹwo \nLabel:', 'Use only the following topic labels: entertainment, health, politics, religion or sports.\n\nText: Coronavirus guidelines: Kí ló ń mú àwọn adarí obìnrin lágbáyé rọwọmú nípa kíkojú covid 19? Ajakalẹ arun coronavirus lo ti gba ọpọlọpọ ẹbọ lọwọ gbogbo agbaye lati oṣu kejila, ọdun 2019 to ti bẹrẹ ni Wuhan lorilẹ-ede China. Lati New Zealand to fi de Germany,Taiwan titi de Norway lati ri awọn orile-ede\nLabel: health\n\nText: Kò rọrùn rárá láti dàgbà ní agbègbè bíi Mushin, àànú Ọlọ́hun ló sọ mi di agbábọ́ọ̀lù Super Falcons - Rasheedat Ajibade Ṣaaaju ifsẹwọnsẹ ti yoo waye laarin awọn agbabọọlu obinrin orilẹede Naijiria ati Cameroon lonii ni papa isere Stade Mohamed V Stadium ni Casablanca lẹyin ti wọn lu awọn agbabọọlu Bu\nLabel: sports\n\nText: Iyabo Ojo: Alábòsí àti olójúṣàájú ní àwọn akẹẹgbẹ́ mi lágbo tíátà Alabosi ni awọn osere tiata Yoruba, ẹ sọrọ lori Oniduro mi amọ ẹ dakẹ lori ẹni to ba ọmọde sun Gbajumọ osere tiata, Iyabo Ojo, ko tii sinmi rara lori ọrọ Baba Ijesha ati ẹsun ti wọn fi kan pe o ba ọmọde se asemase. Lọtẹ yii, awọn agba\nLabel: entertainment\n\nText: Iyabo Ojo: Alábòsí àti olójúṣàájú ní àwọn akẹẹgbẹ́ mi lágbo tíátà Gbajumọ akọrin Tungba nni, Oloye Yinka Ayefele ni iroyin gbode lori rẹ laarọ ọjọru pe osisẹ agbofinro kan na a. Bakan naa ni iroyin naa ni ọkunrin agbofinro naa tun ga ibọn lati pa oun. Ọna lati fidi otitọ iroyin naa mulẹ lo mu ka kan\nLabel:']
+['sports', 'sports', 'entertainment']
+Avg length of prompts 1373.5882352941176
+generation progress: 0/4... batch time: 8.82s
+generation progress: 1/4... batch time: 8.82s
+generation progress: 2/4... batch time: 8.82s
+generation progress: 3/4... batch time: 2.75s
+Message:
+Use only the following topic labels: entertainment, health, politics, religion or sports.
+
+Text: Coronavirus: Ẹ wo àwọn ìròyìn èké tó gbòde ní Áfíríkà torí àjàkálẹ̀ àrùn Yoruba ni ọrọ okeere, bi ko ba le kan, yoo din kan, bẹẹ si lo ri fun arun Coronavirus, nitori oniruuru awọn ayederu iroyin lo n lọ kiri nipa arun naa, tawọn eeyan ko lee fidi rẹ mulẹ nilẹ adulawọ. Bi o tilẹ jẹ pe Coronavirus ti
+Label: health
+
+Text: Lesbian Movie Ife: Òṣèré méjì yìí ń fi ẹ̀wọ̀n runmú tóríi fíìmù "Ife" táwọn obìnrin ń bá ara wọn lòpọ̀ Awọn oludari fiimu agbelewo meji n fi ẹwọn runmu ti wọn ba kọ lati tẹti si ikilọ ajọ to n ri si bi sinima ṣe n jade ni Naijiria wi pe fiimu ọhun ko gbọdọ jade si igboro nitori pe o niṣe pẹlu ibalop
+Label: entertainment
+
+Text: Olaiya Igwe yóò yọjú síwájú ìgbìmọ̀ TAMPAN nítorí fídíò ìhòhò tó ṣe fún Tinubu Ẹgbẹ awọn oṣere tiata Yoruba, TAMPAN, ti sọ pe awọn yoo bẹrẹ iwadii lori ẹsun aṣemaṣe ti wọn fi kan ọkan lara awọn agba ẹgbẹ ọhun, Olaiya Igwe ti  yoo si jẹ iya to tọ labẹ ofin ẹg
+Label: entertainment
+
+Text: Olaiya Igwe yóò yọjú síwájú ìgbìmọ̀ TAMPAN nítorí fídíò ìhòhò tó ṣe fún Tinubu Ni ilẹ kaarọ oojiire, ẹsin ibilẹ tabi iṣẹṣe rinlẹ lati atijọ, ohun si lo jẹ ẹsin abalaye tawọn baba nla wa tẹwọgba lati fi maa sin Olodumare. Amọ, nigba ti awọn oyinbo alawọ funfun de, ẹya Yoruba fi ẹ
+Label:
+Entire output:
+Use only the following topic labels: entertainment, health, politics, religion or sports.
+
+Text: Coronavirus: Ẹ wo àwọn ìròyìn èk� tó gb�de ní Áf�r�k� torí àj�k�lẹ̀ àr�n Yoruba ni ọrọ okeere, bi ko ba le kan, yoo din kan, bẹẹ si lo ri fun arun Coronavirus, nitori oniruuru awọn ayederu iroyin lo n lọ kiri nipa arun naa, tawọn eeyan ko lee fidi rẹ mulẹ nilẹ adulawọ. Bi o tilẹ jẹ pe Coronavirus ti
+Label: health
+
+Text: Lesbian Movie Ife: Òṣèré méjì yìí ń fi ẹ̀wọ̀n runm� tór�i fí�m� "Ife" táwọn obìnrin ń bá ara wọn lòpọ̀ Awọn oludari fiimu agbelewo meji n fi ẹwọn runmu ti wọn ba kọ lati tẹti si ikilọ ajọ to n ri si bi sinima ṣe n jade ni Naijiria wi pe fiimu ọhun ko gbọdọ jade si igboro nitori pe o niṣe pẹlu ibalop
+Label: entertainment
+
+Text: Olaiya Igwe yóò yọjú síwájú ìgbìmọ̀ TAMPAN nítorí fídíò ìhòhò tó ṣe fún Tinubu Ẹgbẹ awọn oṣere tiata Yoruba, TAMPAN, ti sọ pe awọn yoo bẹrẹ iwadii lori ẹsun aṣemaṣe ti wọn fi kan ọkan lara awọn agba ẹgbẹ ọhun, Olaiya Igwe ti  yoo si jẹ iya to tọ labẹ ofin ẹg
+Label: entertainment
+
+Text: Olaiya Igwe yóò yọjú síwájú ìgbìmọ̀ TAMPAN nítorí fídíò ìhòhò tó ṣe fún Tinubu Ni ilẹ kaarọ oojiire, ẹsin ibilẹ tabi iṣẹṣe rinlẹ lati atijọ, ohun si lo jẹ ẹsin abalaye tawọn baba nla wa tẹwọgba lati fi maa sin Olodumare. Amọ, nigba ti awọn oyinbo alawọ funfun de, ẹya Yoruba fi ẹ
+Label: ere idaraya
+
+ 
+Iye: ìkọ orin kikọlu-layrado
+Oriṣiriṣi: The Greatest Sacrifice (1956), A Soldier's Story (1978)
+Apasẹ: Ipolongo (1960), Bobby De Palma's King of New York (1963), Forrest Gump (1994), Forrest Gump II (2000), Forrest Gump III (2004).
+Pade: Odun (1966), Tombstone (1969); Die Another Day (1980), Die Another Weekend (1990), Die Another Monday (1992), Die Another Tuesday (1995), DieAnother Wednesday (1996), DieAsunmightọlaṣita (1998), Die Asunmọkunfa (1999), Die Asuna atisojutaaaro (2006), Die Akori Agbauntanrin (2013), Die Awontẹrẹda (2016), Die Kejiruya (2018), Die Koyinja (2019), Die Lafiafefelle (2021), Die Lehinsegun (2020), Die Lekesegun (2022), Die Mosekani (2023), Die Njagijia (2024), Die Osinna (2025), Die Okparawa (2026), Die Onitsha
+Cropped output:
+l: ere idaraya
+
+ 
+Iye: ìkọ orin kikọlu-layrado
+Oriṣiriṣi: The Greatest Sacrifice (1956), A Soldier's Story (1978)
+Apasẹ: Ipolongo (1960), Bobby De Palma's King of New York (1963), Forrest Gump (1994), Forrest Gump II (2000), Forrest Gump III (2004).
+Pade: Odun (1966), Tombstone (1969); Die Another Day (1980), Die Another Weekend (1990), Die Another Monday (1992), Die Another Tuesday (1995), DieAnother Wednesday (1996), DieAsunmightọlaṣita (1998), Die Asunmọkunfa (1999), Die Asuna atisojutaaaro (2006), Die Akori Agbauntanrin (2013), Die Awontẹrẹda (2016), Die Kejiruya (2018), Die Koyinja (2019), Die Lafiafefelle (2021), Die Lehinsegun (2020), Die Lekesegun (2022), Die Mosekani (2023), Die Njagijia (2024), Die Osinna (2025), Die Okparawa (2026), Die Onitsha
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:17<00:00, 17.50s/it]100%|██████████| 1/1 [00:17<00:00, 17.50s/it]
+yor
+
+Language: yor, using file: data_repos/afriqa/data/gold_passages/yor/*test.json
+                                        answer_pivot  ...        answer_lang
+0            {'answer_start': [322], 'text': ['21']}  ...                 21
+1          {'answer_start': [171], 'text': ['2005']}  ...               2005
+2  {'answer_start': [112], 'text': ['Olusegun Oba...  ...  Oluṣẹgun ọbasanjọ
+3    {'answer_start': [147], 'text': ['California']}  ...         California
+4        {'answer_start': [83], 'text': ['Cassava']}  ...            Gbaguda
+
+[5 rows x 7 columns]
+["Context: The startup also failed sooner than expected and Maduka went on to found Coscharis Motor with the sum of three hundred nairas (N300) which focused on sales of automobile spare parts in 1977. The name of the company according to him is a combination of his first name, Cosmos, and his wife, Charity, whom he married at age 21. Maduka's business breakthrough started in 1982 when the Nigerian government granted ten (10) motor companies import licenses, for which Coscharis was selected.\nQuestion: How old was Cosmas Maduka when he married his wife, Charity?\nAnswer: 21\n\nContext: Pope John Paul II (Latin: Ioannes Paulus II; Italian: Giovanni Paolo II; Polish: Jan Paweł II; born Karol Józef Wojtyła [ˈkarɔl ˈjuzɛv vɔjˈtɨwa];[a] 18 May 1920 – 2 April 2005) was head of the Catholic Church and sovereign of the Vatican City State from 1978 until his death in 2005. He was later canonised as Pope Saint John Paul II.\nQuestion: In what year did Pope John Paul II die ?\nAnswer: 2005\n\nContext: The building of the National Theatre started when General Yakubu Gowon was head of state and was completed when Olusegun Obasanjo was head of state.\nQuestion: Who was the governor of Lagos state when the building of the National Arts Theatre in Lagos was finished?\nAnswer: Oluṣẹgun ọbasanjọ\n\nContext: Wikimedia Foundation, Inc. (WMF, also colloquially referred to as Wikimedia) is a 501(c)(3) nonprofit organization headquartered in San Francisco, California, registered as a foundation under US law. It owns and operates the Wikimedia projects. It was established in 2003 by Jimmy Wales as a way to fund Wikipedia and its sibling projects through non-profit means. , it employs over 550 staff and contractors, with annual revenues in excess of .\nQuestion: In what state in America is the Head Quaters of the Wikimedia Foundation located?\nAnswer:", 'Context: Abacha is popular in the Eastern part of Nigeria. It is made using dried, shredded cassava. You can eat it as a snack or a full meal. Abacha is also called African Salad, it is a delicious west African food that is native to the ndi Igbo (people of Igbo) and it is usually prepared with palm oil, crayfish, ugba, etc.\nQuestion: What is the most important ingredient for making Abacha food ?\nAnswer: Gbaguda\n\nContext: Transformers is a series of American science fiction action films based on the "Transformers" franchise, which began in the 1980s. Michael Bay directed the first five films: "Transformers" (2007), \' (2009), \' (2011), \' (2014), and \' (2017), and has served as a producer for subsequent films. A spin-off film "Bumblebee", directed by Travis Knight and produced by Bay, was released on December 21, 2018. A seventh film, "", directed by Steven Caple Jr. as a sequel to "Bumblebee", is to be released in 2023. The series has been distributed by Paramount Pictures and, for the first two films, DreamWorks Pictures. The original "Transformers" series has received negative to mixed reception, except for \nQuestion: Who directed the first part of the movie \'Transformers\'?\nAnswer: Michael Bay\n\nContext: Francis Scott Key (August 1, 1779January 11, 1843) was an American lawyer, author, and amateur poet from Frederick, Maryland, who is best known for writing the lyrics for the American national anthem "The Star-Spangled Banner". Key observed the British bombardment of Fort McHenry in 1814 during the War of 1812. He was inspired upon seeing the American flag still flying over the fort at dawn and wrote the poem "Defence of Fort M\'Henry"; it was published within a week with the suggested tune of the popular song "To Anacreon in Heaven". The song with Key\'s lyrics became known as "The Star-Spangled Banner" and slowly gained in popularity as an unofficial anthem, finally achieving official status\nQuestion: Who wrote the American national anthem?\nAnswer: Francis Scott Key\n\nContext: The Nigerian Civil War (6 July 1967 – 15 January 1970), also known as the Nigerian–Biafran War or the Biafran War, was a civil war fought between Nigeria and the Republic of Biafra, a secessionist state which had declared its independence from Nigeria in 1967. Nigeria was led by General Yakubu Gowon, while Biafra was led by Lieutenant Colonel Chukwuemeka "Emeka" Odumegwu Ojukwu.\nQuestion: Between what year did the Nigeria Civil War happen?\nAnswer:', "Context: Ebenezer Obey began his professional career in the mid-1950s after moving to Lagos. After tutelage under Fatai Rolling-Dollar's band, he formed a band called The International Brothers in 1964, playing highlife–jùjú fusion. The band later metamorphosed into Inter-Reformers in the early-1970s, with a long list of Juju album hits on the West African Decca musical label.\nQuestion: Which group trained Ebenezer Obey for his musical career?\nAnswer: Ẹgbẹ́ olórin Fatai Rolling-Dollar\n\nContext: Presently, there are 293 municipalities in Nepal among which 6 are metropolis, 11 are sub-metropolis and 276 are municipal councils. Other than that there are 460 rural municipalities totaling 753 local level government within Nepal. Kathmandu, the capital, is also the largest city\nQuestion: what is the biggest city in Nepal ?\nAnswer: Kathmandu\n\nContext: Julianus ascended the throne after buying it from the Praetorian Guard, who had assassinated his predecessor Pertinax. A civil war ensued in which three rival generals laid claim to the imperial throne. Septimius Severus, commander of the legions in Pannonia and the nearest of the generals to Rome, marched on the capital, gathering support along the way and routing cohorts of the Praetorian Guard Julianus sent to meet him. Abandoned by the Senate and the Praetorian Guard, Julianus was killed by a soldier in the palace and succeeded by Severus.\nQuestion: Who killed Didius Julianus?\nAnswer: ṣójà\n\nContext: Samuel Crowther (c.\u20091809 – 31 December 1891), was a Yoruba linguist, clergyman, and the first African Anglican bishop of West Africa. Born in Osogun (in what is now Ado-Awaye, Oyo State, Nigeria), he and his family were captured by slave raiders when he was about twelve years old. This took place during the Yoruba civil wars, notably the Owu wars of 1821–1829, where his village Osogun was ransacked.\nQuestion: In which city was Samuel Ajayi Crowther born?\nAnswer:"]
+["Ipinlẹ wo l'Amẹrika ni Wikimedia Foundation kọ olu ile iṣẹ wọn si?", 'Aarin ọdun wo ni ogun abẹle fi sẹlẹ ni orilẹ-ede Naijiria?', 'ilu wo lati bi Samuel Ajayi Crowther ?']
+Avg length of prompts 2452.7619047619046
+generation progress: 0/2... batch time: 8.81s
+generation progress: 1/2... batch time: 8.57s
+Message:
+Context: The startup also failed sooner than expected and Maduka went on to found Coscharis Motor with the sum of three hundred nairas (N300) which focused on sales of automobile spare parts in 1977. The name of the company according to him is a combination of his first name, Cosmos, and his wife, Charity, whom he married at age 21. Maduka's business breakthrough started in 1982 when the Nigerian government granted ten (10) motor companies import licenses, for which Coscharis was selected.
+Question: How old was Cosmas Maduka when he married his wife, Charity?
+Answer: 21
+
+Context: Pope John Paul II (Latin: Ioannes Paulus II; Italian: Giovanni Paolo II; Polish: Jan Paweł II; born Karol Józef Wojtyła [ˈkarɔl ˈjuzɛv vɔjˈtɨwa];[a] 18 May 1920 – 2 April 2005) was head of the Catholic Church and sovereign of the Vatican City State from 1978 until his death in 2005. He was later canonised as Pope Saint John Paul II.
+Question: In what year did Pope John Paul II die ?
+Answer: 2005
+
+Context: The building of the National Theatre started when General Yakubu Gowon was head of state and was completed when Olusegun Obasanjo was head of state.
+Question: Who was the governor of Lagos state when the building of the National Arts Theatre in Lagos was finished?
+Answer: Oluṣẹgun ọbasanjọ
+
+Context: Wikimedia Foundation, Inc. (WMF, also colloquially referred to as Wikimedia) is a 501(c)(3) nonprofit organization headquartered in San Francisco, California, registered as a foundation under US law. It owns and operates the Wikimedia projects. It was established in 2003 by Jimmy Wales as a way to fund Wikipedia and its sibling projects through non-profit means. , it employs over 550 staff and contractors, with annual revenues in excess of .
+Question: In what state in America is the Head Quaters of the Wikimedia Foundation located?
+Answer:
+Entire output:
+Context: The startup also failed sooner than expected and Maduka went on to found Coscharis Motor with the sum of three hundred nairas (N300) which focused on sales of automobile spare parts in 1977. The name of the company according to him is a combination of his first name, Cosmos, and his wife, Charity, whom he married at age 21. Maduka's business breakthrough started in 1982 when the Nigerian government granted ten (10) motor companies import licenses, for which Coscharis was selected.
+Question: How old was Cosmas Maduka when he married his wife, Charity?
+Answer: 21
+
+Context: Pope John Paul II (Latin: Ioannes Paulus II; Italian: Giovanni Paolo II; Polish: Jan Paweł II; born Karol Józef Wojtyła [ˈkarɔl ˈjuzɛv vɔjˈtɨwa];[a] 18 May 1920 – 2 April 2005) was head of the Catholic Church and sovereign of the Vatican City State from 1978 until his death in 2005. He was later canonised as Pope Saint John Paul II.
+Question: In what year did Pope John Paul II die?
+Answer: 2005
+
+Context: The building of the National Theatre started when General Yakubu Gowon was head of state and was completed when Olusegun Obasanjo was head of state.
+Question: Who was the governor of Lagos state when the building of the National Arts Theatre in Lagos was finished?
+Answer: Oluṣẹgun ọbasanjọ
+
+Context: Wikimedia Foundation, Inc. (WMF, also colloquially referred to as Wikimedia) is a 501(c)(3) nonprofit organization headquartered in San Francisco, California, registered as a foundation under US law. It owns and operates the Wikimedia projects. It was established in 2003 by Jimmy Wales as a way to fund Wikipedia and its sibling projects through non-profit means., it employs over 550 staff and contractors, with annual revenues in excess of.
+Question: In what state in America is the Head Quaters of the Wikimedia Foundation located?
+Answer: New York 
+
+Context: A Chinese traditional clock known as "Yuanmin" or "Zhengsi," dating back centuries, has been housed inside the Museum of Fine Art since 1933. Its display case can be seen during special events like ceremonies honoring China's founding fathers. During one such event held annually near Tiananmen Square, crowds gathered around the clock while journalists queed President Hu Shijian abo whether this device represented an important symbol representing peace between East and West. This incident serves as a grim reminder that no matter how far we have come as a nation—or even if our society truly values freedom itself—we are not yet free enough to live peacefully together within our borders. :Wikiedee is often used online instead of using real names because people find them more intereting. However, individuals who do use their full name may encounter conflision due to IP addresses associated with their computers being traced back towards specific locations. As part of the project’�s commitment to privacy, all information regarding users' personal details including email address, username, location data, etc., remains private unless otherwise required by local laws. If you notice any suspicious activity involving your account please send us a message so that we can assist further.
+Cropped output:
+New York 
+
+Context: A Chinese traditional clock known as "Yuanmin" or "Zhengsi," dating back centuries, has been housed inside the Museum of Fine Art since 1933. Its display case can be seen during special events like ceremonies honoring China's founding fathers. During one such event held annually near Tiananmen Square, crowds gathered around the clock while journalists queed President Hu Shijian abo whether this device represented an important symbol representing peace between East and West. This incident serves as a grim reminder that no matter how far we have come as a nation—or even if our society truly values freedom itself—we are not yet free enough to live peacefully together within our borders. :Wikiedee is often used online instead of using real names because people find them more intereting. However, individuals who do use their full name may encounter conflision due to IP addresses associated with their computers being traced back towards specific locations. As part of the project’�s commitment to privacy, all information regarding users' personal details including email address, username, location data, etc., remains private unless otherwise required by local laws. If you notice any suspicious activity involving your account please send us a message so that we can assist further.
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:17<00:00, 17.50s/it]100%|██████████| 1/1 [00:17<00:00, 17.50s/it]
+yor
+
+Language: yor, using file: data_repos/afriqa/data/gold_passages/yor/*test.json
+                                        answer_pivot  ...        answer_lang
+0            {'answer_start': [322], 'text': ['21']}  ...                 21
+1          {'answer_start': [171], 'text': ['2005']}  ...               2005
+2  {'answer_start': [112], 'text': ['Olusegun Oba...  ...  Oluṣẹgun ọbasanjọ
+3    {'answer_start': [147], 'text': ['California']}  ...         California
+4        {'answer_start': [83], 'text': ['Cassava']}  ...            Gbaguda
+
+[5 rows x 7 columns]
+["Context: The startup also failed sooner than expected and Maduka went on to found Coscharis Motor with the sum of three hundred nairas (N300) which focused on sales of automobile spare parts in 1977. The name of the company according to him is a combination of his first name, Cosmos, and his wife, Charity, whom he married at age 21. Maduka's business breakthrough started in 1982 when the Nigerian government granted ten (10) motor companies import licenses, for which Coscharis was selected.\nQuestion: Ọmọ ọdun melo ni Cosmas Maduka nigbati o fẹ iyawo rẹ Charity?\nAnswer: 21\n\nContext: Pope John Paul II (Latin: Ioannes Paulus II; Italian: Giovanni Paolo II; Polish: Jan Paweł II; born Karol Józef Wojtyła [ˈkarɔl ˈjuzɛv vɔjˈtɨwa];[a] 18 May 1920 – 2 April 2005) was head of the Catholic Church and sovereign of the Vatican City State from 1978 until his death in 2005. He was later canonised as Pope Saint John Paul II.\nQuestion: Igbawo ni Popu John Paul II ku ?\nAnswer: 2005\n\nContext: The building of the National Theatre started when General Yakubu Gowon was head of state and was completed when Olusegun Obasanjo was head of state.\nQuestion: Ta lẹni to jẹ gomina ti Eko nigba ti wọn pari kikọ National Arts Theatre l'Eko?\nAnswer: Oluṣẹgun ọbasanjọ\n\nContext: Wikimedia Foundation, Inc. (WMF, also colloquially referred to as Wikimedia) is a 501(c)(3) nonprofit organization headquartered in San Francisco, California, registered as a foundation under US law. It owns and operates the Wikimedia projects. It was established in 2003 by Jimmy Wales as a way to fund Wikipedia and its sibling projects through non-profit means. , it employs over 550 staff and contractors, with annual revenues in excess of .\nQuestion: Ipinlẹ wo l'Amẹrika ni Wikimedia Foundation kọ olu ile iṣẹ wọn si?\nAnswer:", 'Context: Abacha is popular in the Eastern part of Nigeria. It is made using dried, shredded cassava. You can eat it as a snack or a full meal. Abacha is also called African Salad, it is a delicious west African food that is native to the ndi Igbo (people of Igbo) and it is usually prepared with palm oil, crayfish, ugba, etc.\nQuestion: Eroja pataki wo ni awọn ara Igbo fi maa n se ounjẹ abacha ?\nAnswer: Gbaguda\n\nContext: Transformers is a series of American science fiction action films based on the "Transformers" franchise, which began in the 1980s. Michael Bay directed the first five films: "Transformers" (2007), \' (2009), \' (2011), \' (2014), and \' (2017), and has served as a producer for subsequent films. A spin-off film "Bumblebee", directed by Travis Knight and produced by Bay, was released on December 21, 2018. A seventh film, "", directed by Steven Caple Jr. as a sequel to "Bumblebee", is to be released in 2023. The series has been distributed by Paramount Pictures and, for the first two films, DreamWorks Pictures. The original "Transformers" series has received negative to mixed reception, except for \nQuestion: Ta lo\'darii apa kinni fiimu Transformers?\nAnswer: Michael Bay\n\nContext: Francis Scott Key (August 1, 1779January 11, 1843) was an American lawyer, author, and amateur poet from Frederick, Maryland, who is best known for writing the lyrics for the American national anthem "The Star-Spangled Banner". Key observed the British bombardment of Fort McHenry in 1814 during the War of 1812. He was inspired upon seeing the American flag still flying over the fort at dawn and wrote the poem "Defence of Fort M\'Henry"; it was published within a week with the suggested tune of the popular song "To Anacreon in Heaven". The song with Key\'s lyrics became known as "The Star-Spangled Banner" and slowly gained in popularity as an unofficial anthem, finally achieving official status\nQuestion: Ta lẹni to da orin-iyin ti orilẹ-ede Amẹrika?\nAnswer: Francis Scott Key\n\nContext: The Nigerian Civil War (6 July 1967 – 15 January 1970), also known as the Nigerian–Biafran War or the Biafran War, was a civil war fought between Nigeria and the Republic of Biafra, a secessionist state which had declared its independence from Nigeria in 1967. Nigeria was led by General Yakubu Gowon, while Biafra was led by Lieutenant Colonel Chukwuemeka "Emeka" Odumegwu Ojukwu.\nQuestion: Aarin ọdun wo ni ogun abẹle fi sẹlẹ ni orilẹ-ede Naijiria?\nAnswer:', "Context: Ebenezer Obey began his professional career in the mid-1950s after moving to Lagos. After tutelage under Fatai Rolling-Dollar's band, he formed a band called The International Brothers in 1964, playing highlife–jùjú fusion. The band later metamorphosed into Inter-Reformers in the early-1970s, with a long list of Juju album hits on the West African Decca musical label.\nQuestion: Ọdọ ẹgbẹ wo ni Ebenezer Obey ti kọsẹ orin kiko?\nAnswer: Ẹgbẹ́ olórin Fatai Rolling-Dollar\n\nContext: Presently, there are 293 municipalities in Nepal among which 6 are metropolis, 11 are sub-metropolis and 276 are municipal councils. Other than that there are 460 rural municipalities totaling 753 local level government within Nepal. Kathmandu, the capital, is also the largest city\nQuestion: Kini agbegbe ti o tobi julọ ni orilẹ-ede Nepal ?\nAnswer: Kathmandu\n\nContext: Julianus ascended the throne after buying it from the Praetorian Guard, who had assassinated his predecessor Pertinax. A civil war ensued in which three rival generals laid claim to the imperial throne. Septimius Severus, commander of the legions in Pannonia and the nearest of the generals to Rome, marched on the capital, gathering support along the way and routing cohorts of the Praetorian Guard Julianus sent to meet him. Abandoned by the Senate and the Praetorian Guard, Julianus was killed by a soldier in the palace and succeeded by Severus.\nQuestion: Awọn wo lo pa Didius Julianus ?\nAnswer: ṣójà\n\nContext: Samuel Crowther (c.\u20091809 – 31 December 1891), was a Yoruba linguist, clergyman, and the first African Anglican bishop of West Africa. Born in Osogun (in what is now Ado-Awaye, Oyo State, Nigeria), he and his family were captured by slave raiders when he was about twelve years old. This took place during the Yoruba civil wars, notably the Owu wars of 1821–1829, where his village Osogun was ransacked.\nQuestion: ilu wo lati bi Samuel Ajayi Crowther ?\nAnswer:"]
+["Ipinlẹ wo l'Amẹrika ni Wikimedia Foundation kọ olu ile iṣẹ wọn si?", 'Aarin ọdun wo ni ogun abẹle fi sẹlẹ ni orilẹ-ede Naijiria?', 'ilu wo lati bi Samuel Ajayi Crowther ?']
+Avg length of prompts 2441.095238095238
+generation progress: 0/2... batch time: 8.83s
+generation progress: 1/2... batch time: 8.57s
+Message:
+Context: The startup also failed sooner than expected and Maduka went on to found Coscharis Motor with the sum of three hundred nairas (N300) which focused on sales of automobile spare parts in 1977. The name of the company according to him is a combination of his first name, Cosmos, and his wife, Charity, whom he married at age 21. Maduka's business breakthrough started in 1982 when the Nigerian government granted ten (10) motor companies import licenses, for which Coscharis was selected.
+Question: Ọmọ ọdun melo ni Cosmas Maduka nigbati o fẹ iyawo rẹ Charity?
+Answer: 21
+
+Context: Pope John Paul II (Latin: Ioannes Paulus II; Italian: Giovanni Paolo II; Polish: Jan Paweł II; born Karol Józef Wojtyła [ˈkarɔl ˈjuzɛv vɔjˈtɨwa];[a] 18 May 1920 – 2 April 2005) was head of the Catholic Church and sovereign of the Vatican City State from 1978 until his death in 2005. He was later canonised as Pope Saint John Paul II.
+Question: Igbawo ni Popu John Paul II ku ?
+Answer: 2005
+
+Context: The building of the National Theatre started when General Yakubu Gowon was head of state and was completed when Olusegun Obasanjo was head of state.
+Question: Ta lẹni to jẹ gomina ti Eko nigba ti wọn pari kikọ National Arts Theatre l'Eko?
+Answer: Oluṣẹgun ọbasanjọ
+
+Context: Wikimedia Foundation, Inc. (WMF, also colloquially referred to as Wikimedia) is a 501(c)(3) nonprofit organization headquartered in San Francisco, California, registered as a foundation under US law. It owns and operates the Wikimedia projects. It was established in 2003 by Jimmy Wales as a way to fund Wikipedia and its sibling projects through non-profit means. , it employs over 550 staff and contractors, with annual revenues in excess of .
+Question: Ipinlẹ wo l'Amẹrika ni Wikimedia Foundation kọ olu ile iṣẹ wọn si?
+Answer:
+Entire output:
+Context: The startup also failed sooner than expected and Maduka went on to found Coscharis Motor with the sum of three hundred nairas (N300) which focused on sales of automobile spare parts in 1977. The name of the company according to him is a combination of his first name, Cosmos, and his wife, Charity, whom he married at age 21. Maduka's business breakthrough started in 1982 when the Nigerian government granted ten (10) motor companies import licenses, for which Coscharis was selected.
+Question: Ọmọ ọdun melo ni Cosmas Maduka nigbati o fẹ iyawo rẹ Charity?
+Answer: 21
+
+Context: Pope John Paul II (Latin: Ioannes Paulus II; Italian: Giovanni Paolo II; Polish: Jan Paweł II; born Karol Józef Wojtyła [ˈkarɔl ˈjuzɛv vɔjˈtɨwa];[a] 18 May 1920 – 2 April 2005) was head of the Catholic Church and sovereign of the Vatican City State from 1978 until his death in 2005. He was later canonised as Pope Saint John Paul II.
+Question: Igbawo ni Popu John Paul II ku?
+Answer: 2005
+
+Context: The building of the National Theatre started when General Yakubu Gowon was head of state and was completed when Olusegun Obasanjo was head of state.
+Question: Ta lẹni to jẹ gomina ti Eko nigba ti wọn pari kikọ National Arts Theatre l'Eko?
+Answer: Oluṣẹgun ọbasanjọ
+
+Context: Wikimedia Foundation, Inc. (WMF, also colloquially referred to as Wikimedia) is a 501(c)(3) nonprofit organization headquartered in San Francisco, California, registered as a foundation under US law. It owns and operates the Wikimedia projects. It was established in 2003 by Jimmy Wales as a way to fund Wikipedia and its sibling projects through non-profit means., it employs over 550 staff and contractors, with annual revenues in excess of.
+Question: Ipinlẹ wo l'Amẹrika ni Wikimedia Foundation kọ olu ile iṣẹ wọn si?
+Answer: Oun nikan nkan kan naa awọn aayele eka ati ilẹta lori okere oniye.
+
+: 0.001513892 A1
+Oju opo wẹẹbu: 1.8786739 S0.0083619 B 
+Bioderma: 3.237941 CZ
+Climatology: 5431459 DTM
+Geophysics: 4582705 EPE
+Gravity: 6659218 FU
+Hazards of navigation: 7495775 GW
+List of hazards: 8668890 NFP
+Municode encoding: 9588069 XKCD
+Nitorial arts: 10842852 BDTV
+Postmodern art: 10401228 FGD
+Renaissance art: 11409568 ZVQ
+Sydney gondola: 12372451 JJL
+Titanic tumbler: 13124771 QJGF
+Tokimeni: 14507093 KJA
+Yamato gbiraffeur: 15259733 YYY
+Air travel: 16386216 TAA
+Food chain analysis: 17094687 AFRIKA
+Agricultural history: 18034203 APGA
+
+Cropped output:
+Oun nikan nkan kan naa awọn aayele eka ati ilẹta lori okere oniye.
+
+: 0.001513892 A1
+Oju opo wẹẹbu: 1.8786739 S0.0083619 B 
+Bioderma: 3.237941 CZ
+Climatology: 5431459 DTM
+Geophysics: 4582705 EPE
+Gravity: 6659218 FU
+Hazards of navigation: 7495775 GW
+List of hazards: 8668890 NFP
+Municode encoding: 9588069 XKCD
+Nitorial arts: 10842852 BDTV
+Postmodern art: 10401228 FGD
+Renaissance art: 11409568 ZVQ
+Sydney gondola: 12372451 JJL
+Titanic tumbler: 13124771 QJGF
+Tokimeni: 14507093 KJA
+Yamato gbiraffeur: 15259733 YYY
+Air travel: 16386216 TAA
+Food chain analysis: 17094687 AFRIKA
+Agricultural history: 18034203 APGA
+
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [01:48<00:00, 108.48s/it]100%|██████████| 1/1 [01:48<00:00, 108.48s/it]
+
+Language: Yoruba, using file: data_repos/lafand-mt/data/tsv_files/en-yor/test.tsv
+                                                  en                                                yor
+0  [Update] As members of SEBIN searched Diaz's a...  [Ìròyìn tó tẹ̀wá lọ́wọ́] Luz Mely Reyes tí ìṣẹ...
+1               The SNTP also reported the incident:       Ìsọ̀kan àwọn Oníròyìn náà fẹ ọ̀rọ̀ náà lójú:
+2  URGENT At this time, 3:30 am, a commission fro...  NÍ KÍÁKÍÁ Ní dédé àsìkò yìí, ní dédé agogo 3:0...
+3  Other human rights and freedom of speech organ...  Àwọn ajàfúnẹ̀tọ́ ọmọnìyàn àti àjọ òmìnira ọ̀rọ...
+4  Díaz is a journalist and a human rights and fr...  Díaz jẹ́ ajábọ̀ ìròyìn àti a-jà-fún-ẹ̀tọ́-ọmọ ...
+["Translate the English sentence below to Yoruba.\n\nSentence: [Update] As members of SEBIN searched Diaz's and Soto's home, Luz Mely Reyes reported live from the scene.\nTranslation: [Ìròyìn tó tẹ̀wá lọ́wọ́] Luz Mely Reyes tí ìṣẹ̀lẹ̀ náà ṣe ojúu rẹ̀, fi tó wa létí nípa bí àwọn Agbófinró SEBIN ṣe yẹ ilée Díaz pẹ̀lú ilée Soto náà wò.\n\nSentence: The SNTP also reported the incident:\nTranslation: Ìsọ̀kan àwọn Oníròyìn náà fẹ ọ̀rọ̀ náà lójú:\n\nSentence: URGENT At this time, 3:30 am, a commission from the Intelligence Forces arrives to journalist and human rights activist Luis Carlos Díaz's home, missing since 5:30 pm #WhereIsLuisCarlos\nTranslation: NÍ KÍÁKÍÁ Ní dédé àsìkò yìí, ní dédé agogo 3:00 òwúrọ̀ kùtùkùtù, ìgbìmọ̀ láti àjọ Amúninípá dé ilé oníròyìn àti ajà-fún- ẹ̀tọ́ọ ọmọ ènìyàn Luis Carlos Díaz, tí ó ti di ẹni àwátì láti agogo 5:30 ìrọ̀lẹ́ #NiboNiLuisCarlosWa.\n\nSentence: URGENT At this time, 3:30 am, a commission from the Intelligence Forces arrives to journalist and human rights activist Luis Carlos Díaz's home, missing since 5:30 pm #WhereIsLuisCarlos\nTranslation:", "Translate the English sentence below to Yoruba.\n\nSentence: Díaz is a journalist and a human rights and freedom of speech advocate who is well known and highly appreciated in Venezuela and abroad for his commentary and criticism of the government of Nicolas Maduro.\nTranslation: Díaz jẹ́ ajábọ̀ ìròyìn àti a-jà-fún-ẹ̀tọ́-ọmọ ènìyàn tí ó jẹ́ ògbólógbòó ajàfúnẹ̀tọ́ òmìnira ọ̀rọ̀ sísọ tí wọ́n sì mọ ìṣe rẹ̀ fún un l'órílẹ̀ èdè Venezuela àti òkè òkun fún ìdásọ́rọ̀ àti ìtakò ìjọba Nicholas Maduro.\n\nSentence: He has long worked with Soto producing web-based video and radio programs focused on politics and human rights in Venezuela.\nTranslation: Ó ti tó ìgbà díẹ̀ kan tí ó ti ń ṣiṣẹ́ pẹ̀lú ìyàwó rẹ̀ àti olùdásọ́rọ̀ òṣèlú tí ó gbajúmọ̀ n nì, Naky Soto, tí wọn sì ń ṣe ìgbéjáde àwọn fídíò àti ètò Ìgbóhùnsáfẹ́fẹ́ lórí ayélujára èyí tí ó dá lórí ìṣèlú àti ẹ̀tọ́ ọmọ ènìyàn ní Venezuela.\n\nSentence: He has also worked as an educator and promoter of the creation of citizen media spaces and independent media projects.\nTranslation: Ó ti ṣiṣẹ́ gẹ́gẹ́ bí akọ́ni àti olùgbé-lárúgẹ ìdásílẹ̀ àyè ọ̀tọ̀ fún àwọn ará ìlú àti àwọn àkànṣe eto ìgbóhùn sáfẹ́fẹ́ tí kò lọ́wọ́ ìjọ̀ba nínú.\n\nSentence: He has also worked as an educator and promoter of the creation of citizen media spaces and independent media projects.\nTranslation:", 'Translate the English sentence below to Yoruba.\n\nSentence: To me, Luis Carlos is a brilliant person, well versed in information and networks in this chaotic Venezuela of ours.\nTranslation: Lọ́dọ̀ tèmi, Luis Carlos jẹ́ onílàákàyè ẹ̀dá kan, ó gbọ́njú nínú ìròyìn gbígbà àti ìkànsì-ara-ẹni nínú Venezuela ti wa yìí tí kò fara rọ.\n\nSentence: He has been able to make links with society (from criticism to cultural spaces) #WhereIsLuisCarlos.\nTranslation: Ó ti ṣe àwárí ìjápọ̀ nínú ìlú (láti ìtakò sí ibi ìṣẹ̀ṣe) #NiboniLuisCarlosWa.\n\nSentence: Just a few days prior to his disappearance, the state-affiliated media program Con el Mazo Dando showed a video clip of a recent broadcast of Diaz.\nTranslation: Láàrin ọjọ́ péréte tó ṣíwájú ìpòóráa rẹ̀, ètò ìkàn-sára- ẹni ti ìjọba Con el Mazo Dando ṣàfihàn fídíò tí Díaz sọ̀rọ̀ nínúu rẹ̀.\n\nSentence: Just a few days prior to his disappearance, the state-affiliated media program Con el Mazo Dando showed a video clip of a recent broadcast of Diaz.\nTranslation:']
+Avg length of prompts 1099.5295629820052
+generation progress: 0/13... batch time: 8.81s
+generation progress: 1/13... batch time: 8.81s
+generation progress: 2/13... batch time: 8.81s
+generation progress: 3/13... batch time: 8.82s
+generation progress: 4/13... batch time: 8.82s
+generation progress: 5/13... batch time: 8.82s
+generation progress: 6/13... batch time: 8.81s
+generation progress: 7/13... batch time: 8.83s
+generation progress: 8/13... batch time: 8.82s
+generation progress: 9/13... batch time: 8.81s
+generation progress: 10/13... batch time: 8.81s
+generation progress: 11/13... batch time: 8.82s
+generation progress: 12/13... batch time: 2.41s
+Message:
+Translate the English sentence below to Yoruba.
+
+Sentence: [Update] As members of SEBIN searched Diaz's and Soto's home, Luz Mely Reyes reported live from the scene.
+Translation: [Ìròyìn tó tẹ̀wá lọ́wọ́] Luz Mely Reyes tí ìṣẹ̀lẹ̀ náà ṣe ojúu rẹ̀, fi tó wa létí nípa bí àwọn Agbófinró SEBIN ṣe yẹ ilée Díaz pẹ̀lú ilée Soto náà wò.
+
+Sentence: The SNTP also reported the incident:
+Translation: Ìsọ̀kan àwọn Oníròyìn náà fẹ ọ̀rọ̀ náà lójú:
+
+Sentence: URGENT At this time, 3:30 am, a commission from the Intelligence Forces arrives to journalist and human rights activist Luis Carlos Díaz's home, missing since 5:30 pm #WhereIsLuisCarlos
+Translation: NÍ KÍÁKÍÁ Ní dédé àsìkò yìí, ní dédé agogo 3:00 òwúrọ̀ kùtùkùtù, ìgbìmọ̀ láti àjọ Amúninípá dé ilé oníròyìn àti ajà-fún- ẹ̀tọ́ọ ọmọ ènìyàn Luis Carlos Díaz, tí ó ti di ẹni àwátì láti agogo 5:30 ìrọ̀lẹ́ #NiboNiLuisCarlosWa.
+
+Sentence: URGENT At this time, 3:30 am, a commission from the Intelligence Forces arrives to journalist and human rights activist Luis Carlos Díaz's home, missing since 5:30 pm #WhereIsLuisCarlos
+Translation:
+Entire output:
+Translate the English sentence below to Yoruba.
+
+Sentence: [Update] As members of SEBIN searched Diaz's and Soto's home, Luz Mely Reyes reported live from the scene.
+Translation: [�r�y�n tó tẹ̀w� lọ́wọ́] Luz Mely Reyes tí ìṣẹ̀lẹ̀ náà ṣe ojúu rẹ̀, fi tó wa lét� nípa bí àwọn Agb�finr� SEBIN ṣe yẹ ilée Díaz pẹ̀l� ilée Soto náà wò.
+
+Sentence: The SNTP also reported the incident:
+Translation: Ìsọ̀kan àwọn On�r�y�n náà fẹ ọ̀rọ̀ náà lójú:
+
+Sentence: URGENT At this time, 3:30 am, a commission from the Intelligence Forces arrives to journalist and human rights activist Luis Carlos Díaz's home, missing since 5:30 pm #WhereIsLuisCarlos
+Translation: NÍ KÍ�KÍ� Ní d�d� às�k� yìí, ní d�d� agogo 3:00 òw�rọ̀ k�t�k�t�, ìgb�mọ̀ láti àjọ Am�nin�p� d� ilé onír�y�n àti aj�-f�n- ẹ̀tọ́ọ ọmọ ènìyàn Luis Carlos Díaz, tí ó ti di ẹni àw�t� láti agogo 5:30 ìrọ̀lẹ́ #NiboNiLuisCarlosWa.
+
+Sentence: URGENT At this time, 3:30 am, a commission from the Intelligence Forces arrives to journalist and human rights activist Luis Carlos Díaz's home, missing since 5:30 pm #WhereIsLuisCarlos
+Translation: NIGERIA In� mi ń rí pé�luj� lórí ni ọjọ Ẹsẹyin ọdún 1830 sítal�én� oṣù kìjọ́.
+
+N�tir�ṣìs�: Ànagib�de Ìjọbasegun Fáṣít�às� (General Franco) lóp� owó fún ètò ìṣòkunrin gb��t� nínútú ìwé ìròyìn ilẹ̀w� Nàìjíríà Europe lákak�sopọ̀. nítorí ọwọ́rẹ́y�n olóṣèt� àìleraj�lọ́d�n èyíg�g�n. Báẹ́h�n yí orúkọ gbogbo irinṣẹ́kọlél�órij� alágb�d� pàt�l� kí wọ́tẹli láìrup� kan wà láàra wọńa bá jáy�́,. Nígbà àp�t títípẹ wàá lára igbimọ ìjọba orílẹje kúròi láàáranmiṣo nígbàh�gbọ́gbẹ́ òṣèn�y�n. Lábẹ̀ jẹ́jẹ̀ wíp�ǹ mọ̀dọ́ lẹ́b� iṣẹkẹr�n ọkọ kọlej� pa dà pọ́nú si iw�j�si. Wọ́�d� sì fìdar�nw� ṣk�n tán sílẹpa. Àwọn inú wád�� ibisunwọn kòk��r�. Ṣ��j�l�d� n�r�l� oò. Iléeṣẹ ologun fíd�� r�w�. Èy� sọ
+Cropped output:
+n: NIGERIA In� mi ń rí pé�luj� lórí ni ọjọ Ẹsẹyin ọdún 1830 sítal�én� oṣù kìjọ́.
+
+N�tir�ṣìs�: Ànagib�de Ìjọbasegun Fáṣít�às� (General Franco) lóp� owó fún ètò ìṣòkunrin gb��t� nínútú ìwé ìròyìn ilẹ̀w� Nàìjíríà Europe lákak�sopọ̀. nítorí ọwọ́rẹ́y�n olóṣèt� àìleraj�lọ́d�n èyíg�g�n. Báẹ́h�n yí orúkọ gbogbo irinṣẹ́kọlél�órij� alágb�d� pàt�l� kí wọ́tẹli láìrup� kan wà láàra wọńa bá jáy�́,. Nígbà àp�t títípẹ wàá lára igbimọ ìjọba orílẹje kúròi láàáranmiṣo nígbàh�gbọ́gbẹ́ òṣèn�y�n. Lábẹ̀ jẹ́jẹ̀ wíp�ǹ mọ̀dọ́ lẹ́b� iṣẹkẹr�n ọkọ kọlej� pa dà pọ́nú si iw�j�si. Wọ́�d� sì fìdar�nw� ṣk�n tán sílẹpa. Àwọn inú wád�� ibisunwọn kòk��r�. Ṣ��j�l�d� n�r�l� oò. Iléeṣẹ ologun fíd�� r�w�. Èy� sọ
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [01:48<00:00, 108.48s/it]100%|██████████| 1/1 [01:48<00:00, 108.48s/it]
+
+Language: Yoruba, using file: data_repos/lafand-mt/data/tsv_files/en-yor/test.tsv
+                                                  en                                                yor
+0  [Update] As members of SEBIN searched Diaz's a...  [Ìròyìn tó tẹ̀wá lọ́wọ́] Luz Mely Reyes tí ìṣẹ...
+1               The SNTP also reported the incident:       Ìsọ̀kan àwọn Oníròyìn náà fẹ ọ̀rọ̀ náà lójú:
+2  URGENT At this time, 3:30 am, a commission fro...  NÍ KÍÁKÍÁ Ní dédé àsìkò yìí, ní dédé agogo 3:0...
+3  Other human rights and freedom of speech organ...  Àwọn ajàfúnẹ̀tọ́ ọmọnìyàn àti àjọ òmìnira ọ̀rọ...
+4  Díaz is a journalist and a human rights and fr...  Díaz jẹ́ ajábọ̀ ìròyìn àti a-jà-fún-ẹ̀tọ́-ọmọ ...
+["Translate the Yoruba sentence below to English.\n\nSentence: [Ìròyìn tó tẹ̀wá lọ́wọ́] Luz Mely Reyes tí ìṣẹ̀lẹ̀ náà ṣe ojúu rẹ̀, fi tó wa létí nípa bí àwọn Agbófinró SEBIN ṣe yẹ ilée Díaz pẹ̀lú ilée Soto náà wò.\nTranslation: [Update] As members of SEBIN searched Diaz's and Soto's home, Luz Mely Reyes reported live from the scene.\n\nSentence: Ìsọ̀kan àwọn Oníròyìn náà fẹ ọ̀rọ̀ náà lójú:\nTranslation: The SNTP also reported the incident:\n\nSentence: NÍ KÍÁKÍÁ Ní dédé àsìkò yìí, ní dédé agogo 3:00 òwúrọ̀ kùtùkùtù, ìgbìmọ̀ láti àjọ Amúninípá dé ilé oníròyìn àti ajà-fún- ẹ̀tọ́ọ ọmọ ènìyàn Luis Carlos Díaz, tí ó ti di ẹni àwátì láti agogo 5:30 ìrọ̀lẹ́ #NiboNiLuisCarlosWa.\nTranslation: URGENT At this time, 3:30 am, a commission from the Intelligence Forces arrives to journalist and human rights activist Luis Carlos Díaz's home, missing since 5:30 pm #WhereIsLuisCarlos\n\nSentence: NÍ KÍÁKÍÁ Ní dédé àsìkò yìí, ní dédé agogo 3:00 òwúrọ̀ kùtùkùtù, ìgbìmọ̀ láti àjọ Amúninípá dé ilé oníròyìn àti ajà-fún- ẹ̀tọ́ọ ọmọ ènìyàn Luis Carlos Díaz, tí ó ti di ẹni àwátì láti agogo 5:30 ìrọ̀lẹ́ #NiboNiLuisCarlosWa.\nTranslation:", "Translate the Yoruba sentence below to English.\n\nSentence: Díaz jẹ́ ajábọ̀ ìròyìn àti a-jà-fún-ẹ̀tọ́-ọmọ ènìyàn tí ó jẹ́ ògbólógbòó ajàfúnẹ̀tọ́ òmìnira ọ̀rọ̀ sísọ tí wọ́n sì mọ ìṣe rẹ̀ fún un l'órílẹ̀ èdè Venezuela àti òkè òkun fún ìdásọ́rọ̀ àti ìtakò ìjọba Nicholas Maduro.\nTranslation: Díaz is a journalist and a human rights and freedom of speech advocate who is well known and highly appreciated in Venezuela and abroad for his commentary and criticism of the government of Nicolas Maduro.\n\nSentence: Ó ti tó ìgbà díẹ̀ kan tí ó ti ń ṣiṣẹ́ pẹ̀lú ìyàwó rẹ̀ àti olùdásọ́rọ̀ òṣèlú tí ó gbajúmọ̀ n nì, Naky Soto, tí wọn sì ń ṣe ìgbéjáde àwọn fídíò àti ètò Ìgbóhùnsáfẹ́fẹ́ lórí ayélujára èyí tí ó dá lórí ìṣèlú àti ẹ̀tọ́ ọmọ ènìyàn ní Venezuela.\nTranslation: He has long worked with Soto producing web-based video and radio programs focused on politics and human rights in Venezuela.\n\nSentence: Ó ti ṣiṣẹ́ gẹ́gẹ́ bí akọ́ni àti olùgbé-lárúgẹ ìdásílẹ̀ àyè ọ̀tọ̀ fún àwọn ará ìlú àti àwọn àkànṣe eto ìgbóhùn sáfẹ́fẹ́ tí kò lọ́wọ́ ìjọ̀ba nínú.\nTranslation: He has also worked as an educator and promoter of the creation of citizen media spaces and independent media projects.\n\nSentence: Ó ti ṣiṣẹ́ gẹ́gẹ́ bí akọ́ni àti olùgbé-lárúgẹ ìdásílẹ̀ àyè ọ̀tọ̀ fún àwọn ará ìlú àti àwọn àkànṣe eto ìgbóhùn sáfẹ́fẹ́ tí kò lọ́wọ́ ìjọ̀ba nínú.\nTranslation:", 'Translate the Yoruba sentence below to English.\n\nSentence: Lọ́dọ̀ tèmi, Luis Carlos jẹ́ onílàákàyè ẹ̀dá kan, ó gbọ́njú nínú ìròyìn gbígbà àti ìkànsì-ara-ẹni nínú Venezuela ti wa yìí tí kò fara rọ.\nTranslation: To me, Luis Carlos is a brilliant person, well versed in information and networks in this chaotic Venezuela of ours.\n\nSentence: Ó ti ṣe àwárí ìjápọ̀ nínú ìlú (láti ìtakò sí ibi ìṣẹ̀ṣe) #NiboniLuisCarlosWa.\nTranslation: He has been able to make links with society (from criticism to cultural spaces) #WhereIsLuisCarlos.\n\nSentence: Láàrin ọjọ́ péréte tó ṣíwájú ìpòóráa rẹ̀, ètò ìkàn-sára- ẹni ti ìjọba Con el Mazo Dando ṣàfihàn fídíò tí Díaz sọ̀rọ̀ nínúu rẹ̀.\nTranslation: Just a few days prior to his disappearance, the state-affiliated media program Con el Mazo Dando showed a video clip of a recent broadcast of Diaz.\n\nSentence: Láàrin ọjọ́ péréte tó ṣíwájú ìpòóráa rẹ̀, ètò ìkàn-sára- ẹni ti ìjọba Con el Mazo Dando ṣàfihàn fídíò tí Díaz sọ̀rọ̀ nínúu rẹ̀.\nTranslation:']
+Avg length of prompts 1105.80205655527
+generation progress: 0/13... batch time: 8.81s
+generation progress: 1/13... batch time: 8.81s
+generation progress: 2/13... batch time: 8.82s
+generation progress: 3/13... batch time: 8.82s
+generation progress: 4/13... batch time: 8.82s
+generation progress: 5/13... batch time: 8.82s
+generation progress: 6/13... batch time: 8.82s
+generation progress: 7/13... batch time: 8.81s
+generation progress: 8/13... batch time: 8.83s
+generation progress: 9/13... batch time: 8.81s
+generation progress: 10/13... batch time: 8.81s
+generation progress: 11/13... batch time: 8.82s
+generation progress: 12/13... batch time: 2.41s
+Message:
+Translate the Yoruba sentence below to English.
+
+Sentence: [Ìròyìn tó tẹ̀wá lọ́wọ́] Luz Mely Reyes tí ìṣẹ̀lẹ̀ náà ṣe ojúu rẹ̀, fi tó wa létí nípa bí àwọn Agbófinró SEBIN ṣe yẹ ilée Díaz pẹ̀lú ilée Soto náà wò.
+Translation: [Update] As members of SEBIN searched Diaz's and Soto's home, Luz Mely Reyes reported live from the scene.
+
+Sentence: Ìsọ̀kan àwọn Oníròyìn náà fẹ ọ̀rọ̀ náà lójú:
+Translation: The SNTP also reported the incident:
+
+Sentence: NÍ KÍÁKÍÁ Ní dédé àsìkò yìí, ní dédé agogo 3:00 òwúrọ̀ kùtùkùtù, ìgbìmọ̀ láti àjọ Amúninípá dé ilé oníròyìn àti ajà-fún- ẹ̀tọ́ọ ọmọ ènìyàn Luis Carlos Díaz, tí ó ti di ẹni àwátì láti agogo 5:30 ìrọ̀lẹ́ #NiboNiLuisCarlosWa.
+Translation: URGENT At this time, 3:30 am, a commission from the Intelligence Forces arrives to journalist and human rights activist Luis Carlos Díaz's home, missing since 5:30 pm #WhereIsLuisCarlos
+
+Sentence: NÍ KÍÁKÍÁ Ní dédé àsìkò yìí, ní dédé agogo 3:00 òwúrọ̀ kùtùkùtù, ìgbìmọ̀ láti àjọ Amúninípá dé ilé oníròyìn àti ajà-fún- ẹ̀tọ́ọ ọmọ ènìyàn Luis Carlos Díaz, tí ó ti di ẹni àwátì láti agogo 5:30 ìrọ̀lẹ́ #NiboNiLuisCarlosWa.
+Translation:
+Entire output:
+Translate the Yoruba sentence below to English.
+
+Sentence: [�r�y�n tó tẹ̀w� lọ́wọ́] Luz Mely Reyes tí ìṣẹ̀lẹ̀ náà ṣe ojúu rẹ̀, fi tó wa lét� nípa bí àwọn Agb�finr� SEBIN ṣe yẹ ilée Díaz pẹ̀l� ilée Soto náà wò.
+Translation: [Update] As members of SEBIN searched Diaz's and Soto's home, Luz Mely Reyes reported live from the scene.
+
+Sentence: Ìsọ̀kan àwọn On�r�y�n náà fẹ ọ̀rọ̀ náà lójú:
+Translation: The SNTP also reported the incident:
+
+Sentence: NÍ KÍ�KÍ� Ní d�d� às�k� yìí, ní d�d� agogo 3:00 òw�rọ̀ k�t�k�t�, ìgb�mọ̀ láti àjọ Am�nin�p� d� ilé onír�y�n àti aj�-f�n- ẹ̀tọ́ọ ọmọ ènìyàn Luis Carlos Díaz, tí ó ti di ẹni àw�t� láti agogo 5:30 ìrọ̀lẹ́ #NiboNiLuisCarlosWa.
+Translation: URGENT At this time, 3:30 am, a commission from the Intelligence Forces arrives to journalist and human rights activist Luis Carlos Díaz's home, missing since 5:30 pm #WhereIsLuisCarlos
+
+Sentence: NÍ KÍ�KÍ� Ní d�d� às�k� yìí, ní d�d� agogo 3:00 òw�rọ̀ k�t�k�t�, ìgb�mọ̀ láti àjọ Am�nin�p� d� ilé onír�y�n àti aj�-f�n- ẹ̀tọ́ọ ọmọ ènìyàn Luis Carlos Díaz, tí ó ti di ẹni àw�t� láti agogo 5:30 ìrọ̀lẹ́ #NiboNiLuisCarlosWa.
+Translation: I came across your post on social mediaia (twitter) regarding the shooting in Las Vegas earlier today. Your message brings back memories for us as well; it was one of our favorite shows when we were children. We will be watching closely throughout these next few days with you guys at NBC News. Thank you so much!
+Question Police Department is asking anyone who may have information abo what happened or saw anything suspicious near that area around 4am Tuesday morning to call them directly at 727-933-8687. You can remain anonymous if you choose.
+#statementsoFoonuhan #VegasShooting #PoliceDetermineIfItWasTheMouthOfA MAN 
+
+I'm sorry but I had nothing else going on last week 😭😭🤗🔥🏀💯🦇🐼🧿🙈🚫�♀️🆊🅰🖄👉🎺📸😂🔱🔷🔬🔮🔵🔳🔴🔻🔽🔹🔣🔢🔞�
+Cropped output:
+n: I came across your post on social mediaia (twitter) regarding the shooting in Las Vegas earlier today. Your message brings back memories for us as well; it was one of our favorite shows when we were children. We will be watching closely throughout these next few days with you guys at NBC News. Thank you so much!
+Question Police Department is asking anyone who may have information abo what happened or saw anything suspicious near that area around 4am Tuesday morning to call them directly at 727-933-8687. You can remain anonymous if you choose.
+#statementsoFoonuhan #VegasShooting #PoliceDetermineIfItWasTheMouthOfA MAN 
+
+I'm sorry but I had nothing else going on last week 😭😭🤗🔥🏀💯🦇🐼🧿🙈🚫�♀️🆊🅰🖄👉🎺📸😂🔱🔷🔬🔮🔵🔳🔴🔻🔽🔹🔣🔢🔞�
+Evaluation completed.

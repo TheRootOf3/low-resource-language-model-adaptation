@@ -1,0 +1,254 @@
+Using device: cuda
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [07:19<00:00, 439.42s/it]100%|██████████| 1/1 [07:19<00:00, 439.43s/it]
+
+Language: Amharic, using file: data_repos/afrisent-semeval-2023//data/amh/test.tsv
+                                               tweet     label
+0                  '@user ክብር እና ምስጋና ለዓለማት ፈጣሪ ይሁን'  positive
+1  'ከህወሓት ጋር ድርድር ማለት ኢትዮጲያን ማፍረስ ዕቁብ መጣል ነው። #No...  negative
+2    'እግዚአብሔር የተመሰገነ ይሁን ኢትዮጵያ አሸነፈች ። እንኳን ደስአለኝ ።'  positive
+3                    'ይህንን ካዩ እባክዎን ከእኔ ጋር ሶስት ያድርጉ'   neutral
+4  '@user ሲሆን ሲሆን ወንድ ትወልጅያለሽ ሳይሆ ሳይሆን ሴት ትወልጃለሽ ...  negative
+Avg length of prompts 176.86443221610804
+generation progress: 0/63... batch time: 9.23s
+generation progress: 1/63... batch time: 8.85s
+generation progress: 2/63... batch time: 3.71s
+generation progress: 3/63... batch time: 8.85s
+generation progress: 4/63... batch time: 1.07s
+generation progress: 5/63... batch time: 8.85s
+generation progress: 6/63... batch time: 8.85s
+generation progress: 7/63... batch time: 8.85s
+generation progress: 8/63... batch time: 8.85s
+generation progress: 9/63... batch time: 4.10s
+generation progress: 10/63... batch time: 8.85s
+generation progress: 11/63... batch time: 8.85s
+generation progress: 12/63... batch time: 6.22s
+generation progress: 13/63... batch time: 8.85s
+generation progress: 14/63... batch time: 2.86s
+generation progress: 15/63... batch time: 8.85s
+generation progress: 16/63... batch time: 1.88s
+generation progress: 17/63... batch time: 8.85s
+generation progress: 18/63... batch time: 3.44s
+generation progress: 19/63... batch time: 8.85s
+generation progress: 20/63... batch time: 8.85s
+generation progress: 21/63... batch time: 5.69s
+generation progress: 22/63... batch time: 8.85s
+generation progress: 23/63... batch time: 8.85s
+generation progress: 24/63... batch time: 8.85s
+generation progress: 25/63... batch time: 8.85s
+generation progress: 26/63... batch time: 8.85s
+generation progress: 27/63... batch time: 8.85s
+generation progress: 28/63... batch time: 8.85s
+generation progress: 29/63... batch time: 2.86s
+generation progress: 30/63... batch time: 8.85s
+generation progress: 31/63... batch time: 3.98s
+generation progress: 32/63... batch time: 8.85s
+generation progress: 33/63... batch time: 4.43s
+generation progress: 34/63... batch time: 5.66s
+generation progress: 35/63... batch time: 2.60s
+generation progress: 36/63... batch time: 8.85s
+generation progress: 37/63... batch time: 2.77s
+generation progress: 38/63... batch time: 8.85s
+generation progress: 39/63... batch time: 8.85s
+generation progress: 40/63... batch time: 8.85s
+generation progress: 41/63... batch time: 8.85s
+generation progress: 42/63... batch time: 8.85s
+generation progress: 43/63... batch time: 8.85s
+generation progress: 44/63... batch time: 8.85s
+generation progress: 45/63... batch time: 8.85s
+generation progress: 46/63... batch time: 8.85s
+generation progress: 47/63... batch time: 2.89s
+generation progress: 48/63... batch time: 8.85s
+generation progress: 49/63... batch time: 1.07s
+generation progress: 50/63... batch time: 8.85s
+generation progress: 51/63... batch time: 2.57s
+generation progress: 52/63... batch time: 8.85s
+generation progress: 53/63... batch time: 8.85s
+generation progress: 54/63... batch time: 8.85s
+generation progress: 55/63... batch time: 8.85s
+generation progress: 56/63... batch time: 2.97s
+generation progress: 57/63... batch time: 3.18s
+generation progress: 58/63... batch time: 8.85s
+generation progress: 59/63... batch time: 8.85s
+generation progress: 60/63... batch time: 8.85s
+generation progress: 61/63... batch time: 1.49s
+generation progress: 62/63... batch time: 0.51s
+Message:
+Does this Amharic statement; "'@user ክብር እና ምስጋና ለዓለማት ፈጣሪ ይሁን'" have a {{Neutral, Positive or Negative}} sentiment? Labels only 
+Entire output:
+Does this Amharic statement; "'@user ክብር እና ምስጋና ለዓለማት ፈጣሪ ይሁን'" have a {{Neutral, Positive or Negative}} sentiment? Labels only 
+Cropped output:
+
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [01:44<00:00, 104.71s/it]100%|██████████| 1/1 [01:44<00:00, 104.71s/it]
+
+Language: amh, using file: data_repos/masakhane-news/data/amh/test.tsv
+   category  ...                                        url
+0  business  ...  https://www.bbc.com/amharic/news-53127360
+1  business  ...  https://www.bbc.com/amharic/news-53852369
+2  business  ...  https://www.bbc.com/amharic/news-57075420
+3  business  ...  https://www.bbc.com/amharic/news-57372163
+4  business  ...  https://www.bbc.com/amharic/news-60630455
+
+[5 rows x 4 columns]
+generation progress: 0/12... batch time: 8.84s
+generation progress: 1/12... batch time: 8.84s
+generation progress: 2/12... batch time: 8.85s
+generation progress: 3/12... batch time: 8.85s
+generation progress: 4/12... batch time: 8.85s
+generation progress: 5/12... batch time: 8.85s
+generation progress: 6/12... batch time: 8.84s
+generation progress: 7/12... batch time: 8.84s
+generation progress: 8/12... batch time: 8.84s
+generation progress: 9/12... batch time: 8.85s
+generation progress: 10/12... batch time: 8.85s
+generation progress: 11/12... batch time: 6.94s
+Message:
+Labels only. Is this an article regarding {{business, health, politics or sports}}? 
+Article: የናይጄሪያ ፖሊስ በሩዝ ፋብሪካ ተቆልፎባቸው እንዲሰሩ የተገደዱ 300 ሰራተኞችን ነፃ ማውጣቱን ገለፀ የናይጄሪያ ፖሊስ በሩዝ ፋብሪካ ውስጥ ተቆልፎባቸው የነበሩ 300 ሰራተኞችን ነፃ ማውጣቱን ገልጿል። ሰራተኞቹ ከመጋቢት አጋማሽ ጀምሮ ከፋብሪካው እንዳይወጡ እግድ ተጥሎባቸውና ተቆልፎባቸው ይሰሩ ነበር ተብሏል። በሰሜናዊ ናይጄሪያ ግዛት በምትገኘው ካኖ በሚገኝ ፋብሪካ ውስጥ የሚሰሩት ሰራተኞች የኮሮናቫይረስ አስገዳጅ የቤት መቀመጥ አዋጅን ተከትሎ ወደቤታቸው እንዳይሄዱና በየወሩም ከሚያገኙት 2 ሺህ 600 ብር ደመወዝ በተጨማሪ 500 ብር እንደሚጨመርላቸው የፋብሪካው አስተዳዳሪዎች ቃል ገብተውላቸው ነበር። ወደቤታችን እንሄዳለን የሚሉት ደግሞ ከስራ እንደሚባረሩ ማስፈራራሪያም ደርሷቸዋል። በፋብሪካው ለመስራት የተስማሙ ሰራተኞች ከፋብሪካው ወጥተው መሄድ እንደማይችሉም ተነግራቸዋል። ይህንንም ተከትሎ አምስት አስተዳደር ላይ ያሉ ግለሰቦች በቁጥጥር ስር ውለዋል። የህንዶች የሆነው ፖፑላር
+Label:
+Entire output:
+Labels only. Is this an article regarding {{business, health, politics or sports}}? 
+Article: የናይጄሪያ ፖሊስ በሩዝ ፋብሪካ ተቆልፎባቸው እንዲሰሩ የተገደዱ 300 ሰራተኞችን ነፃ ማውጣቱን ገለፀ የናይጄሪያ ፖሊስ በሩዝ ፋብሪካ ውስጥ ተቆልፎባቸው የነበሩ 300 ሰራተኞችን ነፃ ማውጣቱን ገልጿል። ሰራተኞቹ ከመጋቢት አጋማሽ ጀምሮ ከፋብሪካው እንዳይወጡ እግድ ተጥሎባቸውና ተቆልፎባቸው ይሰሩ ነበር ተብሏል። በሰሜናዊ ናይጄሪያ ግዛት በምትገኘው ካኖ በሚገኝ ፋብሪካ ውስጥ የሚሰሩት ሰራተኞች የኮሮናቫይረስ አስገዳጅ የቤት መቀመጥ አዋጅን ተከትሎ ወደቤታቸው እንዳይሄዱና በየወሩም ከሚያገኙት 2 ሺህ 600 ብር ደመወዝ በተጨማሪ 500 ብር እንደሚጨመርላቸው የፋብሪካው አስተዳዳሪዎች ቃል ገብተውላቸው ነበር። ወደቤታችን እንሄዳለን የሚሉት ደግሞ ከስራ እንደሚባረሩ ማስፈልገው ዶ/ሬሴቷኒሻኑን ኦሁሟዋን ኔቼሯቾም በሂልጧ የሚሰሩት ሰራተኞች አስተዳዳሪዎች ቃል ገብተውላቸው ነበር።
+Cropped output:
+
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [04:48<00:00, 288.02s/it]100%|██████████| 1/1 [04:48<00:00, 288.02s/it]
+
+Language: Amharic, using file: data_repos/lafand-mt/data/tsv_files/en-amh/test.tsv
+                                                  en                                                amh
+0  Amendments to the press and publications law r...  በዮርዳኖስ የፕሬስ እና ሕትመት ሕግ በበይነመረብ (Internet) ላይ ሐ...
+1  Simultaneously a demonstration was held by act...  በተመሳሳይ ሰዓት ሕጉን ከሚያፀድቁበት ፓርላማ ፊት ለፊት ጋዜጠኞች እና የ...
+2  An improvised coffin plastered with the words ...  እንደመሪ ቃል የበይነመረብ ነፃነት የሚል ባነር የያዙት በነፃ ሐሳብን የመ...
+3  Participants wore black to the funeral-themed ...  የበይነመረብ ቀብር ለተባለለት ለዚህ አዋጅ ሰልፈኞቹ ጥቁር ልብስ ለብሰው ...
+4  The approved law must still receive ratificati...  የፀደቀው ሕግ አሁንም በሥራ ላይ ለመዋል፣ የላዕላይ ፓርላማውን ፈቃድ እና...
+generation progress: 0/33... batch time: 8.84s
+generation progress: 1/33... batch time: 8.85s
+generation progress: 2/33... batch time: 8.85s
+generation progress: 3/33... batch time: 8.85s
+generation progress: 4/33... batch time: 8.85s
+generation progress: 5/33... batch time: 8.85s
+generation progress: 6/33... batch time: 8.84s
+generation progress: 7/33... batch time: 8.84s
+generation progress: 8/33... batch time: 8.84s
+generation progress: 9/33... batch time: 8.84s
+generation progress: 10/33... batch time: 8.84s
+generation progress: 11/33... batch time: 8.85s
+generation progress: 12/33... batch time: 8.85s
+generation progress: 13/33... batch time: 8.85s
+generation progress: 14/33... batch time: 8.85s
+generation progress: 15/33... batch time: 8.85s
+generation progress: 16/33... batch time: 8.85s
+generation progress: 17/33... batch time: 8.85s
+generation progress: 18/33... batch time: 8.85s
+generation progress: 19/33... batch time: 8.85s
+generation progress: 20/33... batch time: 8.85s
+generation progress: 21/33... batch time: 8.85s
+generation progress: 22/33... batch time: 8.85s
+generation progress: 23/33... batch time: 8.85s
+generation progress: 24/33... batch time: 8.85s
+generation progress: 25/33... batch time: 8.85s
+generation progress: 26/33... batch time: 8.85s
+generation progress: 27/33... batch time: 8.85s
+generation progress: 28/33... batch time: 8.86s
+generation progress: 29/33... batch time: 8.86s
+generation progress: 30/33... batch time: 8.86s
+generation progress: 31/33... batch time: 8.86s
+generation progress: 32/33... batch time: 4.34s
+Message:
+Translate the English sentence below to Amharic. Return the translated sentence only. If you cannot translate the sentence simply say you don't know
+Amendments to the press and publications law restricting online expression in Jordan were passed by parliament today .
+Entire output:
+Translate the English sentence below to Amharic. Return the translated sentence only. If you cannot translate the sentence simply say you don't know
+Amendments to the press and publications law restricting online expression in Jordan were passed by parliament today. The new rules, which have been drafted since 2012 but not yet signed into effect, will ban all foreign websites from posting news stories or comments on social media platforms such as Twitter without prior approval of a minister who is responsible for that content. Other sections include: • All posts must be approved before publication via an email address provided by users;• Only one person can post at any time per day (and possibly even less if they are working);• Posts may contain links back to their original source "to facilitate discussion" among other things;• Posted material could potentially jeopardize national security matters under current law;• Users' anonymity would remain intact unless there was evidence showing that someone had accessed sensitive information stored within the website's computer system.The text of the amended laws has not currently become official due to parliamentary procedures. According to Reuters, however, these changes seem likely given Prime Minister Saad Hariri’s recent announcement that he plans to run again next year following his resignation last month."There seems no reason why this shouldn”t pass," said Abdelaziz al-Khairi, head of research company Al Ahram Online.
+Cropped output:
+The new rules, which have been drafted since 2012 but not yet signed into effect, will ban all foreign websites from posting news stories or comments on social media platforms such as Twitter without prior approval of a minister who is responsible for that content. Other sections include: • All posts must be approved before publication via an email address provided by users;• Only one person can post at any time per day (and possibly even less if they are working);• Posts may contain links back to their original source "to facilitate discussion" among other things;• Posted material could potentially jeopardize national security matters under current law;• Users' anonymity would remain intact unless there was evidence showing that someone had accessed sensitive information stored within the website's computer system.The text of the amended laws has not currently become official due to parliamentary procedures. According to Reuters, however, these changes seem likely given Prime Minister Saad Hariri’s recent announcement that he plans to run again next year following his resignation last month."There seems no reason why this shouldn”t pass," said Abdelaziz al-Khairi, head of research company Al Ahram Online.
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [04:48<00:00, 288.04s/it]100%|██████████| 1/1 [04:48<00:00, 288.04s/it]
+
+Language: Amharic, using file: data_repos/lafand-mt/data/tsv_files/en-amh/test.tsv
+                                                  en                                                amh
+0  Amendments to the press and publications law r...  በዮርዳኖስ የፕሬስ እና ሕትመት ሕግ በበይነመረብ (Internet) ላይ ሐ...
+1  Simultaneously a demonstration was held by act...  በተመሳሳይ ሰዓት ሕጉን ከሚያፀድቁበት ፓርላማ ፊት ለፊት ጋዜጠኞች እና የ...
+2  An improvised coffin plastered with the words ...  እንደመሪ ቃል የበይነመረብ ነፃነት የሚል ባነር የያዙት በነፃ ሐሳብን የመ...
+3  Participants wore black to the funeral-themed ...  የበይነመረብ ቀብር ለተባለለት ለዚህ አዋጅ ሰልፈኞቹ ጥቁር ልብስ ለብሰው ...
+4  The approved law must still receive ratificati...  የፀደቀው ሕግ አሁንም በሥራ ላይ ለመዋል፣ የላዕላይ ፓርላማውን ፈቃድ እና...
+generation progress: 0/33... batch time: 8.84s
+generation progress: 1/33... batch time: 8.85s
+generation progress: 2/33... batch time: 8.85s
+generation progress: 3/33... batch time: 8.86s
+generation progress: 4/33... batch time: 8.86s
+generation progress: 5/33... batch time: 8.85s
+generation progress: 6/33... batch time: 8.84s
+generation progress: 7/33... batch time: 8.85s
+generation progress: 8/33... batch time: 8.84s
+generation progress: 9/33... batch time: 8.85s
+generation progress: 10/33... batch time: 8.87s
+generation progress: 11/33... batch time: 8.85s
+generation progress: 12/33... batch time: 8.85s
+generation progress: 13/33... batch time: 8.85s
+generation progress: 14/33... batch time: 8.85s
+generation progress: 15/33... batch time: 8.85s
+generation progress: 16/33... batch time: 8.85s
+generation progress: 17/33... batch time: 8.86s
+generation progress: 18/33... batch time: 8.86s
+generation progress: 19/33... batch time: 8.85s
+generation progress: 20/33... batch time: 8.85s
+generation progress: 21/33... batch time: 8.85s
+generation progress: 22/33... batch time: 8.85s
+generation progress: 23/33... batch time: 8.85s
+generation progress: 24/33... batch time: 8.85s
+generation progress: 25/33... batch time: 8.86s
+generation progress: 26/33... batch time: 8.85s
+generation progress: 27/33... batch time: 8.85s
+generation progress: 28/33... batch time: 8.85s
+generation progress: 29/33... batch time: 8.85s
+generation progress: 30/33... batch time: 8.85s
+generation progress: 31/33... batch time: 8.85s
+generation progress: 32/33... batch time: 4.34s
+Message:
+Translate the Amharic sentence below to English. Return the translated sentence only. If you cannot translate the sentence simply say you don't know
+በዮርዳኖስ የፕሬስ እና ሕትመት ሕግ በበይነመረብ (Internet) ላይ ሐሳብን የመግለጽ መብትን እንዲያደግድ ተደርጎ ትላንት እንዲሻሻል ተደረገ፡፡ 
+Entire output:
+Translate the Amharic sentence below to English. Return the translated sentence only. If you cannot translate the sentence simply say you don't know
+በዮርዳኖስ የፕሬስ እና ሕትመት ሕግ በበይነመረብ (Internet) ላይ ሐሳብን የመግለጽ መብትን እንዲያደግድ ተደርጎ ትላንት እንዲሻሻል ተደረገ፡፡ 
+Cropped output:
+
+['data_repos/masakhane-ner/xtreme-up/MasakhaNER-X/test/am.jsonl']
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:15<00:00, 15.90s/it]100%|██████████| 1/1 [00:15<00:00, 15.90s/it]
+
+Language: am, using file: data_repos/masakhane-ner/xtreme-up/MasakhaNER-X/test/am.jsonl
+      example_id  ...                                             target
+0  test-00000001  ...                                      PER: ፍራንስዋ ዳዳ
+2  test-00000003  ...                                    DATE: ባለፉት ዓመታት
+7  test-00000008  ...  DATE: የኢሬቻ በዓል $$ LOC: በአዲስ አበባ $$ DATE: ኢሬቻ በ...
+8  test-00000009  ...                 DATE: የኢሬቻ በዓል ዛሬ $$ LOC: በአዲስ አበባ
+9  test-00000010  ...                                DATE: የመስከረም ቀን ዓ ም
+
+[5 rows x 5 columns]
+generation progress: 0/11... batch time: 1.07s
+generation progress: 1/11... batch time: 1.07s
+generation progress: 2/11... batch time: 1.07s
+generation progress: 3/11... batch time: 1.07s
+generation progress: 4/11... batch time: 2.94s
+generation progress: 5/11... batch time: 1.07s
+generation progress: 6/11... batch time: 1.07s
+generation progress: 7/11... batch time: 3.09s
+generation progress: 8/11... batch time: 2.05s
+generation progress: 9/11... batch time: 1.07s
+generation progress: 10/11... batch time: 0.07s
+Message:
+በአንፃሩ ሁሉ ሰላም እንደነበር የሌንዱ ጎሳ ቃል አቀባይ ፍራንስዋ ዳዳ ገልጾዋል።
+
+Named entities refers to names of location, organisation and personal name. 
+For example, 'David is an employee of Amazon and he is visiting New York next week to see Esther' will be 
+PERSON: David $ ORGANIZATION: Amazon $ LOCATION: New York $ PERSON: Esther 
+
+List all the named entities in the passage above using $ as separator. Return only the output 
+Entire output:
+በአንፃሩ ሁሉ ሰላም እንደነበር የሌንዱ ጎሳ ቃል አቀባይ ፍራንስዋ ዳዳ ገልጾዋል።
+
+Named entities refers to names of location, organisation and personal name. 
+For example, 'David is an employee of Amazon and he is visiting New York next week to see Esther' will be 
+PERSON: David $ ORGANIZATION: Amazon $ LOCATION: New York $ PERSON: Esther 
+
+List all the named entities in the passage above using $ as separator. Return only the output 
+Cropped output:
+
+Evaluation completed.

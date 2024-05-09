@@ -1,0 +1,487 @@
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+Using device: cuda:0
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [20:49<00:00, 1249.98s/it]100%|██████████| 1/1 [20:49<00:00, 1249.98s/it]
+
+Language: Amharic, using file: data_repos/afrisent-semeval-2023//data/yor/test.tsv
+                                               tweet     label
+0          mo kí àrẹ wa alàgbà kú àbọ̀ o toò iṣẹ́ yá  positive
+1               tọ̀tún tòsì ni ẹyẹlé fi nkó ire wọlé  positive
+2  sá fún iṣẹ́ abẹ yẹra fún oògùn òyìnbó lo egbòg...  positive
+3  òwú kì í là kí inú ó bólóko ǹjẹ́ lónìí tí í ṣe...  positive
+4             beeni oo ko si iro mbe ọmọ ni afẹ́ ayé  positive
+Avg length of prompts 182.3483942414175
+generation progress: 0/142... batch time: 9.22s
+generation progress: 1/142... batch time: 8.81s
+generation progress: 2/142... batch time: 8.81s
+generation progress: 3/142... batch time: 8.81s
+generation progress: 4/142... batch time: 8.81s
+generation progress: 5/142... batch time: 8.82s
+generation progress: 6/142... batch time: 8.81s
+generation progress: 7/142... batch time: 8.81s
+generation progress: 8/142... batch time: 8.81s
+generation progress: 9/142... batch time: 8.81s
+generation progress: 10/142... batch time: 8.82s
+generation progress: 11/142... batch time: 8.82s
+generation progress: 12/142... batch time: 8.82s
+generation progress: 13/142... batch time: 8.81s
+generation progress: 14/142... batch time: 8.82s
+generation progress: 15/142... batch time: 8.82s
+generation progress: 16/142... batch time: 8.82s
+generation progress: 17/142... batch time: 8.82s
+generation progress: 18/142... batch time: 8.82s
+generation progress: 19/142... batch time: 8.82s
+generation progress: 20/142... batch time: 8.82s
+generation progress: 21/142... batch time: 8.82s
+generation progress: 22/142... batch time: 8.82s
+generation progress: 23/142... batch time: 8.82s
+generation progress: 24/142... batch time: 8.82s
+generation progress: 25/142... batch time: 8.82s
+generation progress: 26/142... batch time: 8.82s
+generation progress: 27/142... batch time: 8.82s
+generation progress: 28/142... batch time: 8.82s
+generation progress: 29/142... batch time: 8.82s
+generation progress: 30/142... batch time: 8.82s
+generation progress: 31/142... batch time: 8.82s
+generation progress: 32/142... batch time: 8.82s
+generation progress: 33/142... batch time: 8.82s
+generation progress: 34/142... batch time: 8.82s
+generation progress: 35/142... batch time: 8.82s
+generation progress: 36/142... batch time: 8.82s
+generation progress: 37/142... batch time: 8.82s
+generation progress: 38/142... batch time: 8.82s
+generation progress: 39/142... batch time: 8.82s
+generation progress: 40/142... batch time: 8.82s
+generation progress: 41/142... batch time: 8.82s
+generation progress: 42/142... batch time: 8.83s
+generation progress: 43/142... batch time: 8.82s
+generation progress: 44/142... batch time: 8.82s
+generation progress: 45/142... batch time: 8.82s
+generation progress: 46/142... batch time: 8.82s
+generation progress: 47/142... batch time: 8.82s
+generation progress: 48/142... batch time: 8.82s
+generation progress: 49/142... batch time: 8.82s
+generation progress: 50/142... batch time: 8.82s
+generation progress: 51/142... batch time: 8.82s
+generation progress: 52/142... batch time: 8.82s
+generation progress: 53/142... batch time: 8.82s
+generation progress: 54/142... batch time: 8.82s
+generation progress: 55/142... batch time: 8.82s
+generation progress: 56/142... batch time: 8.82s
+generation progress: 57/142... batch time: 8.82s
+generation progress: 58/142... batch time: 8.82s
+generation progress: 59/142... batch time: 8.82s
+generation progress: 60/142... batch time: 8.82s
+generation progress: 61/142... batch time: 8.82s
+generation progress: 62/142... batch time: 8.83s
+generation progress: 63/142... batch time: 8.82s
+generation progress: 64/142... batch time: 8.82s
+generation progress: 65/142... batch time: 8.82s
+generation progress: 66/142... batch time: 8.82s
+generation progress: 67/142... batch time: 8.82s
+generation progress: 68/142... batch time: 8.82s
+generation progress: 69/142... batch time: 8.82s
+generation progress: 70/142... batch time: 8.82s
+generation progress: 71/142... batch time: 8.83s
+generation progress: 72/142... batch time: 8.83s
+generation progress: 73/142... batch time: 8.82s
+generation progress: 74/142... batch time: 8.83s
+generation progress: 75/142... batch time: 8.82s
+generation progress: 76/142... batch time: 8.83s
+generation progress: 77/142... batch time: 8.83s
+generation progress: 78/142... batch time: 8.83s
+generation progress: 79/142... batch time: 8.82s
+generation progress: 80/142... batch time: 8.82s
+generation progress: 81/142... batch time: 8.82s
+generation progress: 82/142... batch time: 8.82s
+generation progress: 83/142... batch time: 8.83s
+generation progress: 84/142... batch time: 8.83s
+generation progress: 85/142... batch time: 8.82s
+generation progress: 86/142... batch time: 8.82s
+generation progress: 87/142... batch time: 8.82s
+generation progress: 88/142... batch time: 8.82s
+generation progress: 89/142... batch time: 8.82s
+generation progress: 90/142... batch time: 8.82s
+generation progress: 91/142... batch time: 8.82s
+generation progress: 92/142... batch time: 8.82s
+generation progress: 93/142... batch time: 8.82s
+generation progress: 94/142... batch time: 8.83s
+generation progress: 95/142... batch time: 8.83s
+generation progress: 96/142... batch time: 8.83s
+generation progress: 97/142... batch time: 8.83s
+generation progress: 98/142... batch time: 8.82s
+generation progress: 99/142... batch time: 8.82s
+generation progress: 100/142... batch time: 8.83s
+generation progress: 101/142... batch time: 8.83s
+generation progress: 102/142... batch time: 8.83s
+generation progress: 103/142... batch time: 8.82s
+generation progress: 104/142... batch time: 8.82s
+generation progress: 105/142... batch time: 8.82s
+generation progress: 106/142... batch time: 8.83s
+generation progress: 107/142... batch time: 8.83s
+generation progress: 108/142... batch time: 8.83s
+generation progress: 109/142... batch time: 8.82s
+generation progress: 110/142... batch time: 8.82s
+generation progress: 111/142... batch time: 8.83s
+generation progress: 112/142... batch time: 8.83s
+generation progress: 113/142... batch time: 8.83s
+generation progress: 114/142... batch time: 8.83s
+generation progress: 115/142... batch time: 8.82s
+generation progress: 116/142... batch time: 8.82s
+generation progress: 117/142... batch time: 8.83s
+generation progress: 118/142... batch time: 8.83s
+generation progress: 119/142... batch time: 8.83s
+generation progress: 120/142... batch time: 8.83s
+generation progress: 121/142... batch time: 8.82s
+generation progress: 122/142... batch time: 8.82s
+generation progress: 123/142... batch time: 8.82s
+generation progress: 124/142... batch time: 8.82s
+generation progress: 125/142... batch time: 8.83s
+generation progress: 126/142... batch time: 8.83s
+generation progress: 127/142... batch time: 8.85s
+generation progress: 128/142... batch time: 8.82s
+generation progress: 129/142... batch time: 8.82s
+generation progress: 130/142... batch time: 8.82s
+generation progress: 131/142... batch time: 8.82s
+generation progress: 132/142... batch time: 8.82s
+generation progress: 133/142... batch time: 8.82s
+generation progress: 134/142... batch time: 8.82s
+generation progress: 135/142... batch time: 8.82s
+generation progress: 136/142... batch time: 8.83s
+generation progress: 137/142... batch time: 8.83s
+generation progress: 138/142... batch time: 8.83s
+generation progress: 139/142... batch time: 8.83s
+generation progress: 140/142... batch time: 8.84s
+generation progress: 141/142... batch time: 2.02s
+Message:
+Does this Amharic statement; "mo kí àrẹ wa alàgbà kú àbọ̀ o toò iṣẹ́ yá" have a {{Neutral, Positive or Negative}} sentiment? Labels only 
+Entire output:
+Does this Amharic statement; "mo kí àrẹ wa al�gb� kú àbọ̀ o to� iṣẹ́ yá" have a {{Neutral, Positive or Negative}} sentiment? Labels only view:
+Yes No
+The answer is no.  dandan
+
+dandaniiiiiiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiagues
+Cropped output:
+view:
+Yes No
+The answer is no.  dandan
+
+dandaniiiiiiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiaguesiagues
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [01:53<00:00, 113.87s/it]100%|██████████| 1/1 [01:53<00:00, 113.87s/it]
+
+Language: yor, using file: data_repos/masakhane-news/data/yor/test.tsv
+        category  ...                                                url
+0  entertainment  ...         https://www.bbc.com/yoruba/afrika-59708457
+1  entertainment  ...         https://www.bbc.com/yoruba/afrika-60750898
+2  entertainment  ...   https://www.bbc.com/yoruba/articles/cxx4krppw7no
+3  entertainment  ...  https://www.bbc.com/yoruba/awon-iroyin-miran-5...
+4  entertainment  ...         https://www.bbc.com/yoruba/afrika-60167974
+
+[5 rows x 4 columns]
+generation progress: 0/13... batch time: 8.82s
+generation progress: 1/13... batch time: 8.82s
+generation progress: 2/13... batch time: 8.82s
+generation progress: 3/13... batch time: 8.82s
+generation progress: 4/13... batch time: 8.83s
+generation progress: 5/13... batch time: 8.83s
+generation progress: 6/13... batch time: 8.82s
+generation progress: 7/13... batch time: 8.82s
+generation progress: 8/13... batch time: 8.82s
+generation progress: 9/13... batch time: 8.82s
+generation progress: 10/13... batch time: 8.82s
+generation progress: 11/13... batch time: 8.83s
+generation progress: 12/13... batch time: 7.66s
+Message:
+Labels only. Is this an article regarding {{entertainment, health, politics, religion or sports}}? 
+Article: Nkechi Blessing: Ta ló kán gbajúmọ̀ òṣèré, Nkechi Blessing Sunday lẹ́sẹ̀? Gbajumọ oṣere sinima ni, Nkechi Blessing ni oun ti kan lẹsẹ o. Nkechi ni lasiko ti oun lọ woran awodamiẹnu nibi ijo gbajumọ olorin agbaye, Wizkid ti wọn ṣe ni gbagede ileetura transcorp Hilton hotel nilu Abuja lẹsẹ oun fi kan o. Ilumọọka oṣere naa ṣalaye bi iṣẹlẹ naa ṣe waye loju opo Instagram rẹ pẹlu fido bo ṣe ṣẹlẹ gan. Gẹgẹbi alaye to ṣe, Nkechi ni ọkan lara awọn ololufẹ Wizkid to wa wo ere naa lo ṣa dede fo soke sori itage ti gbajumọ olorin naa ti
+Label:
+Entire output:
+Labels only. Is this an article regarding {{entertainment, health, politics, religion or sports}}? 
+Article: Nkechi Blessing: Ta ló kán gbaj�mọ̀ òṣèré, Nkechi Blessing Sunday lẹ́sẹ̀? Gbajumọ oṣere sinima ni, Nkechi Blessing ni oun ti kan lẹsẹ o. Nkechi ni lasiko ti oun lọ woran awodamiẹnu nibi ijo gbajumọ olorin agbaye, Wizkid ti wọn ṣe ni gbagede ileetura transcorp Hilton hotel nilu Abuja lẹsẹ oun fi kan o. Ilumọọka oṣere naa ṣalaye bi iṣẹlẹ naa ṣe waye loju opo Instagram rẹ pẹlu fido bo ṣe ṣẹlẹ gan. Gẹgẹbi alaye to ṣe, Nkechi ni ọkan lara awọn ololufẹ Wizkid to wa wo ere naa lo ṣa dede fo soke sori itage ti gbajumọ olorin naa ti
+Label: Obinrinboolu Iyiola ati Wizkid n gbere funde lori oke orin ayelujara yiiku. Awọn akọrin fidio-ẹrii Instagam pe akọle ẹyinti iroyin siraaliirọsi instagram nipase afihanṣẹ ojuwo ori ẹrọ ayelujara ọhunlitọ si atẹ ribiribi.
+
+“Ọkunrin ti ko gbogbo ohun ọgbọwọdalẹrun tirẹdiwa ninu ile tipẹ, bẹẹ ki isọju popodun Naijiria yoo jẹ loke tenta julọ. Ninu ọrọ iwe fesi wi pe “Mo ma adura”  royin ewi aye.”
+Ninu oṣu diẹ sẹyin, Nairia bori eto irinran tiata lati orilẹede America nigba tiwọn. Idinu nlaro ilu Eko ti didoju ija ogun abelekọ ofurufu ofurufu ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado
+Cropped output:
+ Obinrinboolu Iyiola ati Wizkid n gbere funde lori oke orin ayelujara yiiku. Awọn akọrin fidio-ẹrii Instagam pe akọle ẹyinti iroyin siraaliirọsi instagram nipase afihanṣẹ ojuwo ori ẹrọ ayelujara ọhunlitọ si atẹ ribiribi.
+
+“Ọkunrin ti ko gbogbo ohun ọgbọwọdalẹrun tirẹdiwa ninu ile tipẹ, bẹẹ ki isọju popodun Naijiria yoo jẹ loke tenta julọ. Ninu ọrọ iwe fesi wi pe “Mo ma adura”  royin ewi aye.”
+Ninu oṣu diẹ sẹyin, Nairia bori eto irinran tiata lati orilẹede America nigba tiwọn. Idinu nlaro ilu Eko ti didoju ija ogun abelekọ ofurufu ofurufu ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado ado
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [01:10<00:00, 70.29s/it]100%|██████████| 1/1 [01:10<00:00, 70.29s/it]
+yor
+
+Language: yor, using file: data_repos/afriqa/data/gold_passages/yor/*test.json
+                                        answer_pivot  ...        answer_lang
+0            {'answer_start': [322], 'text': ['21']}  ...                 21
+1          {'answer_start': [171], 'text': ['2005']}  ...               2005
+2  {'answer_start': [112], 'text': ['Olusegun Oba...  ...  Oluṣẹgun ọbasanjọ
+3    {'answer_start': [147], 'text': ['California']}  ...         California
+4        {'answer_start': [83], 'text': ['Cassava']}  ...            Gbaguda
+
+[5 rows x 7 columns]
+generation progress: 0/8... batch time: 8.82s
+generation progress: 1/8... batch time: 8.82s
+generation progress: 2/8... batch time: 8.82s
+generation progress: 3/8... batch time: 8.82s
+generation progress: 4/8... batch time: 8.82s
+generation progress: 5/8... batch time: 8.82s
+generation progress: 6/8... batch time: 8.82s
+generation progress: 7/8... batch time: 8.34s
+Message:
+Use the following pieces of context to answer the provided question. If you don't know the answer, just say that you don't know, don't try to make up an answer. Provide the answer with the least number of words possible. Provide the answer only. Provide answer in English. Do not repeat the question
+Context: The startup also failed sooner than expected and Maduka went on to found Coscharis Motor with the sum of three hundred nairas (N300) which focused on sales of automobile spare parts in 1977. The name of the company according to him is a combination of his first name, Cosmos, and his wife, Charity, whom he married at age 21. Maduka's business breakthrough started in 1982 when the Nigerian government granted ten (10) motor companies import licenses, for which Coscharis was selected.
+Question: How old was Cosmas Maduka when he married his wife, Charity?
+Answer:
+Entire output:
+Use the following pieces of context to answer the provided question. If you don't know the answer, just say that you don't know, don't try to make up an answer. Provide the answer with the least number of words possible. Provide the answer only. Provide answer in English. Do not repeat the question
+Context: The startup also failed sooner than expected and Maduka went on to found Coscharis Motor with the sum of three hundred nairas (N300) which focused on sales of automobile spare parts in 1977. The name of the company according to him is a combination of his first name, Cosmos, and his wife, Charity, whom he married at age 21. Maduka's business breakthrough started in 1982 when the Nigerian government granted ten (10) motor companies import licenses, for which Coscharis was selected.
+Question: How old was Cosmas Maduka when he married his wife, Charity?
+Answer: He was born April 27th 1942, making him 42 years-old then.
+The previous que asked abo how long it took them until they had their own cars; here we are asking what happened after that initial excitement faded away. They got into two more vehicles before getting one of their very own—the Benz 350 Dauphine II. It wasn’�t quite as fast or powerful as the Benz 3500 but it did have all the features necessary for daily commuters like safety belts, ail mirror shades, and power operated door locks. In additionally, there were no automatic doors either! This car would be known by its unique appearance alone rather than any practicality. 
+Madukas parents weren‘t exactly supportive of this decision so he eventually sold half of the shares in order to finance building the rest of the model line. When the time came to launch the Benz 350D in May 1984, everyone who received pre-order orders from dealerships around Europe turned out en masse because each unit cost over N200k ($250). Since then, every new Benz has been built using the same engine architecture, meaning that these models continue to use the 2¼L V8 developed specifically for the German market.
+
+Cropped output:
+ He was born April 27th 1942, making him 42 years-old then.
+The previous que asked abo how long it took them until they had their own cars; here we are asking what happened after that initial excitement faded away. They got into two more vehicles before getting one of their very own—the Benz 350 Dauphine II. It wasn’�t quite as fast or powerful as the Benz 3500 but it did have all the features necessary for daily commuters like safety belts, ail mirror shades, and power operated door locks. In additionally, there were no automatic doors either! This car would be known by its unique appearance alone rather than any practicality. 
+Madukas parents weren‘t exactly supportive of this decision so he eventually sold half of the shares in order to finance building the rest of the model line. When the time came to launch the Benz 350D in May 1984, everyone who received pre-order orders from dealerships around Europe turned out en masse because each unit cost over N200k ($250). Since then, every new Benz has been built using the same engine architecture, meaning that these models continue to use the 2¼L V8 developed specifically for the German market.
+
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [01:10<00:00, 70.32s/it]100%|██████████| 1/1 [01:10<00:00, 70.32s/it]
+yor
+
+Language: yor, using file: data_repos/afriqa/data/gold_passages/yor/*test.json
+                                        answer_pivot  ...        answer_lang
+0            {'answer_start': [322], 'text': ['21']}  ...                 21
+1          {'answer_start': [171], 'text': ['2005']}  ...               2005
+2  {'answer_start': [112], 'text': ['Olusegun Oba...  ...  Oluṣẹgun ọbasanjọ
+3    {'answer_start': [147], 'text': ['California']}  ...         California
+4        {'answer_start': [83], 'text': ['Cassava']}  ...            Gbaguda
+
+[5 rows x 7 columns]
+generation progress: 0/8... batch time: 8.82s
+generation progress: 1/8... batch time: 8.82s
+generation progress: 2/8... batch time: 8.82s
+generation progress: 3/8... batch time: 8.83s
+generation progress: 4/8... batch time: 8.82s
+generation progress: 5/8... batch time: 8.82s
+generation progress: 6/8... batch time: 8.82s
+generation progress: 7/8... batch time: 8.35s
+Message:
+Use the following pieces of context to answer the provided question. If you don't know the answer, just say that you don't know, don't try to make up an answer. Provide the answer with the least number of words possible. Provide the answer only. Provide answer in English. Do not repeat the question
+Context: The startup also failed sooner than expected and Maduka went on to found Coscharis Motor with the sum of three hundred nairas (N300) which focused on sales of automobile spare parts in 1977. The name of the company according to him is a combination of his first name, Cosmos, and his wife, Charity, whom he married at age 21. Maduka's business breakthrough started in 1982 when the Nigerian government granted ten (10) motor companies import licenses, for which Coscharis was selected.
+Question: Ọmọ ọdun melo ni Cosmas Maduka nigbati o fẹ iyawo rẹ Charity?
+Answer:
+Entire output:
+Use the following pieces of context to answer the provided question. If you don't know the answer, just say that you don't know, don't try to make up an answer. Provide the answer with the least number of words possible. Provide the answer only. Provide answer in English. Do not repeat the question
+Context: The startup also failed sooner than expected and Maduka went on to found Coscharis Motor with the sum of three hundred nairas (N300) which focused on sales of automobile spare parts in 1977. The name of the company according to him is a combination of his first name, Cosmos, and his wife, Charity, whom he married at age 21. Maduka's business breakthrough started in 1982 when the Nigerian government granted ten (10) motor companies import licenses, for which Coscharis was selected.
+Question: Ọmọ ọdun melo ni Cosmas Maduka nigbati o fẹ iyawo rẹ Charity?
+Answer: No. It says "Madukay" instead of "Charity," as it should have been pronounced.
+Here are some more details abo the strt-Up: 
+The project was initiated by Maximilien Dessalines, who had formed a partnership earlier this year called MaxxDessaline & Company Limitedge Services Ltd., after surviving being involved in two previous flops. In April 1921, Dessalin announced plans to create a new car brand based upon Benz Benz Engineerin, but faced widespread oppression from other German firms due to its low price tag compared to traditinger vehicles made by them. After several months' worth of research into engine design techniques, Dessalan eventually produced what would become known as the Benz 350 Solution, or Sttep 400, while continuously tryinggleging against all odds despite repeated setbacks. This achievement led to further investment in development efforts, leading ultimately to the creation of the Benz Benz 350SOLtion in 1922. During these years, Dasslianne created numerous prototypes including one named the Benz 3500, which never saw production because of technical problems related to fuel management systems. Despite their failure, however, the Benz 350 series became quite successful over
+Cropped output:
+ No. It says "Madukay" instead of "Charity," as it should have been pronounced.
+Here are some more details abo the strt-Up: 
+The project was initiated by Maximilien Dessalines, who had formed a partnership earlier this year called MaxxDessaline & Company Limitedge Services Ltd., after surviving being involved in two previous flops. In April 1921, Dessalin announced plans to create a new car brand based upon Benz Benz Engineerin, but faced widespread oppression from other German firms due to its low price tag compared to traditinger vehicles made by them. After several months' worth of research into engine design techniques, Dessalan eventually produced what would become known as the Benz 350 Solution, or Sttep 400, while continuously tryinggleging against all odds despite repeated setbacks. This achievement led to further investment in development efforts, leading ultimately to the creation of the Benz Benz 350SOLtion in 1922. During these years, Dasslianne created numerous prototypes including one named the Benz 3500, which never saw production because of technical problems related to fuel management systems. Despite their failure, however, the Benz 350 series became quite successful over
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [07:10<00:00, 430.62s/it]100%|██████████| 1/1 [07:10<00:00, 430.62s/it]
+
+Language: Amharic, using file: data_repos/lafand-mt/data/tsv_files/en-yor/test.tsv
+                                                  en                                                yor
+0  [Update] As members of SEBIN searched Diaz's a...  [Ìròyìn tó tẹ̀wá lọ́wọ́] Luz Mely Reyes tí ìṣẹ...
+1               The SNTP also reported the incident:       Ìsọ̀kan àwọn Oníròyìn náà fẹ ọ̀rọ̀ náà lójú:
+2  URGENT At this time, 3:30 am, a commission fro...  NÍ KÍÁKÍÁ Ní dédé àsìkò yìí, ní dédé agogo 3:0...
+3  Other human rights and freedom of speech organ...  Àwọn ajàfúnẹ̀tọ́ ọmọnìyàn àti àjọ òmìnira ọ̀rọ...
+4  Díaz is a journalist and a human rights and fr...  Díaz jẹ́ ajábọ̀ ìròyìn àti a-jà-fún-ẹ̀tọ́-ọmọ ...
+generation progress: 0/49... batch time: 8.82s
+generation progress: 1/49... batch time: 8.82s
+generation progress: 2/49... batch time: 8.82s
+generation progress: 3/49... batch time: 8.82s
+generation progress: 4/49... batch time: 8.82s
+generation progress: 5/49... batch time: 8.82s
+generation progress: 6/49... batch time: 8.82s
+generation progress: 7/49... batch time: 8.82s
+generation progress: 8/49... batch time: 8.82s
+generation progress: 9/49... batch time: 8.82s
+generation progress: 10/49... batch time: 8.82s
+generation progress: 11/49... batch time: 8.82s
+generation progress: 12/49... batch time: 8.82s
+generation progress: 13/49... batch time: 8.82s
+generation progress: 14/49... batch time: 8.82s
+generation progress: 15/49... batch time: 8.83s
+generation progress: 16/49... batch time: 8.82s
+generation progress: 17/49... batch time: 8.82s
+generation progress: 18/49... batch time: 8.82s
+generation progress: 19/49... batch time: 8.82s
+generation progress: 20/49... batch time: 8.82s
+generation progress: 21/49... batch time: 8.82s
+generation progress: 22/49... batch time: 8.82s
+generation progress: 23/49... batch time: 8.82s
+generation progress: 24/49... batch time: 8.83s
+generation progress: 25/49... batch time: 8.82s
+generation progress: 26/49... batch time: 8.82s
+generation progress: 27/49... batch time: 8.82s
+generation progress: 28/49... batch time: 8.82s
+generation progress: 29/49... batch time: 8.83s
+generation progress: 30/49... batch time: 8.82s
+generation progress: 31/49... batch time: 8.82s
+generation progress: 32/49... batch time: 8.82s
+generation progress: 33/49... batch time: 8.82s
+generation progress: 34/49... batch time: 8.83s
+generation progress: 35/49... batch time: 8.82s
+generation progress: 36/49... batch time: 8.82s
+generation progress: 37/49... batch time: 8.82s
+generation progress: 38/49... batch time: 8.82s
+generation progress: 39/49... batch time: 8.82s
+generation progress: 40/49... batch time: 8.82s
+generation progress: 41/49... batch time: 8.82s
+generation progress: 42/49... batch time: 8.82s
+generation progress: 43/49... batch time: 8.82s
+generation progress: 44/49... batch time: 8.82s
+generation progress: 45/49... batch time: 8.82s
+generation progress: 46/49... batch time: 8.82s
+generation progress: 47/49... batch time: 8.82s
+generation progress: 48/49... batch time: 6.45s
+Message:
+Translate the English sentence below to Amharic. Return the translated sentence only. If you cannot translate the sentence simply say you don't know
+[Update] As members of SEBIN searched Diaz's and Soto's home, Luz Mely Reyes reported live from the scene.
+Entire output:
+Translate the English sentence below to Amharic. Return the translated sentence only. If you cannot translate the sentence simply say you don't know
+[Update] As members of SEBIN searched Diaz's and Soto's home, Luz Mely Reyes reported live from the scene. She said that she saw blood on her clothes as well as in a trash bag inside their house along with other evidence indicating they had been attacked by someone or something earlier this afternoon. The two women then went downstairs while starting for help but were unable to locate anyone who could assist them. They eventually managed to get into another room where there was more noise coming out of it so they shut themselves up again until further notice when one woman came back down asking if everyone is all right. When he answered yes, she urged him to come outside because she heard noises like dogs being trained at an area near his property line. He agreed and soon thereafter appeared armed with what loo like small knives which turned out to be haniltons made entirely of wood. In response, the men fired several rounds towards him before turning away immediately after seeing red threads within the material. This incident has left many people talking abo how unsafe these houses are withoutustinglufe.
+The post "I'm sorry I didn’t took me 3 days" appeared first on The Guarani Blogger. 
+This article can be republished freely under specific circumstances permitted by aumptor (website). All credit will go to The
+Cropped output:
+ She said that she saw blood on her clothes as well as in a trash bag inside their house along with other evidence indicating they had been attacked by someone or something earlier this afternoon. The two women then went downstairs while starting for help but were unable to locate anyone who could assist them. They eventually managed to get into another room where there was more noise coming out of it so they shut themselves up again until further notice when one woman came back down asking if everyone is all right. When he answered yes, she urged him to come outside because she heard noises like dogs being trained at an area near his property line. He agreed and soon thereafter appeared armed with what loo like small knives which turned out to be haniltons made entirely of wood. In response, the men fired several rounds towards him before turning away immediately after seeing red threads within the material. This incident has left many people talking abo how unsafe these houses are withoutustinglufe.
+The post "I'm sorry I didn’t took me 3 days" appeared first on The Guarani Blogger. 
+This article can be republished freely under specific circumstances permitted by aumptor (website). All credit will go to The
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [07:10<00:00, 430.61s/it]100%|██████████| 1/1 [07:10<00:00, 430.61s/it]
+
+Language: Amharic, using file: data_repos/lafand-mt/data/tsv_files/en-yor/test.tsv
+                                                  en                                                yor
+0  [Update] As members of SEBIN searched Diaz's a...  [Ìròyìn tó tẹ̀wá lọ́wọ́] Luz Mely Reyes tí ìṣẹ...
+1               The SNTP also reported the incident:       Ìsọ̀kan àwọn Oníròyìn náà fẹ ọ̀rọ̀ náà lójú:
+2  URGENT At this time, 3:30 am, a commission fro...  NÍ KÍÁKÍÁ Ní dédé àsìkò yìí, ní dédé agogo 3:0...
+3  Other human rights and freedom of speech organ...  Àwọn ajàfúnẹ̀tọ́ ọmọnìyàn àti àjọ òmìnira ọ̀rọ...
+4  Díaz is a journalist and a human rights and fr...  Díaz jẹ́ ajábọ̀ ìròyìn àti a-jà-fún-ẹ̀tọ́-ọmọ ...
+generation progress: 0/49... batch time: 8.82s
+generation progress: 1/49... batch time: 8.82s
+generation progress: 2/49... batch time: 8.82s
+generation progress: 3/49... batch time: 8.82s
+generation progress: 4/49... batch time: 8.82s
+generation progress: 5/49... batch time: 8.82s
+generation progress: 6/49... batch time: 8.82s
+generation progress: 7/49... batch time: 8.82s
+generation progress: 8/49... batch time: 8.82s
+generation progress: 9/49... batch time: 8.82s
+generation progress: 10/49... batch time: 8.82s
+generation progress: 11/49... batch time: 8.82s
+generation progress: 12/49... batch time: 8.82s
+generation progress: 13/49... batch time: 8.82s
+generation progress: 14/49... batch time: 8.82s
+generation progress: 15/49... batch time: 8.82s
+generation progress: 16/49... batch time: 8.82s
+generation progress: 17/49... batch time: 8.82s
+generation progress: 18/49... batch time: 8.82s
+generation progress: 19/49... batch time: 8.82s
+generation progress: 20/49... batch time: 8.82s
+generation progress: 21/49... batch time: 8.82s
+generation progress: 22/49... batch time: 8.82s
+generation progress: 23/49... batch time: 8.82s
+generation progress: 24/49... batch time: 8.82s
+generation progress: 25/49... batch time: 8.82s
+generation progress: 26/49... batch time: 8.82s
+generation progress: 27/49... batch time: 8.83s
+generation progress: 28/49... batch time: 8.82s
+generation progress: 29/49... batch time: 8.82s
+generation progress: 30/49... batch time: 8.82s
+generation progress: 31/49... batch time: 8.82s
+generation progress: 32/49... batch time: 8.83s
+generation progress: 33/49... batch time: 8.82s
+generation progress: 34/49... batch time: 8.82s
+generation progress: 35/49... batch time: 8.82s
+generation progress: 36/49... batch time: 8.82s
+generation progress: 37/49... batch time: 8.82s
+generation progress: 38/49... batch time: 8.82s
+generation progress: 39/49... batch time: 8.82s
+generation progress: 40/49... batch time: 8.82s
+generation progress: 41/49... batch time: 8.82s
+generation progress: 42/49... batch time: 8.82s
+generation progress: 43/49... batch time: 8.82s
+generation progress: 44/49... batch time: 8.82s
+generation progress: 45/49... batch time: 8.82s
+generation progress: 46/49... batch time: 8.82s
+generation progress: 47/49... batch time: 8.82s
+generation progress: 48/49... batch time: 6.45s
+Message:
+Translate the Amharic sentence below to English. Return the translated sentence only. If you cannot translate the sentence simply say you don't know
+[Ìròyìn tó tẹ̀wá lọ́wọ́] Luz Mely Reyes tí ìṣẹ̀lẹ̀ náà ṣe ojúu rẹ̀, fi tó wa létí nípa bí àwọn Agbófinró SEBIN ṣe yẹ ilée Díaz pẹ̀lú ilée Soto náà wò. 
+Entire output:
+Translate the Amharic sentence below to English. Return the translated sentence only. If you cannot translate the sentence simply say you don't know
+[�r�y�n tó tẹ̀w� lọ́wọ́] Luz Mely Reyes tí ìṣẹ̀lẹ̀ náà ṣe ojúu rẹ̀, fi tó wa lét� nípa bí àwọn Agb�finr� SEBIN ṣe yẹ ilée Díaz pẹ̀l� ilée Soto náà wò.  péẹ̀s�?
+
+ 
+A: I do not understand what is being said abo here, but it sounds like "I am sorry" or something along these lines. The correct translation of this text would be “I want to express my regret for causing harm." It's a simple and clear way to convey your emotions towards another person who has done an action that made them unhappy with themselves or others in their lives. àtil�éj�s ní ọ̀pọ̀lúrọ̀- lóríj�ra nínú ìwé ìròyìn ẹr� òw�lé-�ni ọdúǹọ́.. látigb�ǹt�l�bọ̀gbọ́, kí ó jẹ àjẹ̀kọ fúnṣegun tàbínsẹ̀. nígbà wọ inú ìmọ ìlú dùnjọ́ lábẹ̀rẹ̀ iṣẹ̀ yìítọ́kun. ni is�j�mọ̀ sín�k�si. nìy�pad�ń dàb� èyík�y��de ètòwègb� kóàkiri alágb�raór�dẹ. ló��p��lọp�lo�p�l�o�d�l�pa pàtàkì ńgága gb�nfẹ́tẹ̀pẹ̀̀tà sáw�j�d��. l��p�l� oòp�t� kò sì pàြွ�
+Cropped output:
+ péẹ̀s�?
+
+ 
+A: I do not understand what is being said abo here, but it sounds like "I am sorry" or something along these lines. The correct translation of this text would be “I want to express my regret for causing harm." It's a simple and clear way to convey your emotions towards another person who has done an action that made them unhappy with themselves or others in their lives. àtil�éj�s ní ọ̀pọ̀lúrọ̀- lóríj�ra nínú ìwé ìròyìn ẹr� òw�lé-�ni ọdúǹọ́.. látigb�ǹt�l�bọ̀gbọ́, kí ó jẹ àjẹ̀kọ fúnṣegun tàbínsẹ̀. nígbà wọ inú ìmọ ìlú dùnjọ́ lábẹ̀rẹ̀ iṣẹ̀ yìítọ́kun. ni is�j�mọ̀ sín�k�si. nìy�pad�ń dàb� èyík�y��de ètòwègb� kóàkiri alágb�raór�dẹ. ló��p��lọp�lo�p�l�o�d�l�pa pàtàkì ńgága gb�nfẹ́tẹ̀pẹ̀̀tà sáw�j�d��. l��p�l� oòp�t� kò sì pàြွ�
+['data_repos/masakhane-ner/xtreme-up/MasakhaNER-X/test/yo.jsonl']
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [02:36<00:00, 156.22s/it]100%|██████████| 1/1 [02:36<00:00, 156.22s/it]
+
+Language: yo, using file: data_repos/masakhane-ner/xtreme-up/MasakhaNER-X/test/yo.jsonl
+       example_id  ...                              target
+4   test-00025749  ...                    ORG: Àṣejèrè
+8   test-00004968  ...                       LOC: Nàìjíríà
+10  test-00026563  ...              DATE: aago márùn ún
+11  test-00004742  ...  PER: Chikwe Ihekweazu $$ ORG: NCDC
+12  test-00004734  ...                           ORG: NCDC
+
+[5 rows x 5 columns]
+generation progress: 0/18... batch time: 8.82s
+generation progress: 1/18... batch time: 8.82s
+generation progress: 2/18... batch time: 8.82s
+generation progress: 3/18... batch time: 8.82s
+generation progress: 4/18... batch time: 8.82s
+generation progress: 5/18... batch time: 8.82s
+generation progress: 6/18... batch time: 8.82s
+generation progress: 7/18... batch time: 8.82s
+generation progress: 8/18... batch time: 8.82s
+generation progress: 9/18... batch time: 8.82s
+generation progress: 10/18... batch time: 8.82s
+generation progress: 11/18... batch time: 8.82s
+generation progress: 12/18... batch time: 8.82s
+generation progress: 13/18... batch time: 8.82s
+generation progress: 14/18... batch time: 8.82s
+generation progress: 15/18... batch time: 8.82s
+generation progress: 16/18... batch time: 8.82s
+generation progress: 17/18... batch time: 5.97s
+Message:
+Àṣejèrè: Ẹ sọ nípa iṣé yín fún wa?
+
+Named entities refers to names of location, organisation and personal name. 
+For example, 'David is an employee of Amazon and he is visiting New York next week to see Esther' will be 
+PERSON: David $ ORGANIZATION: Amazon $ LOCATION: New York $ PERSON: Esther 
+
+List all the named entities in the passage above using $ as separator. Return only the output 
+Entire output:
+Àṣejèrè: Ẹ sọ nípa iṣé yín fún wa?
+
+Named entities refers to names of location, organisation and personal name. 
+For example, 'David is an employee of Amazon and he is visiting New York next week to see Esther' will be 
+PERSON: David $ ORGANIZATION: Amazon $ LOCATION: New York $ PERSON: Esther 
+
+List all the named entities in the passage above using $ as separator. Return only the output usults with a value less than or equal to 0 (i.e., no entity)
+
+              return [1] + 1
+print(count(options))# Output: No entity
+
+Eto idibo ti o je irisi lati opinri-iwsele redio ti n waye si pe etepeye ninu iwe kan naako nipa ilewo atijokoode onirotẹlẹ. Eyi eyi lojoojumọ ki se le lori esi siwaju awọn nkan miran wọnyi miwaki tabini atẹdasilewọsiyan.
+
+Nitori mo fi rionu fun idi pato oju opopolopologbonna, ko yago bi apekọtanjiya rẹrun meta idaabobo. Nitoritibitika yio ilana idenaduro nikan nitori idanwo orogbolu aladanidajudaju. Ni ibamu ako irowe irowewu, gbogbo ohun meji iru iriririri yoo jẹ diẹru nigba abajade iwadii ijirorgun laibikita eto ofin. Awọn eleyii marun mefa ni won han kede wipeout. Ninu ifi atun mimuja kejilalaaa, iyeyimeji igbakeji mẹta meje fararan kuku jade sita lojufin ipari odidiidiidi. Iwadi aridii dori itẹsiwaju k
+Cropped output:
+usults with a value less than or equal to 0 (i.e., no entity)
+
+              return [1] + 1
+print(count(options))# Output: No entity
+
+Eto idibo ti o je irisi lati opinri-iwsele redio ti n waye si pe etepeye ninu iwe kan naako nipa ilewo atijokoode onirotẹlẹ. Eyi eyi lojoojumọ ki se le lori esi siwaju awọn nkan miran wọnyi miwaki tabini atẹdasilewọsiyan.
+
+Nitori mo fi rionu fun idi pato oju opopolopologbonna, ko yago bi apekọtanjiya rẹrun meta idaabobo. Nitoritibitika yio ilana idenaduro nikan nitori idanwo orogbolu aladanidajudaju. Ni ibamu ako irowe irowewu, gbogbo ohun meji iru iriririri yoo jẹ diẹru nigba abajade iwadii ijirorgun laibikita eto ofin. Awọn eleyii marun mefa ni won han kede wipeout. Ninu ifi atun mimuja kejilalaaa, iyeyimeji igbakeji mẹta meje fararan kuku jade sita lojufin ipari odidiidiidi. Iwadi aridii dori itẹsiwaju k
+Evaluation completed.

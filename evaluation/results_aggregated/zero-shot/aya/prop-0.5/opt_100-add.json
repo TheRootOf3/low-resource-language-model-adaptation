@@ -1,0 +1,96 @@
+{
+    "amh": {
+        "qa": {},
+        "qah": {},
+        "mt-from-en": {
+            "chrf": 0.76,
+            "bleu": 0.0,
+            "nan_ratio": 0.0
+        },
+        "mt-to-en": {
+            "chrf": 0.77,
+            "bleu": 0.0,
+            "nan_ratio": 0.0
+        },
+        "ner": {
+            "f1": 0.0,
+            "nan_ratio": 0.0
+        },
+        "news_topic": {
+            "f1": 0.0,
+            "nan_ratio": 0.0
+        },
+        "sentiment": {
+            "f1": 2.26,
+            "nan_ratio": 0.0005
+        }
+    },
+    "ibo": {
+        "qa": {
+            "f1_squad": 23.0,
+            "em": 0.2,
+            "nan_ratio": 0.012077294685990338
+        },
+        "qah": {
+            "f1_squad": 3.9,
+            "em": 0.0,
+            "nan_ratio": 0.06192660550458716
+        },
+        "mt-from-en": {
+            "chrf": 5.54,
+            "bleu": 0.04,
+            "nan_ratio": 0.036608863198458574
+        },
+        "mt-to-en": {
+            "chrf": 6.39,
+            "bleu": 0.01,
+            "nan_ratio": 0.025341130604288498
+        },
+        "ner": {
+            "f1": 0.0,
+            "nan_ratio": 0.0
+        },
+        "news_topic": {
+            "f1": 0.0,
+            "nan_ratio": 0.0
+        },
+        "sentiment": {
+            "f1": 26.91,
+            "nan_ratio": 0.0
+        }
+    },
+    "yor": {
+        "qa": {
+            "f1_squad": 16.1,
+            "em": 0.2,
+            "nan_ratio": 0.0
+        },
+        "qah": {
+            "f1_squad": 3.6,
+            "em": 0.0,
+            "nan_ratio": 0.0
+        },
+        "mt-from-en": {
+            "chrf": 8.44,
+            "bleu": 0.01,
+            "nan_ratio": 0.0
+        },
+        "mt-to-en": {
+            "chrf": 3.99,
+            "bleu": 0.01,
+            "nan_ratio": 0.0
+        },
+        "ner": {
+            "f1": 0.0,
+            "nan_ratio": 0.0
+        },
+        "news_topic": {
+            "f1": 0.0,
+            "nan_ratio": 0.0
+        },
+        "sentiment": {
+            "f1": 20.11,
+            "nan_ratio": 0.0
+        }
+    }
+}

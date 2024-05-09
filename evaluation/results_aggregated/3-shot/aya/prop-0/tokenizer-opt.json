@@ -1,0 +1,114 @@
+{
+    "amh": {
+        "qa": {},
+        "qah": {},
+        "mt-from-en": {
+            "chrf": 11.07,
+            "bleu": 0.02,
+            "nan_ratio": 0.04263565891472868
+        },
+        "mt-to-en": {
+            "chrf": 3.44,
+            "bleu": 0.02,
+            "nan_ratio": 0.027131782945736434
+        },
+        "news_topic": {
+            "f1": 0.0,
+            "nan_ratio": 1.0
+        },
+        "sentiment": {
+            "f1": 50.47,
+            "nan_ratio": 0.0
+        }
+    },
+    "ibo": {
+        "qa": {
+            "f1_squad": 3.1,
+            "em": 0.0,
+            "nan_ratio": 0.0
+        },
+        "qah": {
+            "f1_squad": 1.0,
+            "em": 0.0,
+            "nan_ratio": 0.0
+        },
+        "mt-from-en": {
+            "chrf": 13.51,
+            "bleu": 0.04,
+            "nan_ratio": 0.0
+        },
+        "mt-to-en": {
+            "chrf": 12.78,
+            "bleu": 0.02,
+            "nan_ratio": 0.0
+        },
+        "news_topic": {
+            "f1": 14.41,
+            "nan_ratio": 0.0
+        },
+        "sentiment": {
+            "f1": 32.23,
+            "nan_ratio": 0.0
+        }
+    },
+    "yor": {
+        "qa": {
+            "f1_squad": 11.4,
+            "em": 0.1,
+            "nan_ratio": 0.0
+        },
+        "qah": {
+            "f1_squad": 4.8,
+            "em": 0.0,
+            "nan_ratio": 0.0
+        },
+        "mt-from-en": {
+            "chrf": 16.42,
+            "bleu": 0.03,
+            "nan_ratio": 0.007712082262210797
+        },
+        "mt-to-en": {
+            "chrf": 7.43,
+            "bleu": 0.03,
+            "nan_ratio": 0.002570694087403599
+        },
+        "news_topic": {
+            "f1": 29.59,
+            "nan_ratio": 0.0
+        },
+        "sentiment": {
+            "f1": 17.93,
+            "nan_ratio": 0.0
+        }
+    },
+    "hau": {
+        "qa": {
+            "f1_squad": 4.7,
+            "em": 0.0,
+            "nan_ratio": 0.0
+        },
+        "qah": {
+            "f1_squad": 1.4,
+            "em": 0.0,
+            "nan_ratio": 0.0
+        },
+        "mt-from-en": {
+            "chrf": 16.35,
+            "bleu": 0.06,
+            "nan_ratio": 0.0
+        },
+        "mt-to-en": {
+            "chrf": 22.7,
+            "bleu": 0.08,
+            "nan_ratio": 0.0
+        },
+        "news_topic": {
+            "f1": 6.82,
+            "nan_ratio": 0.0
+        },
+        "sentiment": {
+            "f1": 29.06,
+            "nan_ratio": 0.0
+        }
+    }
+}

@@ -1,0 +1,16 @@
+venv/
+.DS_Store
+__pycache__
+
+wandb/
+.cache/
+
+model_weights/
+
+evaluation/data_repos
+evaluation/generations
+
+data/
+models_with_edited_embeddings/
+final_cpt_models/
+processed_dataset-opt-final/

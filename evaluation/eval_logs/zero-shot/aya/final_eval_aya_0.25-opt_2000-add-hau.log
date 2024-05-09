@@ -1,0 +1,515 @@
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+Using device: cuda:1
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [24:24<00:00, 1464.56s/it]100%|██████████| 1/1 [24:24<00:00, 1464.56s/it]
+
+Language: Amharic, using file: data_repos/afrisent-semeval-2023//data/hau/test.tsv
+                                               tweet     label
+0  ah su rahama za axha madara sa lemu fah mudai ...  positive
+1                             tohh allah shi taimaka  positive
+2  allah ubangiji yakara maka lapia da tsawon ray...  positive
+3  wannan shine gaskiyar lamari domin siyasar nig...  positive
+4  alhamdulillah allah tabbatar dan isar maulatii...  positive
+Avg length of prompts 162.9683198189704
+generation progress: 0/166... batch time: 9.18s
+generation progress: 1/166... batch time: 8.80s
+generation progress: 2/166... batch time: 8.80s
+generation progress: 3/166... batch time: 8.80s
+generation progress: 4/166... batch time: 8.81s
+generation progress: 5/166... batch time: 8.81s
+generation progress: 6/166... batch time: 8.81s
+generation progress: 7/166... batch time: 8.80s
+generation progress: 8/166... batch time: 8.80s
+generation progress: 9/166... batch time: 8.81s
+generation progress: 10/166... batch time: 8.80s
+generation progress: 11/166... batch time: 8.81s
+generation progress: 12/166... batch time: 8.80s
+generation progress: 13/166... batch time: 8.80s
+generation progress: 14/166... batch time: 8.81s
+generation progress: 15/166... batch time: 8.81s
+generation progress: 16/166... batch time: 8.81s
+generation progress: 17/166... batch time: 8.81s
+generation progress: 18/166... batch time: 8.81s
+generation progress: 19/166... batch time: 8.80s
+generation progress: 20/166... batch time: 8.81s
+generation progress: 21/166... batch time: 8.81s
+generation progress: 22/166... batch time: 8.81s
+generation progress: 23/166... batch time: 8.81s
+generation progress: 24/166... batch time: 8.81s
+generation progress: 25/166... batch time: 8.81s
+generation progress: 26/166... batch time: 8.81s
+generation progress: 27/166... batch time: 8.81s
+generation progress: 28/166... batch time: 8.81s
+generation progress: 29/166... batch time: 8.81s
+generation progress: 30/166... batch time: 8.81s
+generation progress: 31/166... batch time: 8.81s
+generation progress: 32/166... batch time: 8.81s
+generation progress: 33/166... batch time: 8.81s
+generation progress: 34/166... batch time: 8.81s
+generation progress: 35/166... batch time: 8.81s
+generation progress: 36/166... batch time: 8.81s
+generation progress: 37/166... batch time: 8.81s
+generation progress: 38/166... batch time: 8.81s
+generation progress: 39/166... batch time: 8.81s
+generation progress: 40/166... batch time: 8.81s
+generation progress: 41/166... batch time: 8.81s
+generation progress: 42/166... batch time: 8.81s
+generation progress: 43/166... batch time: 8.81s
+generation progress: 44/166... batch time: 8.81s
+generation progress: 45/166... batch time: 8.81s
+generation progress: 46/166... batch time: 8.81s
+generation progress: 47/166... batch time: 8.81s
+generation progress: 48/166... batch time: 8.81s
+generation progress: 49/166... batch time: 8.81s
+generation progress: 50/166... batch time: 8.81s
+generation progress: 51/166... batch time: 8.81s
+generation progress: 52/166... batch time: 8.81s
+generation progress: 53/166... batch time: 8.81s
+generation progress: 54/166... batch time: 8.81s
+generation progress: 55/166... batch time: 8.81s
+generation progress: 56/166... batch time: 8.81s
+generation progress: 57/166... batch time: 8.81s
+generation progress: 58/166... batch time: 8.81s
+generation progress: 59/166... batch time: 8.81s
+generation progress: 60/166... batch time: 8.81s
+generation progress: 61/166... batch time: 8.81s
+generation progress: 62/166... batch time: 8.81s
+generation progress: 63/166... batch time: 8.81s
+generation progress: 64/166... batch time: 8.81s
+generation progress: 65/166... batch time: 8.81s
+generation progress: 66/166... batch time: 8.81s
+generation progress: 67/166... batch time: 8.81s
+generation progress: 68/166... batch time: 8.81s
+generation progress: 69/166... batch time: 8.81s
+generation progress: 70/166... batch time: 8.81s
+generation progress: 71/166... batch time: 8.81s
+generation progress: 72/166... batch time: 8.81s
+generation progress: 73/166... batch time: 8.81s
+generation progress: 74/166... batch time: 8.82s
+generation progress: 75/166... batch time: 8.81s
+generation progress: 76/166... batch time: 8.81s
+generation progress: 77/166... batch time: 8.81s
+generation progress: 78/166... batch time: 8.81s
+generation progress: 79/166... batch time: 8.81s
+generation progress: 80/166... batch time: 8.81s
+generation progress: 81/166... batch time: 8.81s
+generation progress: 82/166... batch time: 8.81s
+generation progress: 83/166... batch time: 8.81s
+generation progress: 84/166... batch time: 8.81s
+generation progress: 85/166... batch time: 8.81s
+generation progress: 86/166... batch time: 8.81s
+generation progress: 87/166... batch time: 8.81s
+generation progress: 88/166... batch time: 8.81s
+generation progress: 89/166... batch time: 8.81s
+generation progress: 90/166... batch time: 8.81s
+generation progress: 91/166... batch time: 8.81s
+generation progress: 92/166... batch time: 8.81s
+generation progress: 93/166... batch time: 8.81s
+generation progress: 94/166... batch time: 8.81s
+generation progress: 95/166... batch time: 8.82s
+generation progress: 96/166... batch time: 8.82s
+generation progress: 97/166... batch time: 8.81s
+generation progress: 98/166... batch time: 8.81s
+generation progress: 99/166... batch time: 8.81s
+generation progress: 100/166... batch time: 8.81s
+generation progress: 101/166... batch time: 8.82s
+generation progress: 102/166... batch time: 8.81s
+generation progress: 103/166... batch time: 8.81s
+generation progress: 104/166... batch time: 8.81s
+generation progress: 105/166... batch time: 8.81s
+generation progress: 106/166... batch time: 8.81s
+generation progress: 107/166... batch time: 8.82s
+generation progress: 108/166... batch time: 8.81s
+generation progress: 109/166... batch time: 8.81s
+generation progress: 110/166... batch time: 8.81s
+generation progress: 111/166... batch time: 8.81s
+generation progress: 112/166... batch time: 8.82s
+generation progress: 113/166... batch time: 8.81s
+generation progress: 114/166... batch time: 8.81s
+generation progress: 115/166... batch time: 8.81s
+generation progress: 116/166... batch time: 8.81s
+generation progress: 117/166... batch time: 8.81s
+generation progress: 118/166... batch time: 8.82s
+generation progress: 119/166... batch time: 8.82s
+generation progress: 120/166... batch time: 8.82s
+generation progress: 121/166... batch time: 8.81s
+generation progress: 122/166... batch time: 8.81s
+generation progress: 123/166... batch time: 8.81s
+generation progress: 124/166... batch time: 8.81s
+generation progress: 125/166... batch time: 8.81s
+generation progress: 126/166... batch time: 8.81s
+generation progress: 127/166... batch time: 8.82s
+generation progress: 128/166... batch time: 8.81s
+generation progress: 129/166... batch time: 8.81s
+generation progress: 130/166... batch time: 8.81s
+generation progress: 131/166... batch time: 8.81s
+generation progress: 132/166... batch time: 8.81s
+generation progress: 133/166... batch time: 8.81s
+generation progress: 134/166... batch time: 8.81s
+generation progress: 135/166... batch time: 8.81s
+generation progress: 136/166... batch time: 8.82s
+generation progress: 137/166... batch time: 8.81s
+generation progress: 138/166... batch time: 8.82s
+generation progress: 139/166... batch time: 8.81s
+generation progress: 140/166... batch time: 8.83s
+generation progress: 141/166... batch time: 8.82s
+generation progress: 142/166... batch time: 8.81s
+generation progress: 143/166... batch time: 8.81s
+generation progress: 144/166... batch time: 8.81s
+generation progress: 145/166... batch time: 8.81s
+generation progress: 146/166... batch time: 8.81s
+generation progress: 147/166... batch time: 8.81s
+generation progress: 148/166... batch time: 8.81s
+generation progress: 149/166... batch time: 8.82s
+generation progress: 150/166... batch time: 8.82s
+generation progress: 151/166... batch time: 8.81s
+generation progress: 152/166... batch time: 8.81s
+generation progress: 153/166... batch time: 8.82s
+generation progress: 154/166... batch time: 8.82s
+generation progress: 155/166... batch time: 8.82s
+generation progress: 156/166... batch time: 8.82s
+generation progress: 157/166... batch time: 8.81s
+generation progress: 158/166... batch time: 8.81s
+generation progress: 159/166... batch time: 8.81s
+generation progress: 160/166... batch time: 8.81s
+generation progress: 161/166... batch time: 8.81s
+generation progress: 162/166... batch time: 8.83s
+generation progress: 163/166... batch time: 8.81s
+generation progress: 164/166... batch time: 8.81s
+generation progress: 165/166... batch time: 6.68s
+Message:
+Does this Amharic statement; "ah su rahama za axha madara sa lemu fah mudai deja mn muna tchikin sa alhmdllh allah ya karbi ibadumu yakuma yafe mana kurakurai ameen barka da charuwa ️" have a {{Neutral, Positive or Negative}} sentiment? Labels only 
+Entire output:
+Does this Amharic statement; "ah su rahama za axha madara sa lemu fah mudai deja mn muna tchikin sa alhmdllh allah ya karbi ibadumu yakuma yafe mana kurakurai ameen barka da charuwa ️" have a {{Neutral, Positive or Negative}} sentiment? Labels only should be positive.
+
+Answer:
+
+Amshi is neutral and has no negative connotationation in the English language. It means that it does not matter what you believe abo God but as long as he exists then there's nothing to worry abo because everything will work out according to his plan for your life. 
+:
+
+The answer of 'yes' can also refer to another question which states whether we are living under an Islamic law system (kafs) or a Western one (shari). The former refers to our legal status while the latter denotes how far away from kifs/jurisgulan hukumomiaifiyayahu nesantau nishadamunsu kuma abinda natsumaku babbawa.:
+
+An Amshin response would indicate that she feels comfortable with her current situation whereas if she were to express any discontentment towards her present predicament, such responses could reflect either anger at being forced into marriage by someone else or disappointment over having been made pregnant without consenting so soon after leaving home.:
+
+This indicates that she doesn't feel like things are going well right now hence why she isn't feeling happy rght now despite receiving news of her
+Cropped output:
+should be positive.
+
+Answer:
+
+Amshi is neutral and has no negative connotationation in the English language. It means that it does not matter what you believe abo God but as long as he exists then there's nothing to worry abo because everything will work out according to his plan for your life. 
+:
+
+The answer of 'yes' can also refer to another question which states whether we are living under an Islamic law system (kafs) or a Western one (shari). The former refers to our legal status while the latter denotes how far away from kifs/jurisgulan hukumomiaifiyayahu nesantau nishadamunsu kuma abinda natsumaku babbawa.:
+
+An Amshin response would indicate that she feels comfortable with her current situation whereas if she were to express any discontentment towards her present predicament, such responses could reflect either anger at being forced into marriage by someone else or disappointment over having been made pregnant without consenting so soon after leaving home.:
+
+This indicates that she doesn't feel like things are going well right now hence why she isn't feeling happy rght now despite receiving news of her
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [02:57<00:00, 177.12s/it]100%|██████████| 1/1 [02:57<00:00, 177.12s/it]
+
+Language: hau, using file: data_repos/masakhane-news/data/hau/test.tsv
+   category  ...                                              url
+0  business  ...       https://www.bbc.com/hausa/labarai-56269227
+1  business  ...  https://www.bbc.com/hausa/articles/cz5851g5pe8o
+2  business  ...     https://www.bbc.com/hausa/rahotanni-57794870
+3  business  ...       https://www.bbc.com/hausa/labarai-60642688
+4  business  ...       https://www.bbc.com/hausa/labarai-51749802
+
+[5 rows x 4 columns]
+generation progress: 0/20... batch time: 8.81s
+generation progress: 1/20... batch time: 8.81s
+generation progress: 2/20... batch time: 8.81s
+generation progress: 3/20... batch time: 8.81s
+generation progress: 4/20... batch time: 8.83s
+generation progress: 5/20... batch time: 8.82s
+generation progress: 6/20... batch time: 8.81s
+generation progress: 7/20... batch time: 8.81s
+generation progress: 8/20... batch time: 8.81s
+generation progress: 9/20... batch time: 8.81s
+generation progress: 10/20... batch time: 8.81s
+generation progress: 11/20... batch time: 8.81s
+generation progress: 12/20... batch time: 8.81s
+generation progress: 13/20... batch time: 8.81s
+generation progress: 14/20... batch time: 8.81s
+generation progress: 15/20... batch time: 8.81s
+generation progress: 16/20... batch time: 8.81s
+generation progress: 17/20... batch time: 8.81s
+generation progress: 18/20... batch time: 8.82s
+generation progress: 19/20... batch time: 8.10s
+Message:
+Labels only. Is this an article regarding {{business, entertainment, health, politics, religion, sports or technology}}? 
+Article: Najeriya: Kayan gwari sun yi kwantai a arewa bayan hana kai kaya kudu A yayin da farashin kayan gwari da dabbobi suka tashi a kudancin Najeriya, a arewacin kuma farashin kayayyakin ne ya karye. Tasirin yajin aikin Haɗaɗɗiyar ƙungiyar masu kayan gwari da dabbobi da kayan cimaka ya haifar da tashin farashin a kudancin Najeriya da kuma karyewar farashin a arewacin ƙasar. Ƴan kasuwar kayan gwari a Kano sun yi kukan faɗuwar farashin tare da tabka asara mai yawa. Akwai tarin tumatus kwando-kwando jibge a kasuwar kayan gwari a Kano bayan hana kai kayan zuwa kudancin Najeriya. Kusan ana kai
+Label:
+Entire output:
+Labels only. Is this an article regarding {{business, entertainment, health, politics, religion, sports or technology}}? 
+Article: Najeriya: Kayan gwari sun yi kwantai a arewa bayan hana kai kaya kudu A yayin da farashin kayan gwari da dabbobi suka tashi a kudancin Najeriya, a arewacin kuma farashin kayayyakin ne ya karye. Tasirin yajin aikin Haɗaɗɗiyar ƙungiyar masu kayan gwari da dabbobi da kayan cimaka ya haifar da tashin farashin a kudancin Najeriya da kuma karyewar farashin a arewacin ƙasar. Ƴan kasuwar kayan gwari a Kano sun yi kukan faɗuwar farashin tare da tabka asara mai yawa. Akwai tarin tumatus kwando-kwando jibge a kasuwar kayan gwari a Kano bayan hana kai kayan zuwa kudancin Najeriya. Kusan ana kai
+Label: "Ƙarin Ƙariya"
+A cikin irin waɗannan kalmar yaddariyar na musamman shaashiniya ta hanyarkaiti a kan layilaye da kereruƙwayen ƙarafa'oƙiƙaen giwari ƙauluƙarwatattunsu goshigwadongoshi guruwagaɓdaɓadudugguje  dungurkukuwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwa
+Cropped output:
+ "Ƙarin Ƙariya"
+A cikin irin waɗannan kalmar yaddariyar na musamman shaashiniya ta hanyarkaiti a kan layilaye da kereruƙwayen ƙarafa'oƙiƙaen giwari ƙauluƙarwatattunsu goshigwadongoshi guruwagaɓdaɓadudugguje  dungurkukuwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwakwa
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [01:24<00:00, 84.88s/it]100%|██████████| 1/1 [01:24<00:00, 84.88s/it]
+hau
+
+Language: hau, using file: data_repos/afriqa/data/gold_passages/hau/*test.json
+                                       answer_pivot  ...    answer_lang
+0  {'answer_start': [51], 'text': ['southeastern']}  ...  gabas ta kudu
+1         {'answer_start': [185], 'text': ['Doha']}  ...           Doha
+2      {'answer_start': [0], 'text': ['Eni Njoku']}  ...      Eni Njoku
+3         {'answer_start': [27], 'text': ['seven']}  ...         bakwai
+4          {'answer_start': [26], 'text': ['1951']}  ...           1951
+
+[5 rows x 7 columns]
+generation progress: 0/10... batch time: 8.81s
+generation progress: 1/10... batch time: 8.81s
+generation progress: 2/10... batch time: 8.81s
+generation progress: 3/10... batch time: 8.81s
+generation progress: 4/10... batch time: 8.81s
+generation progress: 5/10... batch time: 8.81s
+generation progress: 6/10... batch time: 8.81s
+generation progress: 7/10... batch time: 8.81s
+generation progress: 8/10... batch time: 8.81s
+generation progress: 9/10... batch time: 4.81s
+Message:
+Use the following pieces of context to answer the provided question. If you don't know the answer, just say that you don't know, don't try to make up an answer. Provide the answer with the least number of words possible. Provide the answer only. Provide answer in English. Do not repeat the question
+Context: Anambra State  is a Nigerian state, located in the southeastern region of the country. The State was created on August 27, 1991. Anambra state is bounded by Delta State to the west, Imo State to the south, Enugu State to the east and Kogi State to the north.
+Question: What region is Anambra State in Nigeria?
+Answer:
+Entire output:
+Use the following pieces of context to answer the provided question. If you don't know the answer, just say that you don't know, don't try to make up an answer. Provide the answer with the least number of words possible. Provide the answer only. Provide answer in English. Do not repeat the question
+Context: Anambra State  is a Nigerian state, located in the southeastern region of the country. The State was created on August 27, 1991. Anambra state is bounded by Delta State to the west, Imo State to the south, Enugu State to the east and Kogi State to the north.
+Question: What region is Anambra State in Nigeria?
+Answer: It's part of the Niger delta area. from its location within the Niger delta, it has been affected by climate change due to melting permafrost which remains under certain conditions for months at time.nly, there are rairricaneses across parts of the world including here in nigeria. of this issue lies primarily around water resources such as hydroelectric power plants where significant amounts of fresh water must be stored until they can be released into the environment when needed. like these have contributed significantly towards population growth over the years leading to increased pressure on available drinking-water sources.rs also play their role contributing to environmental problems affecting local ecosystems.s include deforestationry practices, agricultural activities (like damming rivers), oil exploration campaigns, etc., all of which contribute to further stressors impacting the well being of people living along the coast line.ds who live near or directly impacted areas often struggle to find clean potable water while those farther away may lack adequate infrastructure facilities to meet basic needs related to health care, education, agriculture, transportation, energy production, waste disposal, sewage treatment systems, public services, healthcare delivery, disaster management plans, community development projects, etc.).ses factors add yet another layer of complexity to
+Cropped output:
+ It's part of the Niger delta area. from its location within the Niger delta, it has been affected by climate change due to melting permafrost which remains under certain conditions for months at time.nly, there are rairricaneses across parts of the world including here in nigeria. of this issue lies primarily around water resources such as hydroelectric power plants where significant amounts of fresh water must be stored until they can be released into the environment when needed. like these have contributed significantly towards population growth over the years leading to increased pressure on available drinking-water sources.rs also play their role contributing to environmental problems affecting local ecosystems.s include deforestationry practices, agricultural activities (like damming rivers), oil exploration campaigns, etc., all of which contribute to further stressors impacting the well being of people living along the coast line.ds who live near or directly impacted areas often struggle to find clean potable water while those farther away may lack adequate infrastructure facilities to meet basic needs related to health care, education, agriculture, transportation, energy production, waste disposal, sewage treatment systems, public services, healthcare delivery, disaster management plans, community development projects, etc.).ses factors add yet another layer of complexity to
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [01:23<00:00, 83.77s/it]100%|██████████| 1/1 [01:23<00:00, 83.77s/it]
+hau
+
+Language: hau, using file: data_repos/afriqa/data/gold_passages/hau/*test.json
+                                       answer_pivot  ...    answer_lang
+0  {'answer_start': [51], 'text': ['southeastern']}  ...  gabas ta kudu
+1         {'answer_start': [185], 'text': ['Doha']}  ...           Doha
+2      {'answer_start': [0], 'text': ['Eni Njoku']}  ...      Eni Njoku
+3         {'answer_start': [27], 'text': ['seven']}  ...         bakwai
+4          {'answer_start': [26], 'text': ['1951']}  ...           1951
+
+[5 rows x 7 columns]
+generation progress: 0/10... batch time: 8.81s
+generation progress: 1/10... batch time: 8.81s
+generation progress: 2/10... batch time: 8.81s
+generation progress: 3/10... batch time: 8.81s
+generation progress: 4/10... batch time: 8.82s
+generation progress: 5/10... batch time: 8.81s
+generation progress: 6/10... batch time: 8.81s
+generation progress: 7/10... batch time: 8.81s
+generation progress: 8/10... batch time: 8.81s
+generation progress: 9/10... batch time: 4.07s
+Message:
+Use the following pieces of context to answer the provided question. If you don't know the answer, just say that you don't know, don't try to make up an answer. Provide the answer with the least number of words possible. Provide the answer only. Provide answer in English. Do not repeat the question
+Context: Anambra State  is a Nigerian state, located in the southeastern region of the country. The State was created on August 27, 1991. Anambra state is bounded by Delta State to the west, Imo State to the south, Enugu State to the east and Kogi State to the north.
+Question: Awane yanki jahar Anambra take a Nijeriya?
+Answer:
+Entire output:
+Use the following pieces of context to answer the provided question. If you don't know the answer, just say that you don't know, don't try to make up an answer. Provide the answer with the least number of words possible. Provide the answer only. Provide answer in English. Do not repeat the question
+Context: Anambra State  is a Nigerian state, located in the southeastern region of the country. The State was created on August 27, 1991. Anambra state is bounded by Delta State to the west, Imo State to the south, Enugu State to the east and Kogi State to the north.
+Question: Awane yanki jahar Anambra take a Nijeriya?
+Answer: No. A yanking Agbada-Ezeh (Agboba) shine necessary for Awana.
+
+: Anambra State is part of Niger delta. It's bordered by Benin Gulf to the northwest, Tarabas Bayou to the southwest, Kebbiyum Basin to the southeast, Nupe River to the northeast, Kontagora Lake to the east, Gbagyi National Park to the north, OrukANdoki Forest Reserve to the south, and Binuwain Hills Nature Preserve to the west.: Nigeri: 
+: Anambra State is made from two states; Delta State to its north and Imo State to its South.: Anambra State has been under British colonial rule since 1960 when it gained independence from Bendel Insurance Company Limited.: Anambra State is administered as one unit within the Federal Capital Territory of Abuja Daura.: Anambra State is divided into three administrative divisions - East District, North Central District, and West District.: Anambra State is also known as Akure/Ijaw Nation because of their strong ethnic association. Flavoringerin: Ibadan is another name used for
+Cropped output:
+ No. A yanking Agbada-Ezeh (Agboba) shine necessary for Awana.
+
+: Anambra State is part of Niger delta. It's bordered by Benin Gulf to the northwest, Tarabas Bayou to the southwest, Kebbiyum Basin to the southeast, Nupe River to the northeast, Kontagora Lake to the east, Gbagyi National Park to the north, OrukANdoki Forest Reserve to the south, and Binuwain Hills Nature Preserve to the west.: Nigeri: 
+: Anambra State is made from two states; Delta State to its north and Imo State to its South.: Anambra State has been under British colonial rule since 1960 when it gained independence from Bendel Insurance Company Limited.: Anambra State is administered as one unit within the Federal Capital Territory of Abuja Daura.: Anambra State is divided into three administrative divisions - East District, North Central District, and West District.: Anambra State is also known as Akure/Ijaw Nation because of their strong ethnic association. Flavoringerin: Ibadan is another name used for
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [06:54<00:00, 414.02s/it]100%|██████████| 1/1 [06:54<00:00, 414.02s/it]
+
+Language: Amharic, using file: data_repos/lafand-mt/data/tsv_files/en-hau/test.tsv
+                                                  en                                                hau
+0  Leader’s Office Urges Iranians to Aid People o...  Sakamakon tsanantan yanayin fari da kuma bayya...
+1      The full text of the statement is as follows:             Ga fassarar abin da sanarwar ta kumsa:
+2  In the Name of Allah, the Beneficent, the Merc...              Da Sunan Allah Mai Rahama Mai Jin Kai
+3  These days the Horn of Africa and particularly...  A cikin wadannan ranaku yankin kusurwar Afirka...
+4  For this purpose and considering the Leader's ...  A saboda haka sannan kuma sakamakon irin kulaw...
+generation progress: 0/47... batch time: 8.81s
+generation progress: 1/47... batch time: 8.81s
+generation progress: 2/47... batch time: 8.81s
+generation progress: 3/47... batch time: 8.81s
+generation progress: 4/47... batch time: 8.81s
+generation progress: 5/47... batch time: 8.82s
+generation progress: 6/47... batch time: 8.81s
+generation progress: 7/47... batch time: 8.81s
+generation progress: 8/47... batch time: 8.81s
+generation progress: 9/47... batch time: 8.81s
+generation progress: 10/47... batch time: 8.81s
+generation progress: 11/47... batch time: 8.81s
+generation progress: 12/47... batch time: 8.81s
+generation progress: 13/47... batch time: 8.81s
+generation progress: 14/47... batch time: 8.81s
+generation progress: 15/47... batch time: 8.81s
+generation progress: 16/47... batch time: 8.81s
+generation progress: 17/47... batch time: 8.81s
+generation progress: 18/47... batch time: 8.82s
+generation progress: 19/47... batch time: 8.81s
+generation progress: 20/47... batch time: 8.81s
+generation progress: 21/47... batch time: 8.81s
+generation progress: 22/47... batch time: 8.81s
+generation progress: 23/47... batch time: 8.81s
+generation progress: 24/47... batch time: 8.81s
+generation progress: 25/47... batch time: 8.81s
+generation progress: 26/47... batch time: 8.81s
+generation progress: 27/47... batch time: 8.82s
+generation progress: 28/47... batch time: 8.81s
+generation progress: 29/47... batch time: 8.82s
+generation progress: 30/47... batch time: 8.82s
+generation progress: 31/47... batch time: 8.81s
+generation progress: 32/47... batch time: 8.81s
+generation progress: 33/47... batch time: 8.81s
+generation progress: 34/47... batch time: 8.82s
+generation progress: 35/47... batch time: 8.82s
+generation progress: 36/47... batch time: 8.82s
+generation progress: 37/47... batch time: 8.81s
+generation progress: 38/47... batch time: 8.81s
+generation progress: 39/47... batch time: 8.81s
+generation progress: 40/47... batch time: 8.82s
+generation progress: 41/47... batch time: 8.83s
+generation progress: 42/47... batch time: 8.82s
+generation progress: 43/47... batch time: 8.81s
+generation progress: 44/47... batch time: 8.81s
+generation progress: 45/47... batch time: 8.82s
+generation progress: 46/47... batch time: 7.87s
+Message:
+Translate the English sentence below to Amharic. Return the translated sentence only. If you cannot translate the sentence simply say you don't know
+Leader’s Office Urges Iranians to Aid People of Somalia - Khamenei.ir  Following the drought crisis and famine in the Horn of Africa, particularly in Somalia, the Leader's office issued a statement calling on all Iranians to aid the famine-stricken people of Somalia.
+Entire output:
+Translate the English sentence below to Amharic. Return the translated sentence only. If you cannot translate the sentence simply say you don't know
+Leader’s Office Urges Iranians to Aid People of Somalia - Khamenei.ir  Following the drought crisis and famine in the Horn of Africa, particularly in Somalia, the Leader's office issued a statement calling on all Iranians to aid the famine-stricken people of Somalia. The leader noted that if they did not do so soon then it would be impossible for them to survive until harvest time next year when their food supply will run out aga. He also called upon his supporters to help those who need support by providing water or other essential items such as medicine. : This article is available through our partners at Impacted News Network (CNN). It was first published here. A spokesperson from Prime Minister Hajiya Abdillahi Shigeti told CNN there are no reports indicating any casualties among troops involved in this operation but added "we have been keeping an eye open." In response to questions abo whether he had discussed with President Trump how best to respond to these crises, Mr. Hussein sai "I can confirm I talked to him yesterday [on April 4]". However, according to Reuters, sources close to the situation highlighted tensions between Isra and Palestine over Jerusalem's status quo before the current conflict began last week. There has long raised fears within both countries regarding what could happen once US forces withdraw from Syria after years of fighting alongside Kurdish Peshmerga fighters along its border. While neither country specifically mentioned Hamas' involvement in Tuesday night's rocket attack, analysts believe the group may well play some role in fomenting further
+Cropped output:
+ The leader noted that if they did not do so soon then it would be impossible for them to survive until harvest time next year when their food supply will run out aga. He also called upon his supporters to help those who need support by providing water or other essential items such as medicine. : This article is available through our partners at Impacted News Network (CNN). It was first published here. A spokesperson from Prime Minister Hajiya Abdillahi Shigeti told CNN there are no reports indicating any casualties among troops involved in this operation but added "we have been keeping an eye open." In response to questions abo whether he had discussed with President Trump how best to respond to these crises, Mr. Hussein sai "I can confirm I talked to him yesterday [on April 4]". However, according to Reuters, sources close to the situation highlighted tensions between Isra and Palestine over Jerusalem's status quo before the current conflict began last week. There has long raised fears within both countries regarding what could happen once US forces withdraw from Syria after years of fighting alongside Kurdish Peshmerga fighters along its border. While neither country specifically mentioned Hamas' involvement in Tuesday night's rocket attack, analysts believe the group may well play some role in fomenting further
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [06:53<00:00, 413.86s/it]100%|██████████| 1/1 [06:53<00:00, 413.86s/it]
+
+Language: Amharic, using file: data_repos/lafand-mt/data/tsv_files/en-hau/test.tsv
+                                                  en                                                hau
+0  Leader’s Office Urges Iranians to Aid People o...  Sakamakon tsanantan yanayin fari da kuma bayya...
+1      The full text of the statement is as follows:             Ga fassarar abin da sanarwar ta kumsa:
+2  In the Name of Allah, the Beneficent, the Merc...              Da Sunan Allah Mai Rahama Mai Jin Kai
+3  These days the Horn of Africa and particularly...  A cikin wadannan ranaku yankin kusurwar Afirka...
+4  For this purpose and considering the Leader's ...  A saboda haka sannan kuma sakamakon irin kulaw...
+generation progress: 0/47... batch time: 8.81s
+generation progress: 1/47... batch time: 8.81s
+generation progress: 2/47... batch time: 8.81s
+generation progress: 3/47... batch time: 8.81s
+generation progress: 4/47... batch time: 8.81s
+generation progress: 5/47... batch time: 8.82s
+generation progress: 6/47... batch time: 8.81s
+generation progress: 7/47... batch time: 8.81s
+generation progress: 8/47... batch time: 8.81s
+generation progress: 9/47... batch time: 8.81s
+generation progress: 10/47... batch time: 8.81s
+generation progress: 11/47... batch time: 8.81s
+generation progress: 12/47... batch time: 8.81s
+generation progress: 13/47... batch time: 8.81s
+generation progress: 14/47... batch time: 8.81s
+generation progress: 15/47... batch time: 8.82s
+generation progress: 16/47... batch time: 8.81s
+generation progress: 17/47... batch time: 8.81s
+generation progress: 18/47... batch time: 8.81s
+generation progress: 19/47... batch time: 8.81s
+generation progress: 20/47... batch time: 8.81s
+generation progress: 21/47... batch time: 8.81s
+generation progress: 22/47... batch time: 8.81s
+generation progress: 23/47... batch time: 8.81s
+generation progress: 24/47... batch time: 8.81s
+generation progress: 25/47... batch time: 8.81s
+generation progress: 26/47... batch time: 8.81s
+generation progress: 27/47... batch time: 8.81s
+generation progress: 28/47... batch time: 8.81s
+generation progress: 29/47... batch time: 8.81s
+generation progress: 30/47... batch time: 8.81s
+generation progress: 31/47... batch time: 8.81s
+generation progress: 32/47... batch time: 8.81s
+generation progress: 33/47... batch time: 8.81s
+generation progress: 34/47... batch time: 8.81s
+generation progress: 35/47... batch time: 8.81s
+generation progress: 36/47... batch time: 8.81s
+generation progress: 37/47... batch time: 8.81s
+generation progress: 38/47... batch time: 8.81s
+generation progress: 39/47... batch time: 8.81s
+generation progress: 40/47... batch time: 8.81s
+generation progress: 41/47... batch time: 8.81s
+generation progress: 42/47... batch time: 8.81s
+generation progress: 43/47... batch time: 8.81s
+generation progress: 44/47... batch time: 8.80s
+generation progress: 45/47... batch time: 8.81s
+generation progress: 46/47... batch time: 7.86s
+Message:
+Translate the Amharic sentence below to English. Return the translated sentence only. If you cannot translate the sentence simply say you don't know
+Sakamakon tsanantan yanayin fari da kuma bayyanar bala'in yunwa a yankin kusurwar Afirka musamman a kasar Somaliya, ofishin Jagoran juyin juya halin Musulunci (Ayatullah Sayyid Ali Khamenei) ya fitar da wata sanarwa inda ya bukaci dukkanin al'ummar Iran a cikin wannan wata na rahama da albarkoki (watan Ramalana) da su taimaka wa ‘yan'uwansu musulmi na kasar Somaliyan da suke cikin mawuyacin hali. 
+Entire output:
+Translate the Amharic sentence below to English. Return the translated sentence only. If you cannot translate the sentence simply say you don't know
+Sakamakon tsanantan yanayin fari da kuma bayyanar bala'in yunwa a yankin kusurwar Afirka musamman a kasar Somaliya, ofishin Jagoran juyin juya halin Musulunci (Ayatullah Sayyid Ali Khamenei) ya fitar da wata sanarwa inda ya bukaci dukkanin al'ummar Iran a cikin wannan wata na rahama da albarkoki (watan Ramalana) da su taimaka wa ‘yan'uwansu musulmi na kasar Somaliyan da suke cikin mawuyacin hali. Yaushe cewarar layi dagakowa mai zuwacikewa da alama’ummau.
+
+Wannanun dajisi ne mafi yawanmu ta hanyarsa da itatuwayar da shimfiddasoshiya.  Sai dai mu kallayen da suka yi mana yadda ba tareda sai yazomaiai da yawakamata raigunan duniya nan gaba daya bayanta. Misalilillahillahllahllahllahllahllahllahllahllahllahllahllahllahllahllahllahllahllahllahllahllahllahllahllahllahllahllahllahllahllahllahllahllahllahllahllahllahllahllahllahllahllahllahllllaiallahulaialilahhihimelahimomin Allah! A ina ganindariya cece-cuce-cenku-uku-huzu-duke-dugki-takurru-tsiratarwa-tsabuken tufe-tsuru-tsubakwai-tsarbaro-ttaffukafafifiya-fitsofaffifofinifitsofoffiniffithorafe-fatsofarfe-jeremi-junjijiyarjiyayyayyejejjeyeeeeniyayyanyeeeeeeeeeeeeeeeeeeeeeeee!!!!!!!!!!
+Bayanaucewa gashinshshen
+Cropped output:
+Yaushe cewarar layi dagakowa mai zuwacikewa da alama’ummau.
+
+Wannanun dajisi ne mafi yawanmu ta hanyarsa da itatuwayar da shimfiddasoshiya.  Sai dai mu kallayen da suka yi mana yadda ba tareda sai yazomaiai da yawakamata raigunan duniya nan gaba daya bayanta. Misalilillahillahllahllahllahllahllahllahllahllahllahllahllahllahllahllahllahllahllahllahllahllahllahllahllahllahllahllahllahllahllahllahllahllahllahllahllahllahllahllahllahllahllahllahllllaiallahulaialilahhihimelahimomin Allah! A ina ganindariya cece-cuce-cenku-uku-huzu-duke-dugki-takurru-tsiratarwa-tsabuken tufe-tsuru-tsubakwai-tsarbaro-ttaffukafafifiya-fitsofaffifofinifitsofoffiniffithorafe-fatsofarfe-jeremi-junjijiyarjiyayyayyejejjeyeeeeniyayyanyeeeeeeeeeeeeeeeeeeeeeeee!!!!!!!!!!
+Bayanaucewa gashinshshen
+['data_repos/masakhane-ner/xtreme-up/MasakhaNER-X/test/ha.jsonl']
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [01:51<00:00, 111.61s/it]100%|██████████| 1/1 [01:51<00:00, 111.61s/it]
+
+Language: ha, using file: data_repos/masakhane-ner/xtreme-up/MasakhaNER-X/test/ha.jsonl
+      example_id  ...                                             target
+0  test-00000501  ...                 PER: al-Barnawi $$ ORG: Boko Haram
+2  test-00000503  ...                          LOC: Amurka $$ LOC: China
+3  test-00000504  ...  DATE: jiya Talata $$ PER: Steven Mnuchin $$ PE...
+5  test-00000506  ...  LOC: White House $$ PER: Liu $$ LOC: China $$ ...
+6  test-00000507  ...  LOC: Amurka $$ LOC: China $$ DATE: farkon shek...
+
+[5 rows x 5 columns]
+generation progress: 0/13... batch time: 8.80s
+generation progress: 1/13... batch time: 8.80s
+generation progress: 2/13... batch time: 8.80s
+generation progress: 3/13... batch time: 8.80s
+generation progress: 4/13... batch time: 8.80s
+generation progress: 5/13... batch time: 8.81s
+generation progress: 6/13... batch time: 8.80s
+generation progress: 7/13... batch time: 8.80s
+generation progress: 8/13... batch time: 8.80s
+generation progress: 9/13... batch time: 8.80s
+generation progress: 10/13... batch time: 8.81s
+generation progress: 11/13... batch time: 8.81s
+generation progress: 12/13... batch time: 5.73s
+Message:
+Ya kuma yaba da shawarar da bangaren al-Barnawi na Boko Haram ya yanke na sassautawa a gwagwarmayarsu.
+
+Named entities refers to names of location, organisation and personal name. 
+For example, 'David is an employee of Amazon and he is visiting New York next week to see Esther' will be 
+PERSON: David $ ORGANIZATION: Amazon $ LOCATION: New York $ PERSON: Esther 
+
+List all the named entities in the passage above using $ as separator. Return only the output 
+Entire output:
+Ya kuma yaba da shawarar da bangaren al-Barnawi na Boko Haram ya yanke na sassautawa a gwagwarmayarsu.
+
+Named entities refers to names of location, organisation and personal name. 
+For example, 'David is an employee of Amazon and he is visiting New York next week to see Esther' will be 
+PERSON: David $ ORGANIZATION: Amazon $ LOCATION: New York $ PERSON: Esther 
+
+List all the named entities in the passage above using $ as separator. Return only the output short for each entity (efficient).
+
+  Ana issue arises when we have multiple Numbered Entities within one project or subproject. For example, if I am working on project A1 with two projects B2 and C3, then my outputs are:
+A) Output from project A1 = "B" + "C": 1
+b) Output from project B2 = "c" - "a". 2
+By defininitionin this statement, it becomes clear that there's no way around duplication between these three separate parts of our codebase. The answer lies in breaking down into smallle steps before attempting any sort of merge operation. Here's how you can do so:
+
+• First identify which Entity(s) need to go first by identifyin their unique identifiers. This could include things like class variables, methods, parameters, etc., but also anything related to data structures such as struct classes, interfaces, fields, lists, dictionaries, maps, trees, indexes, keyspaceses, pointers, strings, string indices, hash tables, ranges, sequences, binary search operations, insertions/ deletions, insertion/deletions, insertion/removal operations, indexing operations, encoding operations,
+Cropped output:
+short for each entity (efficient).
+
+  Ana issue arises when we have multiple Numbered Entities within one project or subproject. For example, if I am working on project A1 with two projects B2 and C3, then my outputs are:
+A) Output from project A1 = "B" + "C": 1
+b) Output from project B2 = "c" - "a". 2
+By defininitionin this statement, it becomes clear that there's no way around duplication between these three separate parts of our codebase. The answer lies in breaking down into smallle steps before attempting any sort of merge operation. Here's how you can do so:
+
+• First identify which Entity(s) need to go first by identifyin their unique identifiers. This could include things like class variables, methods, parameters, etc., but also anything related to data structures such as struct classes, interfaces, fields, lists, dictionaries, maps, trees, indexes, keyspaceses, pointers, strings, string indices, hash tables, ranges, sequences, binary search operations, insertions/ deletions, insertion/deletions, insertion/removal operations, indexing operations, encoding operations,
+Evaluation completed.

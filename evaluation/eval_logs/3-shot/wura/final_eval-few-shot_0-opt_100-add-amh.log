@@ -1,0 +1,205 @@
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+Using device: cuda:2
+
+Language: amh, using file: data_repos/afrisent-semeval-2023//data/amh/test.tsv
+                                                  tweet     label
+256                  '@user እግዚአብሄር ከኛ ጋር ነው ይረዳናል !!!'  positive
+352   'አትጨነቁ ምንም ክፍያ አያስፈልጓቸው ትፊበ ዎርወርወመከ ትፊበ ብከርመከ ...  positive
+298   'ጸረ አማራነት ተፈጥሮው የሆነው ብአዴን የሚባለው የባንዶች ማኅበር የሚወ...  negative
+581   'በኢሬቻ ሰላም ይሰበካል! ፍቅር፣ህብረት፣መተሳሰብ አንድነት ያብባሉ! ባህ...  positive
+1288  '@user ሱስ አይደለም ሆስፒታል ተገብቶ የሚለቅ፤ ለእንዳንዶቻችን ማንነ...  positive
+["Use only the following sentiment labels: positive, neutral, negative.\n\nText: '@user እግዚአብሄር ከኛ ጋር ነው ይረዳናል !!!'\nSentiment: positive\n\nText: 'አትጨነቁ ምንም ክፍያ አያስፈልጓቸው ትፊበ ዎርወርወመከ ትፊበ ብከርመከ ለመጥለቅ ያህል ወሳኝ ነገር ያስፈልጋል ምረበነልአ ምንማ ልሚየ ኩርበነ ንማ ኔእ'\nSentiment: positive\n\nText: 'ጸረ አማራነት ተፈጥሮው የሆነው ብአዴን የሚባለው የባንዶች ማኅበር የሚወገድበት ጊዜው አሁን ነው! via @user'\nSentiment: negative\n\nText: 'በኢሬቻ ሰላም ይሰበካል! ፍቅር፣ህብረት፣መተሳሰብ አንድነት ያብባሉ! ባህላዊ እሴቶቻችን ጎልተው ይወጣሉ።#Ethiopia #Irreechaa'\nSentiment:", "Use only the following sentiment labels: positive, neutral, negative.\n\nText: '@user ሱስ አይደለም ሆስፒታል ተገብቶ የሚለቅ፤ ለእንዳንዶቻችን ማንነት ነው። ነፃነት የመጣ ለት፣ እንመዘገባለን።'\nSentiment: positive\n\nText: 'የህወሃት እና ኦነግ ሸኔ አዲሳባ እንገባለን ቅዠት ምንጩ የፈረንጆች እቅድ ነው! በሱዳን መንገድ ቅደዱ አልዋቸው! አልሰራም።በጂቡቲ አልዋቸው! አልሰራም! ሁሉም ካልሰራ አዲስ አበባ'\nSentiment: negative\n\nText: '@user እሱን ጨርሳ ፥ - መቀነስን እያጠናች ያለችበት ሁኔታ ላይ ነች'\nSentiment: positive\n\nText: 'ነገር ግን ሃርቬይ ዴንትን አውቅ ነበር ፅምድ ሽሳፍየ ዶክተር ፓቭል የአንተን ስጦታ በመደገፍ ተቀባይነት አላገኙም ንልናረምጀ ንቱሳእ'\nSentiment:", "Use only the following sentiment labels: positive, neutral, negative.\n\nText: '@user ኢዜማ ከየትኛውም ተፎካካሪ ፓርቲ በላይ ሀገራችን የተደቀነበትን የመፍረስ አደጋ ለመከላከል በግንባር ቀደምትነት እየተንቀሳቀሰ ያለ ፓርቲ ነው ፡፡'\nSentiment: positive\n\nText: '@user የወሬ ቋት መንግስት ጥበቃ ማድረጉ ደስ የሚያሰኝ ነው በቃ የበታችነት ስሜትህ ታህታይ ምስቅልናህ አናትህ ላይ ስለወጣ እንጂ አሁን ጊዜው ከመቼው ጊዜ በላይ በዓላት በ'\nSentiment: negative\n\nText: '@user @user ንፅህናህን ብትጠብቅ እንዳይመጣብህ ልትከላከል ትችላለህ'\nSentiment: positive\n\nText: '@user የጎንይሽ መውጋት አይደለም ወንድሜ። መንግስት ህዝብን ባለመስማቱ አልፎም በመፍራቱ ብዙ ስህተት ሰርቷል። ያ እንዳይደገም መንግስትን ማሳወቅና ማስጠንቀቅ የኛ'\nSentiment:"]
+['positive', 'neutral', 'negative']
+Avg length of prompts 495.1943887775551
+generation progress: 0/16... batch time: 9.63s
+generation progress: 1/16... batch time: 8.84s
+generation progress: 2/16... batch time: 8.84s
+generation progress: 3/16... batch time: 8.84s
+generation progress: 4/16... batch time: 8.84s
+generation progress: 5/16... batch time: 8.85s
+generation progress: 6/16... batch time: 8.84s
+generation progress: 7/16... batch time: 8.84s
+generation progress: 8/16... batch time: 8.84s
+generation progress: 9/16... batch time: 8.86s
+generation progress: 10/16... batch time: 8.86s
+generation progress: 11/16... batch time: 8.84s
+generation progress: 12/16... batch time: 8.85s
+generation progress: 13/16... batch time: 8.85s
+generation progress: 14/16... batch time: 8.86s
+generation progress: 15/16... batch time: 5.76s
+Message:
+Use only the following sentiment labels: positive, neutral, negative.
+
+Text: '@user እግዚአብሄር ከኛ ጋር ነው ይረዳናል !!!'
+Sentiment: positive
+
+Text: 'አትጨነቁ ምንም ክፍያ አያስፈልጓቸው ትፊበ ዎርወርወመከ ትፊበ ብከርመከ ለመጥለቅ ያህል ወሳኝ ነገር ያስፈልጋል ምረበነልአ ምንማ ልሚየ ኩርበነ ንማ ኔእ'
+Sentiment: positive
+
+Text: 'ጸረ አማራነት ተፈጥሮው የሆነው ብአዴን የሚባለው የባንዶች ማኅበር የሚወገድበት ጊዜው አሁን ነው! via @user'
+Sentiment: negative
+
+Text: 'በኢሬቻ ሰላም ይሰበካል! ፍቅር፣ህብረት፣መተሳሰብ አንድነት ያብባሉ! ባህላዊ እሴቶቻችን ጎልተው ይወጣሉ።#Ethiopia #Irreechaa'
+Sentiment:
+Entire output:
+Use only the following sentiment labels: positive, neutral, negative.
+
+Text: '@user እግዚአብሄር ከኛ ጋር ነው ይረዳናል!!!'
+Sentiment: positive
+
+Text: 'አትጨነቁ ምንም ክፍያ አያስፈልጓቸው ትፊበ ዎርወርወመከ ትፊበ ብከርመከ ለመጥለቅ ያህል ወሳኝ ነገር ያስፈልጋል ምረበነልአ ምንማ ልሚየ ኩርበነ ንማ ኔእ'
+Sentiment: positive
+
+Text: 'ጸረ አማራነት ተፈጥሮው የሆነው ብአዴን የሚባለው የባንዶች ማኅበር የሚወገድበት ጊዜው አሁን ነው! via @user'
+Sentiment: negative
+
+Text: 'በኢሬቻ ሰላም ይሰበካል! ፍቅር፣ህብረት፣መተሳሰብ አንድነት ያብባሉ! ባህላዊ እሴቶቻችን ጎልተው ይወጣሉ።#Ethiopia #Irreechaa'
+Sentiment:negative
+Cropped output:
+:negative
+
+Language: amh, using file: data_repos/masakhane-news/data/amh/test.tsv
+     category  ...                                                url
+290    sports  ...  https://www.bbc.com/amharic/articles/cn039e35y9wo
+357    sports  ...          https://www.bbc.com/amharic/news-54486900
+261  politics  ...          https://www.bbc.com/amharic/news-56439789
+157    health  ...          https://www.bbc.com/amharic/news-58519813
+145    health  ...          https://www.bbc.com/amharic/news-61454622
+
+[5 rows x 4 columns]
+['Use only the following topic labels: business, health, politics or sports.\n\nText: የእንግሊዝ ፕሪሚየር ሊግ አራተኛ ሳምንት ጨዋታዎች ግምት የእንግሊዝ ፕሪሚየር ሊግ አራተኛ ሳምንት ጨዋታዎች ቅዳሜ ይካሄዳሉ። የቢቢሲው እግር ኳስ ተንታኝ ክሪስ ሱቶን ለዚህ ሳምንት ጨዋታዎች ግምቱን አካፍሏል። እንደ ሱቶን ከሆነ ባለፈው ሳምንት ማንቸስተር ዩናይትድ በሊቨርፑል እንደሚሸነፍ ገምቶ ነበር። ይህ የብዙዎች ግምት ቢሆንም ጨዋታውን ማንቸስተር አሸንፏል። “ቀለል አድርጌ ነበር ያሰብኳቸው። ዩናይትድ በጨዋታው ላይ ድንቅ ነበሩ። አሁን ዋናው ጥያቄ በዚሁ ይቀጥላሉ ወይ \nLabel: sports\n\nText: እግር ኳስ፡የቀድሞው የጋና እግር ኳስ ማኅበር ፕሬዚደንት የታጣለባቸው የሕይወት ዘመን እግድ ተቀነሰላቸው የቀድሞው የጋና እግር ኳስ ማኅበር ፕሬዚደንት ክዌሲ ንያንታኪ የተጣለባቸው የሕይወት ዘመን እገዳ ወደ 15 ዓመት ዝቅ እንደተደረገላቸው ተገለፀ። ይህ የሆነው በስፖርት የግልግል ዳኝነት ተቋም [ካስ] ይግባኝ ከጠየቁ በኋላ ነው። ይህንንም ተከትሎም " ክዌሴ ንያንታኪ በአገር አቀፍና በዓለም አቀፍም ደረጃ ከእግር ኳስ ጋር ከተገናኙ ማናቸውም እንቅስቃሴዎች ከጥቅምት 29/ 2\nLabel: sports\n\nText: ጆን ፖምቤ ማጉፉሊ፡ \'ቡልዶዘር\' የተባሉት የታንዛኒያ ፕሬዝዳንት ጆን ማጉፉሊ ማን ነበሩ? ጆን ፖምቤ ማጉፉሊ ነው ሙሉ ስማቸው። ቡልዶዘር ነው ቅጽል ስማቸው። ሲወለዱ የጭሰኛ ልጅ ነበሩ። ሲሞቱ ግን ፕሬዝዳንት ነበሩ። ቡልዶዘር የሚለው ቅጽል ስም ከየት መጣ? ቡልዶዘር (ሺዶማ) የተባሉት ያለምክንያት አይደለም። ፕሬዝዳንት ከመሆናቸው በፊት የሥራና ከተማ ሚኒስትር ነበሩ። መንገድ በስፋት ያሠሩ ነበር ያን ጊዜ። የመንገድ ሥራ ፕሮጀክት ነፍሳቸው ነበር ማጉፉሊ። ሕዝቡ ቡልዶዘር \nLabel: politics\n\nText: ጆን ፖምቤ ማጉፉሊ፡ \'ቡልዶዘር\' የተባሉት የታንዛኒያ ፕሬዝዳንት ጆን ማጉፉሊ ማን ነበሩ? ድንበር የለሽ የሐኪሞች ቡድን (ኤምኤስኤፍ) በተጣለበት ዕገዳ መሠረት በተለያዩ የኢትዮጵያ ክፍሎች ውስጥ የሚያከናውናቸውን ሥራዎቹን ማቋረጡን አስታወቀ። የበጎ አድራጎት ድርጅቱ ባወጣው መግለጫ እንዳለው ከኢትዮጵያ የሲቪል ማኅበረሰብ ድርጅቶች ኤጀንሲ የተጣለበትን የሦት ወራት ዕገዳን በማክበር በአማራ፣ በጋምቤላ፣ በሶማሌና በደቡብና ሰሜን ምዕራብ ትግራይ ክልል ውስጥ ያለውን ሥራውን አቁ\nLabel:', 'Use only the following topic labels: business, health, politics or sports.\n\nText: የኮቪድ ወረርሽኝ ትልቅ አደጋ ነው - ኪም ጆንግ ኡን በሰሜን ኮሪያ በፍጥነት እየተዛመተ ያለው የኮቪድ-19 ወረርሽኝ ለሀገሪቱ "ትልቅ አደጋ" ነው ሲሉ መሪዋ ኪም ጆንግ ኡን  መናገራቸውን የመንግሥት ሚዲያዎች ዘግበዋል። ለመጀመሪያ ጊዜ በኮሮናቫይረስ ሞት መመዝገቡን ያስታወቀችው ሰሜን ኮሪያ መሪ ኪም በያዝነው ሳምንት ቅዳሜ ዕለት ባደረጉት አስቸኳይ ስብሰባ የቫይረሱን ስርጭት ለመግታት ሁለንተናዊ ትግል እንዲደረግ ጠይቀዋል። ባለስልጣናቱ በያዝነው ሳምንት ሃሙስ ለመጀመሪያ ጊ\nLabel: health\n\nText: የዓለም ጤና ድርጅት ክትባቶች ኦሚክሮንን መቋቋም አለባቸው አሉ የኮሮናቫይረስን ለመከላከል በአሁን ላይ በጥቅም ላይ እየዋሉ የሚገኙት ክትባቶች በአዲሱ ኦሚክሮን የቫይረስ የሚያዙ ሰዎች ከባድ የጤና እክል እንዳይገጥማቸው መከላከል እንደሚችሉ የዓለም ጤና ድርጅት ከፍተኛ ኃላፊ ተናገሩ። ኃላፊው ይህን ያሉት በደቡብ አፍሪካ በተደረጉ ሙከራዎች ይህ ቫይረስ በተለይ የፋይዘር ክትባትን ማሸነፍ እንደሚችል ምልክቶች አሉ መባላቸውን ተከትሎ ነው። ተመራማሪዎች እንደሚሉት ሰዎች በአዲሱ \nLabel: health\n\nText: አንሶላችንን መቀየር ያለብን በምን ያህል ቀናት ልዩነት መሆን አለበት? ነገሩ በአደባባይ አይወራም የሚሉ ብዙ ናቸው። ግን የአንሶላ ቅያሪ ጉዳይ የሁላችንንም ደጅ ያንኳኳል። ብዙዎች በምን ያህል ቀናት አንሶላ ይቀየር? በሚለው ቁጥር ላይ አይስማሙም። እርስዎ ግን በምን ያክል ጊዜ አንሶላዎ ይቀይራሉ/ ያጥባሉ? አንሶላ በምን ያህል ቀናት ልዩነት መቀየር አለበት የሚለውን ከጤና ጋር የሚያስተሳስሩ አሉ። ስለጉዳዩ ጥናት የሠራችው ዩናይትድ ኪንግደምን እንደ ማሳያ እንውሰድ። አንሶ\nLabel: health\n\nText: አንሶላችንን መቀየር ያለብን በምን ያህል ቀናት ልዩነት መሆን አለበት? ኑሮውን ሱዳን ካርቱም ያደረገው እና ስሙ እንዳይጠቀስ የጠየቀ ግለሰብ በቅርቡ መቀለ ለሚገኙ ቤተሰቦቹ የዕለታዊ ፍጆታ መግዣ ገንዘብ መላኩን ይናገራል። የባንክ አገልግሎት ከተቋረጠ ወራት ወደ ተቆጠረባት መቀለ 40 ሺህ ብር መላክ ማሰቡን ያወቁ እና ከክልሉ ውጪ የሚኖሩ ግለሰቦች፣ ገንዘቡን ለቤተሰቦቹ ለማድረስ 20 ሺህ 800 ብር እንዲከፍላቸው እንደጠየቁት ለቢቢሲ ገልጿል። ምንም እንኳ በአሁኑ ወቅት በት\nLabel:', 'Use only the following topic labels: business, health, politics or sports.\n\nText: የዋነኛው ክሪፕቶከረንሲ ዋጋ እያሽቆለቆለ ያለው ለምንድን ነው? ያለፉት ጥቂት ቀናት ለቢትኮይንም ሆነ ለክሪፕቶከረንሲ አስከፊ ጊዜ ነው። አሁን ላይ የአንድ ቢትኮይን ዋጋ 21 ሺህ 974 ዶላር ነው። ቢትኮይን ቀድሞ ከነበረው ዋጋ ጋር ሲነጻጸር ባለፉት አምስት ቀናት ብቻ 25 በመቶ አሽቆልቁሏል። ይህም ባለፉት 18 ወራት የተመዘገበው ዝቅተኛው ዋጋው ነው። ቢትኮይን በዘመኑ ያወጣው ከፍተኛ ዋጋ ባለፈው ኅዳር ወር ላይ የተመዘገበ ሲሆን፣ ይህም ዋጋው 70 ሺህ ዶላር የሚጠጋ ነበ\nLabel: business\n\nText: ድሮግባ ለአይቮሪኮስት እግር ኳስ ፌዴሬሽን ፕሬዝዳንትነት ተወዳድሮ ሳይመረጥ ቀረ ዕውቁ የእግር ኳስ ተጫዋች ዲዲየር ድሮግባ ለአይቮሪኮስት እግር ኳስ ፌዴሬሽን ፕሬዝዳንትነት ቢወዳደርም አልተሳካለትም፡፡ ቅዳሜ ዕለት ከብዙ መዘግየት በኋላ በተደረገው ምርጫ ያሲን ኢድሪስ ዲያሎ አሸናፊ ሆኗል፡፡የቀድሞው የቸልሲ አጥቂ ድሮግባ በዚህ ውድድር ተሸናፊ የሆነው ገና በመጀመርያው የማጣሪያ ምርጫ ነው፡፡ የድምጽ ሰጪዎችን አንድ አምስተኛ እንኳ ድምጽ ማግኘት አለመቻሉ አነጋጋሪ ሆኗል፡፡ \nLabel: sports\n\nText: ቦሪስ ጆንሰን ከምርጫ ራሳቸውን በማግለላቸው በተፎካካሪያቸው ተሞገሱ ሪሺ ሱናክ\xa0የቀድሞውን ጠቅላይ ሚንስትር ቦሪስ ጆንሰንን በይፋ አሞገሱ። ሙገሳው የመጣው ጆንሰን ለጠቅላይ ሚንስትርነት በድጋሚ እንደማይወዳደሩ ካስታወቁ በኋላ ነው። “ቦሪስ ጆንሰን ብሬግዚት እና የክትባት ስርጭት ላይ ስኬታማ ነበሩ” ሲሉ ሪሺ ሱናክ በትዊተር ገጻቸው ላይ አስፍረዋል። “ፈታኝ ከሆኑ ጊዜያቶች በአንዱ አገራችንን መርተዋል። ፑቲን በዩክሬን የጀመሩት አረመኔያዊ\xa0 ጦርነት ወቅትም ነበሩ።\xa0ለዚህም ሁ\nLabel: politics\n\nText: ቦሪስ ጆንሰን ከምርጫ ራሳቸውን በማግለላቸው በተፎካካሪያቸው ተሞገሱ ትናንት እሑድ ዕለት የሊቨርፑሉ የፊት መስመር ተጫዋች ሞሐመድ ሳላህ ሦስት ግቦችን በማስቆጠር ሃትሪክ መሥራቱን ተከትሎ፤ በእንግሊዝ ፕሪምየር ሊግ ታሪክ በርካታ ግቦችን ያስቆጠረ አፍሪካዊ ተጫዋች ሆኗል። ግብፃዊው ሳላህ ትናንት ጨዋታውን ሲጀምር ከአይቮሪ ኮስታዊው የቼልሲ አጥቂ ዲዲየር ድሮግባ ጋር በ104 ግቦች እኩል ሆኖ ነው። ነገር ግን ሞሐመድ ሳላህ ቡድኑ ሊቨርፑል በኦሌ ጎነር ሶልሻየር የሚመራው ማንቸ\nLabel:']
+['health', 'business', 'sports']
+Avg length of prompts 1353.0
+generation progress: 0/3... batch time: 8.85s
+generation progress: 1/3... batch time: 8.86s
+generation progress: 2/3... batch time: 8.14s
+Message:
+Use only the following topic labels: business, health, politics or sports.
+
+Text: የእንግሊዝ ፕሪሚየር ሊግ አራተኛ ሳምንት ጨዋታዎች ግምት የእንግሊዝ ፕሪሚየር ሊግ አራተኛ ሳምንት ጨዋታዎች ቅዳሜ ይካሄዳሉ። የቢቢሲው እግር ኳስ ተንታኝ ክሪስ ሱቶን ለዚህ ሳምንት ጨዋታዎች ግምቱን አካፍሏል። እንደ ሱቶን ከሆነ ባለፈው ሳምንት ማንቸስተር ዩናይትድ በሊቨርፑል እንደሚሸነፍ ገምቶ ነበር። ይህ የብዙዎች ግምት ቢሆንም ጨዋታውን ማንቸስተር አሸንፏል። “ቀለል አድርጌ ነበር ያሰብኳቸው። ዩናይትድ በጨዋታው ላይ ድንቅ ነበሩ። አሁን ዋናው ጥያቄ በዚሁ ይቀጥላሉ ወይ 
+Label: sports
+
+Text: እግር ኳስ፡የቀድሞው የጋና እግር ኳስ ማኅበር ፕሬዚደንት የታጣለባቸው የሕይወት ዘመን እግድ ተቀነሰላቸው የቀድሞው የጋና እግር ኳስ ማኅበር ፕሬዚደንት ክዌሲ ንያንታኪ የተጣለባቸው የሕይወት ዘመን እገዳ ወደ 15 ዓመት ዝቅ እንደተደረገላቸው ተገለፀ። ይህ የሆነው በስፖርት የግልግል ዳኝነት ተቋም [ካስ] ይግባኝ ከጠየቁ በኋላ ነው። ይህንንም ተከትሎም " ክዌሴ ንያንታኪ በአገር አቀፍና በዓለም አቀፍም ደረጃ ከእግር ኳስ ጋር ከተገናኙ ማናቸውም እንቅስቃሴዎች ከጥቅምት 29/ 2
+Label: sports
+
+Text: ጆን ፖምቤ ማጉፉሊ፡ 'ቡልዶዘር' የተባሉት የታንዛኒያ ፕሬዝዳንት ጆን ማጉፉሊ ማን ነበሩ? ጆን ፖምቤ ማጉፉሊ ነው ሙሉ ስማቸው። ቡልዶዘር ነው ቅጽል ስማቸው። ሲወለዱ የጭሰኛ ልጅ ነበሩ። ሲሞቱ ግን ፕሬዝዳንት ነበሩ። ቡልዶዘር የሚለው ቅጽል ስም ከየት መጣ? ቡልዶዘር (ሺዶማ) የተባሉት ያለምክንያት አይደለም። ፕሬዝዳንት ከመሆናቸው በፊት የሥራና ከተማ ሚኒስትር ነበሩ። መንገድ በስፋት ያሠሩ ነበር ያን ጊዜ። የመንገድ ሥራ ፕሮጀክት ነፍሳቸው ነበር ማጉፉሊ። ሕዝቡ ቡልዶዘር 
+Label: politics
+
+Text: ጆን ፖምቤ ማጉፉሊ፡ 'ቡልዶዘር' የተባሉት የታንዛኒያ ፕሬዝዳንት ጆን ማጉፉሊ ማን ነበሩ? ድንበር የለሽ የሐኪሞች ቡድን (ኤምኤስኤፍ) በተጣለበት ዕገዳ መሠረት በተለያዩ የኢትዮጵያ ክፍሎች ውስጥ የሚያከናውናቸውን ሥራዎቹን ማቋረጡን አስታወቀ። የበጎ አድራጎት ድርጅቱ ባወጣው መግለጫ እንዳለው ከኢትዮጵያ የሲቪል ማኅበረሰብ ድርጅቶች ኤጀንሲ የተጣለበትን የሦት ወራት ዕገዳን በማክበር በአማራ፣ በጋምቤላ፣ በሶማሌና በደቡብና ሰሜን ምዕራብ ትግራይ ክልል ውስጥ ያለውን ሥራውን አቁ
+Label:
+Entire output:
+Use only the following topic labels: business, health, politics or sports.
+
+Text: የእንግሊዝ ፕሪሚየር ሊግ አራተኛ ሳምንት ጨዋታዎች ግምት የእንግሊዝ ፕሪሚየር ሊግ አራተኛ ሳምንት ጨዋታዎች ቅዳሜ ይካሄዳሉ። የቢቢሲው እግር ኳስ ተንታኝ ክሪስ ሱቶን ለዚህ ሳምንት ጨዋታዎች ግምቱን አካፍሏል። እንደ ሱቶን ከሆነ ባለፈው ሳምንት ማንቸስተር ዩናይትድ በሊቨርፑል እንደሚሸነፍ ገምቶ ነበር። ይህ የብዙዎች ግምት ቢሆንም ጨዋታውን ማንቸስተር አሸንፏል። “ቀለል አድርጌ ነበር ያሰብኳቸው። ዩናይትድ በጨዋታው ላይ ድንቅ ነበሩ። አሁን ዋናው ጥያቄ በዚሁ ይቀጥላሉ ወይ 
+Label: sports
+
+Text: እግር ኳስ፡የቀድሞው የጋና እግር ኳስ ማኅበር ፕሬዚደንት የታጣለባቸው የሕይወት ዘመን እግድ ተቀነሰላቸው የቀድሞው የጋና እግር ኳስ ማኅበር ፕሬዚደንት ክዌሲ ንያንታኪ የተጣለባቸው የሕይወት ዘመን እገዳ ወደ 15 ዓመት ዝቅ እንደተደረገላቸው ተገለፀ። ይህ የሆነው በስፖርት የግልግል ዳኝነት ተቋም [ካስ] ይግባኝ ከጠየቁ በኋላ ነው። ይህንንም ተከትሎም " ክዌሴ ንያንታኪ በአገር አቀፍና በዓለም አቀፍም ደረጃ ከእግር ኳስ ጋር ከተገናኙ ማናቸውም እንቅስቃሴዎች ከጥቅምት 29/ 2
+Label: sports
+
+Text: ጆን ፖምቤ ማጉፉሊ፡ 'ቡልዶዘር' የተባሉት የታንዛኒያ ፕሬዝዳንት ጆን ማጉፉሊ ማን ነበሩ? ጆን ፖምቤ ማጉፉሊ ነው ሙሉ ስማቸው። ቡልዶዘር ነው ቅጽል ስማቸው። ሲወለዱ የጭሰኛ ልጅ ነበሩ። ሲሞቱ ግን ፕሬዝዳንት ነበሩ። ቡልዶዘር የሚለው ቅጽል ስም ከየት መጣ? ቡልዶዘር (ሺዶማ) የተባሉት ያለምክንያት አይደለም። ፕሬዝዳንት ከመሆናቸው በፊት የሥራና ከተማ ሚኒስትር ነበሩ። መንገድ በስፋት ያሠሩ ነበር ያን ጊዜ። የመንገድ ሥራ ፕሮጀክት ነፍሳቸው ነበር ማጉፉሊ። ሕዝቡ ቡልዶዘር 
+Label: politics
+
+Text: ጆን ፔዲዮ፣ ሒሂ ሰጻሐ ብኮኑ ምኞሣ ሦስዊ ሹሾ ሼሟ ሰሯ ራሷ ስሿ ሽሽሽ�ች ሽሽ�ዋል ሽሽ�ች ሽሽ�ች ሽሽ�ች ሽሽ�ች ሽሽ�ች ሽሽ�ች ሽሽ�ች ሽሽ�ች ሽሽ�ች ሽሽ�ች ሽሽ�ች ሽሽ�ች ሽሽ�ች ሽሽ�ች ሽሽ�ች ሽሽ�ች ሽሽ�ች ሽሽ�ች ሽሽ�
+Cropped output:
+
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [01:11<00:00, 71.66s/it]100%|██████████| 1/1 [01:11<00:00, 71.66s/it]
+
+Language: Amharic, using file: data_repos/lafand-mt/data/tsv_files/en-amh/test.tsv
+                                                  en                                                amh
+0  Amendments to the press and publications law r...  በዮርዳኖስ የፕሬስ እና ሕትመት ሕግ በበይነመረብ (Internet) ላይ ሐ...
+1  Simultaneously a demonstration was held by act...  በተመሳሳይ ሰዓት ሕጉን ከሚያፀድቁበት ፓርላማ ፊት ለፊት ጋዜጠኞች እና የ...
+2  An improvised coffin plastered with the words ...  እንደመሪ ቃል የበይነመረብ ነፃነት የሚል ባነር የያዙት በነፃ ሐሳብን የመ...
+3  Participants wore black to the funeral-themed ...  የበይነመረብ ቀብር ለተባለለት ለዚህ አዋጅ ሰልፈኞቹ ጥቁር ልብስ ለብሰው ...
+4  The approved law must still receive ratificati...  የፀደቀው ሕግ አሁንም በሥራ ላይ ለመዋል፣ የላዕላይ ፓርላማውን ፈቃድ እና...
+["Translate the English sentence below to Amharic.\n\nSentence: Amendments to the press and publications law restricting online expression in Jordan were passed by parliament today .\nTranslation: በዮርዳኖስ የፕሬስ እና ሕትመት ሕግ በበይነመረብ (Internet) ላይ ሐሳብን የመግለጽ መብትን እንዲያደግድ ተደርጎ ትላንት እንዲሻሻል ተደረገ፡፡\n\nSentence: Simultaneously a demonstration was held by activists and journalists in front of the parliament as a majority of MP's voted for the bill.\nTranslation: በተመሳሳይ ሰዓት ሕጉን ከሚያፀድቁበት ፓርላማ ፊት ለፊት ጋዜጠኞች እና የነፃ ሐሳብ አራማጆች ሰላማዊ ሰልፍ ወጥተዋል፡፡\n\nSentence: An improvised coffin plastered with the words Freedom of the Internet was carried by activists signalling the anticipated death of the Internet in Jordan.\nTranslation: እንደመሪ ቃል የበይነመረብ ነፃነት የሚል ባነር የያዙት በነፃ ሐሳብን የመግለጽ መብት አራማጆች በዮርዳኖስ የበይነመረብን ሞት አዝማሚያ ጠቁመዋል፡፡\n\nSentence: An improvised coffin plastered with the words Freedom of the Internet was carried by activists signalling the anticipated death of the Internet in Jordan.\nTranslation:", 'Translate the English sentence below to Amharic.\n\nSentence: The approved law must still receive ratification from the upper house of parliament as well as approval by King Abdullah II, who retains supreme authority and whose signature is the seal of approval to all legislative matters.\nTranslation: የፀደቀው ሕግ አሁንም በሥራ ላይ ለመዋል፣ የላዕላይ ፓርላማውን ፈቃድ እና ሕጎች ሁሉ በዮርዳኖስ በተግባር ላይ ከመዋላቸው በፊ የሚያስፈልጋቸው የዳግማዊ ንጉሥ አብዱላህን ፊርማን ይጠብቃል፡፡\n\nSentence: Member of Parliament, Jamil Nimri, who voted against the bill, in addition to the head of the journalists syndicate, attended the protest and claimed that such laws serve only to restrict freedoms and muffle the voices of the people.\nTranslation: ጀሚል ኒመሪ የተባሉ፣ አዋጁን የተቃወሙ የፓርላማ አባል፣ አዋጁን ከመቃወምም ባሻገር ሰልፉ ላይም ተሳትፈዋል፡፡\n\nSentence: It requires the owners of websites to register with the government and obtain a license, just like any other publication.”\nTranslation: እንደርሳቸው አባባል እንዲህ ዓይነት አዋጆች ነፃነትን በመገደብ የሕዝቦችን ድምጽ ብቻ ለማፈን ይጠቅማሉ፡፡\n\nSentence: It requires the owners of websites to register with the government and obtain a license, just like any other publication.”\nTranslation:', 'Translate the English sentence below to Amharic.\n\nSentence: Outrage over the proposed law has been simmering for a while and netizens had already staged an online campaign to draw attention to the new law and its repercussions.\nTranslation: በረቂቅ አዋጁ ላይ ከፍተኛ ተቃውሞ የተነሳበት ሲሆን፣ ወዲያውም በመረብዜጎች (netizens) ሚያስከትለው ጦስ ዙሪያ ትኩረትን ለመሳብ በሚል የመስመር ላይ እንቅስቃሴን አስጀምሯል፡፡\n\nSentence: On Twitter, netizens expressed their dismay at such a bill.\nTranslation: በትዊተር ላይ፣ የመረብ ዜጎች ብስጭታቸውን በጽሑፍ ገልጸዋል፡፡\n\nSentence: The beginning of the Internet freedom funeral in front of the Jordanian Parliament.\nTranslation: የበይነመረብ ነፃነት ቀብር አጀማመር በዮርዳኖስ ፓርላማ ፊት ለፊት፡፡\n\nSentence: The beginning of the Internet freedom funeral in front of the Jordanian Parliament.\nTranslation:']
+Avg length of prompts 761.6744186046511
+generation progress: 0/9... batch time: 8.84s
+generation progress: 1/9... batch time: 8.85s
+generation progress: 2/9... batch time: 8.86s
+generation progress: 3/9... batch time: 8.85s
+generation progress: 4/9... batch time: 8.85s
+generation progress: 5/9... batch time: 8.86s
+generation progress: 6/9... batch time: 8.85s
+generation progress: 7/9... batch time: 8.85s
+generation progress: 8/9... batch time: 0.61s
+Message:
+Translate the English sentence below to Amharic.
+
+Sentence: Amendments to the press and publications law restricting online expression in Jordan were passed by parliament today .
+Translation: በዮርዳኖስ የፕሬስ እና ሕትመት ሕግ በበይነመረብ (Internet) ላይ ሐሳብን የመግለጽ መብትን እንዲያደግድ ተደርጎ ትላንት እንዲሻሻል ተደረገ፡፡
+
+Sentence: Simultaneously a demonstration was held by activists and journalists in front of the parliament as a majority of MP's voted for the bill.
+Translation: በተመሳሳይ ሰዓት ሕጉን ከሚያፀድቁበት ፓርላማ ፊት ለፊት ጋዜጠኞች እና የነፃ ሐሳብ አራማጆች ሰላማዊ ሰልፍ ወጥተዋል፡፡
+
+Sentence: An improvised coffin plastered with the words Freedom of the Internet was carried by activists signalling the anticipated death of the Internet in Jordan.
+Translation: እንደመሪ ቃል የበይነመረብ ነፃነት የሚል ባነር የያዙት በነፃ ሐሳብን የመግለጽ መብት አራማጆች በዮርዳኖስ የበይነመረብን ሞት አዝማሚያ ጠቁመዋል፡፡
+
+Sentence: An improvised coffin plastered with the words Freedom of the Internet was carried by activists signalling the anticipated death of the Internet in Jordan.
+Translation:
+Entire output:
+Translate the English sentence below to Amharic.
+
+Sentence: Amendments to the press and publications law restricting online expression in Jordan were passed by parliament today.
+Translation: በዮርዳኖስ የፕሬስ እና ሕትመት ሕግ በበይነመረብ (Internet) ላይ ሐሳብን የመግለጽ መብትን እንዲያደግድ ተደርጎ ትላንት እንዲሻሻል ተደረገ፡፡
+
+Sentence: Simultaneously a demonstration was held by activists and journalists in front of the parliament as a majority of MP's voted for the bill.
+Translation: በተመሳሳይ ሰዓት ሕጉን ከሚያፀድቁበት ፓርላማ ፊት ለፊት ጋዜጠኞች እና የነፃ ሐሳብ አራማጆች ሰላማዊ ሰልፍ ወጥተዋል፡፡
+
+Sentence: An improvised coffin plastered with the words Freedom of the Internet was carried by activists signalling the anticipated death of the Internet in Jordan.
+Translation: እንደመሪ ቃል የበይነመረብ ነፃነት የሚል ባነር የያዙት በነፃ ሐሳብን የመግለጽ መብት አራማጆች በዮርዳኖስ የበይነመረብን ሞት አዝማሚያ ጠቁመዋል፡፡
+
+Sentence: An improvised coffin plastered with the words Freedom of the Internet was carried by activists signalling the anticipated death of the Internet in Jordan.
+Translation: እቀቅሮ ይህወከውናም ብሰባሉሩካቸው ስፈ�ታየዚኑ፣ ማክሆጣዋን። ምሁሒቶቱ ያአለዘዛዩ ሲሥራ-ሦስሲዎች ል�ደል ልዑም ነውዱ!
+Cropped output:
+: እቀቅሮ ይህወከውናም ብሰባሉሩካቸው ስፈ�ታየዚኑ፣ ማክሆጣዋን። ምሁሒቶቱ ያአለዘዛዩ ሲሥራ-ሦስሲዎች ል�ደል ልዑም ነውዱ!
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:59<00:00, 59.06s/it]100%|██████████| 1/1 [00:59<00:00, 59.06s/it]
+
+Language: Amharic, using file: data_repos/lafand-mt/data/tsv_files/en-amh/test.tsv
+                                                  en                                                amh
+0  Amendments to the press and publications law r...  በዮርዳኖስ የፕሬስ እና ሕትመት ሕግ በበይነመረብ (Internet) ላይ ሐ...
+1  Simultaneously a demonstration was held by act...  በተመሳሳይ ሰዓት ሕጉን ከሚያፀድቁበት ፓርላማ ፊት ለፊት ጋዜጠኞች እና የ...
+2  An improvised coffin plastered with the words ...  እንደመሪ ቃል የበይነመረብ ነፃነት የሚል ባነር የያዙት በነፃ ሐሳብን የመ...
+3  Participants wore black to the funeral-themed ...  የበይነመረብ ቀብር ለተባለለት ለዚህ አዋጅ ሰልፈኞቹ ጥቁር ልብስ ለብሰው ...
+4  The approved law must still receive ratificati...  የፀደቀው ሕግ አሁንም በሥራ ላይ ለመዋል፣ የላዕላይ ፓርላማውን ፈቃድ እና...
+["Translate the Amharic sentence below to English.\n\nSentence: በዮርዳኖስ የፕሬስ እና ሕትመት ሕግ በበይነመረብ (Internet) ላይ ሐሳብን የመግለጽ መብትን እንዲያደግድ ተደርጎ ትላንት እንዲሻሻል ተደረገ፡፡\nTranslation: Amendments to the press and publications law restricting online expression in Jordan were passed by parliament today .\n\nSentence: በተመሳሳይ ሰዓት ሕጉን ከሚያፀድቁበት ፓርላማ ፊት ለፊት ጋዜጠኞች እና የነፃ ሐሳብ አራማጆች ሰላማዊ ሰልፍ ወጥተዋል፡፡\nTranslation: Simultaneously a demonstration was held by activists and journalists in front of the parliament as a majority of MP's voted for the bill.\n\nSentence: እንደመሪ ቃል የበይነመረብ ነፃነት የሚል ባነር የያዙት በነፃ ሐሳብን የመግለጽ መብት አራማጆች በዮርዳኖስ የበይነመረብን ሞት አዝማሚያ ጠቁመዋል፡፡\nTranslation: An improvised coffin plastered with the words Freedom of the Internet was carried by activists signalling the anticipated death of the Internet in Jordan.\n\nSentence: እንደመሪ ቃል የበይነመረብ ነፃነት የሚል ባነር የያዙት በነፃ ሐሳብን የመግለጽ መብት አራማጆች በዮርዳኖስ የበይነመረብን ሞት አዝማሚያ ጠቁመዋል፡፡\nTranslation:", 'Translate the Amharic sentence below to English.\n\nSentence: የፀደቀው ሕግ አሁንም በሥራ ላይ ለመዋል፣ የላዕላይ ፓርላማውን ፈቃድ እና ሕጎች ሁሉ በዮርዳኖስ በተግባር ላይ ከመዋላቸው በፊ የሚያስፈልጋቸው የዳግማዊ ንጉሥ አብዱላህን ፊርማን ይጠብቃል፡፡\nTranslation: The approved law must still receive ratification from the upper house of parliament as well as approval by King Abdullah II, who retains supreme authority and whose signature is the seal of approval to all legislative matters.\n\nSentence: ጀሚል ኒመሪ የተባሉ፣ አዋጁን የተቃወሙ የፓርላማ አባል፣ አዋጁን ከመቃወምም ባሻገር ሰልፉ ላይም ተሳትፈዋል፡፡\nTranslation: Member of Parliament, Jamil Nimri, who voted against the bill, in addition to the head of the journalists syndicate, attended the protest and claimed that such laws serve only to restrict freedoms and muffle the voices of the people.\n\nSentence: እንደርሳቸው አባባል እንዲህ ዓይነት አዋጆች ነፃነትን በመገደብ የሕዝቦችን ድምጽ ብቻ ለማፈን ይጠቅማሉ፡፡\nTranslation: It requires the owners of websites to register with the government and obtain a license, just like any other publication.”\n\nSentence: እንደርሳቸው አባባል እንዲህ ዓይነት አዋጆች ነፃነትን በመገደብ የሕዝቦችን ድምጽ ብቻ ለማፈን ይጠቅማሉ፡፡\nTranslation:', 'Translate the Amharic sentence below to English.\n\nSentence: በረቂቅ አዋጁ ላይ ከፍተኛ ተቃውሞ የተነሳበት ሲሆን፣ ወዲያውም በመረብዜጎች (netizens) ሚያስከትለው ጦስ ዙሪያ ትኩረትን ለመሳብ በሚል የመስመር ላይ እንቅስቃሴን አስጀምሯል፡፡\nTranslation: Outrage over the proposed law has been simmering for a while and netizens had already staged an online campaign to draw attention to the new law and its repercussions.\n\nSentence: በትዊተር ላይ፣ የመረብ ዜጎች ብስጭታቸውን በጽሑፍ ገልጸዋል፡፡\nTranslation: On Twitter, netizens expressed their dismay at such a bill.\n\nSentence: የበይነመረብ ነፃነት ቀብር አጀማመር በዮርዳኖስ ፓርላማ ፊት ለፊት፡፡\nTranslation: The beginning of the Internet freedom funeral in front of the Jordanian Parliament.\n\nSentence: የበይነመረብ ነፃነት ቀብር አጀማመር በዮርዳኖስ ፓርላማ ፊት ለፊት፡፡\nTranslation:']
+Avg length of prompts 721.2751937984497
+generation progress: 0/9... batch time: 4.52s
+generation progress: 1/9... batch time: 8.85s
+generation progress: 2/9... batch time: 8.85s
+generation progress: 3/9... batch time: 8.85s
+generation progress: 4/9... batch time: 8.85s
+generation progress: 5/9... batch time: 6.16s
+generation progress: 6/9... batch time: 8.09s
+generation progress: 7/9... batch time: 4.37s
+generation progress: 8/9... batch time: 0.26s
+Message:
+Translate the Amharic sentence below to English.
+
+Sentence: በዮርዳኖስ የፕሬስ እና ሕትመት ሕግ በበይነመረብ (Internet) ላይ ሐሳብን የመግለጽ መብትን እንዲያደግድ ተደርጎ ትላንት እንዲሻሻል ተደረገ፡፡
+Translation: Amendments to the press and publications law restricting online expression in Jordan were passed by parliament today .
+
+Sentence: በተመሳሳይ ሰዓት ሕጉን ከሚያፀድቁበት ፓርላማ ፊት ለፊት ጋዜጠኞች እና የነፃ ሐሳብ አራማጆች ሰላማዊ ሰልፍ ወጥተዋል፡፡
+Translation: Simultaneously a demonstration was held by activists and journalists in front of the parliament as a majority of MP's voted for the bill.
+
+Sentence: እንደመሪ ቃል የበይነመረብ ነፃነት የሚል ባነር የያዙት በነፃ ሐሳብን የመግለጽ መብት አራማጆች በዮርዳኖስ የበይነመረብን ሞት አዝማሚያ ጠቁመዋል፡፡
+Translation: An improvised coffin plastered with the words Freedom of the Internet was carried by activists signalling the anticipated death of the Internet in Jordan.
+
+Sentence: እንደመሪ ቃል የበይነመረብ ነፃነት የሚል ባነር የያዙት በነፃ ሐሳብን የመግለጽ መብት አራማጆች በዮርዳኖስ የበይነመረብን ሞት አዝማሚያ ጠቁመዋል፡፡
+Translation:
+Entire output:
+Translate the Amharic sentence below to English.
+
+Sentence: በዮርዳኖስ የፕሬስ እና ሕትመት ሕግ በበይነመረብ (Internet) ላይ ሐሳብን የመግለጽ መብትን እንዲያደግድ ተደርጎ ትላንት እንዲሻሻል ተደረገ፡፡
+Translation: Amendments to the press and publications law restricting online expression in Jordan were passed by parliament today.
+
+Sentence: በተመሳሳይ ሰዓት ሕጉን ከሚያፀድቁበት ፓርላማ ፊት ለፊት ጋዜጠኞች እና የነፃ ሐሳብ አራማጆች ሰላማዊ ሰልፍ ወጥተዋል፡፡
+Translation: Simultaneously a demonstration was held by activists and journalists in front of the parliament as a majority of MP's voted for the bill.
+
+Sentence: እንደመሪ ቃል የበይነመረብ ነፃነት የሚል ባነር የያዙት በነፃ ሐሳብን የመግለጽ መብት አራማጆች በዮርዳኖስ የበይነመረብን ሞት አዝማሚያ ጠቁመዋል፡፡
+Translation: An improvised coffin plastered with the words Freedom of the Internet was carried by activists signalling the anticipated death of the Internet in Jordan.
+
+Sentence: እንደመሪ ቃል የበይነመረብ ነፃነት የሚል ባነር የያዙት በነፃ ሐሳብን የመግለጽ መብት አራማጆች በዮርዳኖስ የበይነመረብን ሞት አዝማሚያ ጠቁመዋል፡፡
+Translation: The initiative is led by activist group, "የአው" ("Freedom") which holds that all forms of communication are under threat from government interference on cyberspace.
+Cropped output:
+: The initiative is led by activist group, "የአው" ("Freedom") which holds that all forms of communication are under threat from government interference on cyberspace.
+Evaluation completed.

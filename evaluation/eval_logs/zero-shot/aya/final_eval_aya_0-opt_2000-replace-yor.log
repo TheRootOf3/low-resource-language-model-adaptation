@@ -1,0 +1,492 @@
+Using device: cuda:0
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [20:49<00:00, 1249.31s/it]100%|██████████| 1/1 [20:49<00:00, 1249.31s/it]
+
+Language: Amharic, using file: data_repos/afrisent-semeval-2023//data/yor/test.tsv
+                                               tweet     label
+0          mo kí àrẹ wa alàgbà kú àbọ̀ o toò iṣẹ́ yá  positive
+1               tọ̀tún tòsì ni ẹyẹlé fi nkó ire wọlé  positive
+2  sá fún iṣẹ́ abẹ yẹra fún oògùn òyìnbó lo egbòg...  positive
+3  òwú kì í là kí inú ó bólóko ǹjẹ́ lónìí tí í ṣe...  positive
+4             beeni oo ko si iro mbe ọmọ ni afẹ́ ayé  positive
+Avg length of prompts 182.3483942414175
+generation progress: 0/142... batch time: 9.20s
+generation progress: 1/142... batch time: 8.81s
+generation progress: 2/142... batch time: 8.81s
+generation progress: 3/142... batch time: 8.81s
+generation progress: 4/142... batch time: 8.81s
+generation progress: 5/142... batch time: 8.81s
+generation progress: 6/142... batch time: 8.81s
+generation progress: 7/142... batch time: 8.81s
+generation progress: 8/142... batch time: 8.81s
+generation progress: 9/142... batch time: 8.81s
+generation progress: 10/142... batch time: 8.81s
+generation progress: 11/142... batch time: 8.82s
+generation progress: 12/142... batch time: 8.81s
+generation progress: 13/142... batch time: 8.81s
+generation progress: 14/142... batch time: 8.81s
+generation progress: 15/142... batch time: 8.81s
+generation progress: 16/142... batch time: 8.81s
+generation progress: 17/142... batch time: 8.81s
+generation progress: 18/142... batch time: 8.81s
+generation progress: 19/142... batch time: 8.81s
+generation progress: 20/142... batch time: 8.81s
+generation progress: 21/142... batch time: 8.82s
+generation progress: 22/142... batch time: 8.82s
+generation progress: 23/142... batch time: 8.82s
+generation progress: 24/142... batch time: 8.82s
+generation progress: 25/142... batch time: 8.81s
+generation progress: 26/142... batch time: 8.81s
+generation progress: 27/142... batch time: 8.82s
+generation progress: 28/142... batch time: 8.81s
+generation progress: 29/142... batch time: 8.82s
+generation progress: 30/142... batch time: 8.82s
+generation progress: 31/142... batch time: 8.82s
+generation progress: 32/142... batch time: 8.82s
+generation progress: 33/142... batch time: 8.82s
+generation progress: 34/142... batch time: 8.82s
+generation progress: 35/142... batch time: 8.82s
+generation progress: 36/142... batch time: 8.82s
+generation progress: 37/142... batch time: 8.82s
+generation progress: 38/142... batch time: 8.82s
+generation progress: 39/142... batch time: 8.82s
+generation progress: 40/142... batch time: 8.82s
+generation progress: 41/142... batch time: 8.82s
+generation progress: 42/142... batch time: 8.82s
+generation progress: 43/142... batch time: 8.82s
+generation progress: 44/142... batch time: 8.82s
+generation progress: 45/142... batch time: 8.82s
+generation progress: 46/142... batch time: 8.82s
+generation progress: 47/142... batch time: 8.82s
+generation progress: 48/142... batch time: 8.82s
+generation progress: 49/142... batch time: 8.82s
+generation progress: 50/142... batch time: 8.82s
+generation progress: 51/142... batch time: 8.82s
+generation progress: 52/142... batch time: 8.82s
+generation progress: 53/142... batch time: 8.82s
+generation progress: 54/142... batch time: 8.82s
+generation progress: 55/142... batch time: 8.82s
+generation progress: 56/142... batch time: 8.82s
+generation progress: 57/142... batch time: 8.82s
+generation progress: 58/142... batch time: 8.82s
+generation progress: 59/142... batch time: 8.82s
+generation progress: 60/142... batch time: 8.82s
+generation progress: 61/142... batch time: 8.82s
+generation progress: 62/142... batch time: 8.83s
+generation progress: 63/142... batch time: 8.82s
+generation progress: 64/142... batch time: 8.82s
+generation progress: 65/142... batch time: 8.82s
+generation progress: 66/142... batch time: 8.82s
+generation progress: 67/142... batch time: 8.82s
+generation progress: 68/142... batch time: 8.82s
+generation progress: 69/142... batch time: 8.82s
+generation progress: 70/142... batch time: 8.82s
+generation progress: 71/142... batch time: 8.82s
+generation progress: 72/142... batch time: 8.82s
+generation progress: 73/142... batch time: 8.82s
+generation progress: 74/142... batch time: 8.83s
+generation progress: 75/142... batch time: 8.82s
+generation progress: 76/142... batch time: 8.82s
+generation progress: 77/142... batch time: 8.82s
+generation progress: 78/142... batch time: 8.82s
+generation progress: 79/142... batch time: 8.82s
+generation progress: 80/142... batch time: 8.82s
+generation progress: 81/142... batch time: 8.82s
+generation progress: 82/142... batch time: 8.82s
+generation progress: 83/142... batch time: 8.82s
+generation progress: 84/142... batch time: 8.82s
+generation progress: 85/142... batch time: 8.82s
+generation progress: 86/142... batch time: 8.82s
+generation progress: 87/142... batch time: 8.82s
+generation progress: 88/142... batch time: 8.82s
+generation progress: 89/142... batch time: 8.82s
+generation progress: 90/142... batch time: 8.82s
+generation progress: 91/142... batch time: 8.82s
+generation progress: 92/142... batch time: 8.82s
+generation progress: 93/142... batch time: 8.82s
+generation progress: 94/142... batch time: 8.82s
+generation progress: 95/142... batch time: 8.82s
+generation progress: 96/142... batch time: 8.82s
+generation progress: 97/142... batch time: 8.82s
+generation progress: 98/142... batch time: 8.82s
+generation progress: 99/142... batch time: 8.82s
+generation progress: 100/142... batch time: 8.82s
+generation progress: 101/142... batch time: 8.82s
+generation progress: 102/142... batch time: 8.82s
+generation progress: 103/142... batch time: 8.82s
+generation progress: 104/142... batch time: 8.82s
+generation progress: 105/142... batch time: 8.82s
+generation progress: 106/142... batch time: 8.82s
+generation progress: 107/142... batch time: 8.83s
+generation progress: 108/142... batch time: 8.82s
+generation progress: 109/142... batch time: 8.82s
+generation progress: 110/142... batch time: 8.82s
+generation progress: 111/142... batch time: 8.82s
+generation progress: 112/142... batch time: 8.82s
+generation progress: 113/142... batch time: 8.82s
+generation progress: 114/142... batch time: 8.82s
+generation progress: 115/142... batch time: 8.82s
+generation progress: 116/142... batch time: 8.82s
+generation progress: 117/142... batch time: 8.82s
+generation progress: 118/142... batch time: 8.82s
+generation progress: 119/142... batch time: 8.82s
+generation progress: 120/142... batch time: 8.82s
+generation progress: 121/142... batch time: 8.82s
+generation progress: 122/142... batch time: 8.82s
+generation progress: 123/142... batch time: 8.82s
+generation progress: 124/142... batch time: 8.82s
+generation progress: 125/142... batch time: 8.82s
+generation progress: 126/142... batch time: 8.82s
+generation progress: 127/142... batch time: 8.83s
+generation progress: 128/142... batch time: 8.82s
+generation progress: 129/142... batch time: 8.82s
+generation progress: 130/142... batch time: 8.82s
+generation progress: 131/142... batch time: 8.82s
+generation progress: 132/142... batch time: 8.82s
+generation progress: 133/142... batch time: 8.82s
+generation progress: 134/142... batch time: 8.82s
+generation progress: 135/142... batch time: 8.82s
+generation progress: 136/142... batch time: 8.82s
+generation progress: 137/142... batch time: 8.82s
+generation progress: 138/142... batch time: 8.83s
+generation progress: 139/142... batch time: 8.83s
+generation progress: 140/142... batch time: 8.83s
+generation progress: 141/142... batch time: 2.01s
+Message:
+Does this Amharic statement; "mo kí àrẹ wa alàgbà kú àbọ̀ o toò iṣẹ́ yá" have a {{Neutral, Positive or Negative}} sentiment? Labels only 
+Entire output:
+Does this Amharic statement; "mo kí àrẹ wa alàgbà kú àbọ̀ o toò iṣẹ́ yá" have a {{Neutral, Positive or Negative}} sentiment? Labels only 
+are considered. The positive response is:
+I love you!
+The negative answer is:
+You're not my type of woman. 
+wadiiwadiiwadiwaddiwadoowoowaaláwọọọ�rọósàtọúnátíítàsía ńtánìtìlátińsìínlẹyìnrijùnnnranilélòórínláàdíjọ Ìgbóhun tí ó wà ní ìṣẹjútópóp kó àwọn�sẹ tó ò fi hàn wí péyegebínú ọmọ́pọlọ́�gbọ́, òunfúnnsìnrinrin-in-ni-níta-jíèjì-dín-lógún mílíógóba gbogbo ènìyànràn síbèèrè láti lè dáhùnko fúnra wọn kòkòròdìbò ni èkù náàwò yìí ṣe ohun jíjẹ àti àìsàn ibomujiyamùn ti ijórisisìíkìkan nǹkenrindandanígbon íkọlujádò lórípòsèlú Àkópa ńláyéwo ojúde òkun owurufanujubioje ò
+Cropped output:
+
+are considered. The positive response is:
+I love you!
+The negative answer is:
+You're not my type of woman. 
+wadiiwadiiwadiwaddiwadoowoowaaláwọọọ�rọósàtọúnátíítàsía ńtánìtìlátińsìínlẹyìnrijùnnnranilélòórínláàdíjọ Ìgbóhun tí ó wà ní ìṣẹjútópóp kó àwọn�sẹ tó ò fi hàn wí péyegebínú ọmọ́pọlọ́�gbọ́, òunfúnnsìnrinrin-in-ni-níta-jíèjì-dín-lógún mílíógóba gbogbo ènìyànràn síbèèrè láti lè dáhùnko fúnra wọn kòkòròdìbò ni èkù náàwò yìí ṣe ohun jíjẹ àti àìsàn ibomujiyamùn ti ijórisisìíkìkan nǹkenrindandanígbon íkọlujádò lórípòsèlú Àkópa ńláyéwo ojúde òkun owurufanujubioje ò
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [01:53<00:00, 113.91s/it]100%|██████████| 1/1 [01:53<00:00, 113.91s/it]
+
+Language: yor, using file: data_repos/masakhane-news/data/yor/test.tsv
+        category  ...                                                url
+0  entertainment  ...         https://www.bbc.com/yoruba/afrika-59708457
+1  entertainment  ...         https://www.bbc.com/yoruba/afrika-60750898
+2  entertainment  ...   https://www.bbc.com/yoruba/articles/cxx4krppw7no
+3  entertainment  ...  https://www.bbc.com/yoruba/awon-iroyin-miran-5...
+4  entertainment  ...         https://www.bbc.com/yoruba/afrika-60167974
+
+[5 rows x 4 columns]
+generation progress: 0/13... batch time: 8.81s
+generation progress: 1/13... batch time: 8.81s
+generation progress: 2/13... batch time: 8.82s
+generation progress: 3/13... batch time: 8.82s
+generation progress: 4/13... batch time: 8.82s
+generation progress: 5/13... batch time: 8.82s
+generation progress: 6/13... batch time: 8.81s
+generation progress: 7/13... batch time: 8.81s
+generation progress: 8/13... batch time: 8.82s
+generation progress: 9/13... batch time: 8.81s
+generation progress: 10/13... batch time: 8.81s
+generation progress: 11/13... batch time: 8.83s
+generation progress: 12/13... batch time: 7.65s
+Message:
+Labels only. Is this an article regarding {{entertainment, health, politics, religion or sports}}? 
+Article: Nkechi Blessing: Ta ló kán gbajúmọ̀ òṣèré, Nkechi Blessing Sunday lẹ́sẹ̀? Gbajumọ oṣere sinima ni, Nkechi Blessing ni oun ti kan lẹsẹ o. Nkechi ni lasiko ti oun lọ woran awodamiẹnu nibi ijo gbajumọ olorin agbaye, Wizkid ti wọn ṣe ni gbagede ileetura transcorp Hilton hotel nilu Abuja lẹsẹ oun fi kan o. Ilumọọka oṣere naa ṣalaye bi iṣẹlẹ naa ṣe waye loju opo Instagram rẹ pẹlu fido bo ṣe ṣẹlẹ gan. Gẹgẹbi alaye to ṣe, Nkechi ni ọkan lara awọn ololufẹ Wizkid to wa wo ere naa lo ṣa dede fo soke sori itage ti gbajumọ olorin naa ti
+Label:
+Entire output:
+Labels only. Is this an article regarding {{entertainment, health, politics, religion or sports}}? 
+Article: Nkechi Blessing: Ta ló kán gbajúmọ̀ òṣèré, Nkechi Blessing Sunday lẹ́sẹ̀? Gbajumọ oṣere sinima ni, Nkechi Blessing ni oun ti kan lẹsẹ o. Nkechi ni lasiko ti oun lọ woran awodamiẹnu nibi ijo gbajumọ olorin agbaye, Wizkid ti wọn ṣe ni gbagede ileetura transcorp Hilton hotel nilu Abuja lẹsẹ oun fi kan o. Ilumọọka oṣere naa ṣalaye bi iṣẹlẹ naa ṣe waye loju opo Instagram rẹ pẹlu fido bo ṣe ṣẹlẹ gan. Gẹgẹbi alaye to ṣe, Nkechi ni ọkan lara awọn ololufẹ Wizkid to wa wo ere naa lo ṣa dede fo soke sori itage ti gbajumọ olorin naa ti
+Label: Nkechi Blessing ti a mọ pe eleyi ninawati atunṣe si iyatọ igbeyewosowopamii jade laya nigba ayejiyan nla. O tun oju miiroro latigbọ ipari oṣu keeyebikan yii ki iriri isinkoto tuntutuu ba fun unrẹable. Ni akokoja rere, Nkechi ko le ranti ohunkohùnnike tabuku, bẹwọluwa laarinrin musulumi Naijagbara. Awon enia lo jẹ ifilọlẹ pataki, eywo ti yoo ju ibeji-aiye. Ohun eleri gigafihàn ni, ogboniṣe ni, imuduro ni, oniru ni, bata ni, afikúnra ni, adanu ni, idiwadabobo ni, ojde ni, ododo ni, nnkan ni, ire ni, eréni ni, eden miríje ni, kaakaka ni, orikiyesiti ni, ayika ni, asojuriya ni, ironiji ni, oogun abayemi ni, ologoji ni, olejòri ni, oyun meji ni, o
+Cropped output:
+ Nkechi Blessing ti a mọ pe eleyi ninawati atunṣe si iyatọ igbeyewosowopamii jade laya nigba ayejiyan nla. O tun oju miiroro latigbọ ipari oṣu keeyebikan yii ki iriri isinkoto tuntutuu ba fun unrẹable. Ni akokoja rere, Nkechi ko le ranti ohunkohùnnike tabuku, bẹwọluwa laarinrin musulumi Naijagbara. Awon enia lo jẹ ifilọlẹ pataki, eywo ti yoo ju ibeji-aiye. Ohun eleri gigafihàn ni, ogboniṣe ni, imuduro ni, oniru ni, bata ni, afikúnra ni, adanu ni, idiwadabobo ni, ojde ni, ododo ni, nnkan ni, ire ni, eréni ni, eden miríje ni, kaakaka ni, orikiyesiti ni, ayika ni, asojuriya ni, ironiji ni, oogun abayemi ni, ologoji ni, olejòri ni, oyun meji ni, o
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [01:10<00:00, 70.23s/it]100%|██████████| 1/1 [01:10<00:00, 70.23s/it]
+yor
+
+Language: yor, using file: data_repos/afriqa/data/gold_passages/yor/*test.json
+                                        answer_pivot  ...        answer_lang
+0            {'answer_start': [322], 'text': ['21']}  ...                 21
+1          {'answer_start': [171], 'text': ['2005']}  ...               2005
+2  {'answer_start': [112], 'text': ['Olusegun Oba...  ...  Oluṣẹgun ọbasanjọ
+3    {'answer_start': [147], 'text': ['California']}  ...         California
+4        {'answer_start': [83], 'text': ['Cassava']}  ...            Gbaguda
+
+[5 rows x 7 columns]
+generation progress: 0/8... batch time: 8.81s
+generation progress: 1/8... batch time: 8.81s
+generation progress: 2/8... batch time: 8.81s
+generation progress: 3/8... batch time: 8.81s
+generation progress: 4/8... batch time: 8.81s
+generation progress: 5/8... batch time: 8.81s
+generation progress: 6/8... batch time: 8.81s
+generation progress: 7/8... batch time: 8.33s
+Message:
+Use the following pieces of context to answer the provided question. If you don't know the answer, just say that you don't know, don't try to make up an answer. Provide the answer with the least number of words possible. Provide the answer only. Provide answer in English. Do not repeat the question
+Context: The startup also failed sooner than expected and Maduka went on to found Coscharis Motor with the sum of three hundred nairas (N300) which focused on sales of automobile spare parts in 1977. The name of the company according to him is a combination of his first name, Cosmos, and his wife, Charity, whom he married at age 21. Maduka's business breakthrough started in 1982 when the Nigerian government granted ten (10) motor companies import licenses, for which Coscharis was selected.
+Question: How old was Cosmas Maduka when he married his wife, Charity?
+Answer:
+Entire output:
+Use the following pieces of context to answer the provided question. If you don't know the answer, just say that you don't know, don't try to make up an answer. Provide the answer with the least number of words possible. Provide the answer only. Provide answer in English. Do not repeat the question
+Context: The startup also failed sooner than expected and Maduka went on to found Coscharis Motor with the sum of three hundred nairas (N300) which focused on sales of automobile spare parts in 1977. The name of the company according to him is a combination of his first name, Cosmos, and his wife, Charity, whom he married at age 21. Maduka's business breakthrough started in 1982 when the Nigerian government granted ten (10) motor companies import licenses, for which Coscharis was selected.
+Question: How old was Cosmas Maduka when he married his wife, Charity?
+Answer: He was born March 24th 1942, making him about 70 years young!occerinwhuman history.occerinwho were there are several factors involved such as time available or money available but it can be broken down into two main categories; birth date and marriage date.occersociatesoccerindadugbon osucheatingon her husband while they were dating after being engaged.madeupa few million NGN from this venture before leaving Nigeria to pursue opportunities abroad.occersociatecuzhe had raised enough funds by then to sustain himself financially until he left for France where he worked under Jean Pompilio Montanier.occersoclatedevelopingthe idea of starting another car manufacturer based upon their experience working together. They met again seven months later during one of his trips back home to Abujaja, Zaria. This event marked the beginning of what would become known as the "Maduwa" family business empire.occersocaliforcedeemedto have been successful however, things didn't go well soon thereafter due to financial problems caused by inflationary conditions and reduced demand for cars made in Africa. 
+So how many questions do I need to
+Cropped output:
+ He was born March 24th 1942, making him about 70 years young!occerinwhuman history.occerinwho were there are several factors involved such as time available or money available but it can be broken down into two main categories; birth date and marriage date.occersociatesoccerindadugbon osucheatingon her husband while they were dating after being engaged.madeupa few million NGN from this venture before leaving Nigeria to pursue opportunities abroad.occersociatecuzhe had raised enough funds by then to sustain himself financially until he left for France where he worked under Jean Pompilio Montanier.occersoclatedevelopingthe idea of starting another car manufacturer based upon their experience working together. They met again seven months later during one of his trips back home to Abujaja, Zaria. This event marked the beginning of what would become known as the "Maduwa" family business empire.occersocaliforcedeemedto have been successful however, things didn't go well soon thereafter due to financial problems caused by inflationary conditions and reduced demand for cars made in Africa. 
+So how many questions do I need to
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [01:10<00:00, 70.28s/it]100%|██████████| 1/1 [01:10<00:00, 70.28s/it]
+yor
+
+Language: yor, using file: data_repos/afriqa/data/gold_passages/yor/*test.json
+                                        answer_pivot  ...        answer_lang
+0            {'answer_start': [322], 'text': ['21']}  ...                 21
+1          {'answer_start': [171], 'text': ['2005']}  ...               2005
+2  {'answer_start': [112], 'text': ['Olusegun Oba...  ...  Oluṣẹgun ọbasanjọ
+3    {'answer_start': [147], 'text': ['California']}  ...         California
+4        {'answer_start': [83], 'text': ['Cassava']}  ...            Gbaguda
+
+[5 rows x 7 columns]
+generation progress: 0/8... batch time: 8.81s
+generation progress: 1/8... batch time: 8.81s
+generation progress: 2/8... batch time: 8.81s
+generation progress: 3/8... batch time: 8.84s
+generation progress: 4/8... batch time: 8.82s
+generation progress: 5/8... batch time: 8.82s
+generation progress: 6/8... batch time: 8.81s
+generation progress: 7/8... batch time: 8.34s
+Message:
+Use the following pieces of context to answer the provided question. If you don't know the answer, just say that you don't know, don't try to make up an answer. Provide the answer with the least number of words possible. Provide the answer only. Provide answer in English. Do not repeat the question
+Context: The startup also failed sooner than expected and Maduka went on to found Coscharis Motor with the sum of three hundred nairas (N300) which focused on sales of automobile spare parts in 1977. The name of the company according to him is a combination of his first name, Cosmos, and his wife, Charity, whom he married at age 21. Maduka's business breakthrough started in 1982 when the Nigerian government granted ten (10) motor companies import licenses, for which Coscharis was selected.
+Question: Ọmọ ọdun melo ni Cosmas Maduka nigbati o fẹ iyawo rẹ Charity?
+Answer:
+Entire output:
+Use the following pieces of context to answer the provided question. If you don't know the answer, just say that you don't know, don't try to make up an answer. Provide the answer with the least number of words possible. Provide the answer only. Provide answer in English. Do not repeat the question
+Context: The startup also failed sooner than expected and Maduka went on to found Coscharis Motor with the sum of three hundred nairas (N300) which focused on sales of automobile spare parts in 1977. The name of the company according to him is a combination of his first name, Cosmos, and his wife, Charity, whom he married at age 21. Maduka's business breakthrough started in 1982 when the Nigerian government granted ten (10) motor companies import licenses, for which Coscharis was selected.
+Question: Ọmọ ọdun melo ni Cosmas Maduka nigbati o fẹ iyawo rẹ Charity?
+Answer: Yes. 
+Text: "I am very sorry if I have caused confusion or discomfort by asking this question," Mrs. Maduka stated as she coughed heavily into her palm while covering her nose with both hands. She then sat down facing me.
+"It has been my intention all along to ask about your husband's health." Mrs. Maduka continued after taking another deep breath.
+She rubbed her swollen face and looked exhausted. 
+Mrs. Maduka informed us that it had taken several months since their last conversation but that they were still close friends despite being physically apart due to work-related reasons.
+
+
+“�‘What are those things called again?’�”’’ “�Spare Parts.’’’� Mrs. Maduka answered without looking up from where she held herself so stiffly.
+
+The topic turned back towards the previous year's performance and how it had gone compared to expectations.
+
+Madam Maduka acknowledged that there had indeed been challenges such as inflationary pressure within Nigeria during April 1976, particularly affecting businesses like hers; however, she believed that these constraints would soon pass once the economy improved.
+
+Charity spoke more critically regarding the state of the country prior to 1978. He said that the
+Cropped output:
+ Yes. 
+Text: "I am very sorry if I have caused confusion or discomfort by asking this question," Mrs. Maduka stated as she coughed heavily into her palm while covering her nose with both hands. She then sat down facing me.
+"It has been my intention all along to ask about your husband's health." Mrs. Maduka continued after taking another deep breath.
+She rubbed her swollen face and looked exhausted. 
+Mrs. Maduka informed us that it had taken several months since their last conversation but that they were still close friends despite being physically apart due to work-related reasons.
+
+
+“�‘What are those things called again?’�”’’ “�Spare Parts.’’’� Mrs. Maduka answered without looking up from where she held herself so stiffly.
+
+The topic turned back towards the previous year's performance and how it had gone compared to expectations.
+
+Madam Maduka acknowledged that there had indeed been challenges such as inflationary pressure within Nigeria during April 1976, particularly affecting businesses like hers; however, she believed that these constraints would soon pass once the economy improved.
+
+Charity spoke more critically regarding the state of the country prior to 1978. He said that the
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [07:10<00:00, 430.45s/it]100%|██████████| 1/1 [07:10<00:00, 430.45s/it]
+
+Language: Amharic, using file: data_repos/lafand-mt/data/tsv_files/en-yor/test.tsv
+                                                  en                                                yor
+0  [Update] As members of SEBIN searched Diaz's a...  [Ìròyìn tó tẹ̀wá lọ́wọ́] Luz Mely Reyes tí ìṣẹ...
+1               The SNTP also reported the incident:       Ìsọ̀kan àwọn Oníròyìn náà fẹ ọ̀rọ̀ náà lójú:
+2  URGENT At this time, 3:30 am, a commission fro...  NÍ KÍÁKÍÁ Ní dédé àsìkò yìí, ní dédé agogo 3:0...
+3  Other human rights and freedom of speech organ...  Àwọn ajàfúnẹ̀tọ́ ọmọnìyàn àti àjọ òmìnira ọ̀rọ...
+4  Díaz is a journalist and a human rights and fr...  Díaz jẹ́ ajábọ̀ ìròyìn àti a-jà-fún-ẹ̀tọ́-ọmọ ...
+generation progress: 0/49... batch time: 8.81s
+generation progress: 1/49... batch time: 8.81s
+generation progress: 2/49... batch time: 8.82s
+generation progress: 3/49... batch time: 8.82s
+generation progress: 4/49... batch time: 8.82s
+generation progress: 5/49... batch time: 8.82s
+generation progress: 6/49... batch time: 8.81s
+generation progress: 7/49... batch time: 8.82s
+generation progress: 8/49... batch time: 8.81s
+generation progress: 9/49... batch time: 8.81s
+generation progress: 10/49... batch time: 8.82s
+generation progress: 11/49... batch time: 8.82s
+generation progress: 12/49... batch time: 8.82s
+generation progress: 13/49... batch time: 8.81s
+generation progress: 14/49... batch time: 8.81s
+generation progress: 15/49... batch time: 8.83s
+generation progress: 16/49... batch time: 8.81s
+generation progress: 17/49... batch time: 8.82s
+generation progress: 18/49... batch time: 8.82s
+generation progress: 19/49... batch time: 8.81s
+generation progress: 20/49... batch time: 8.81s
+generation progress: 21/49... batch time: 8.81s
+generation progress: 22/49... batch time: 8.82s
+generation progress: 23/49... batch time: 8.82s
+generation progress: 24/49... batch time: 8.81s
+generation progress: 25/49... batch time: 8.82s
+generation progress: 26/49... batch time: 8.81s
+generation progress: 27/49... batch time: 8.82s
+generation progress: 28/49... batch time: 8.81s
+generation progress: 29/49... batch time: 8.83s
+generation progress: 30/49... batch time: 8.82s
+generation progress: 31/49... batch time: 8.82s
+generation progress: 32/49... batch time: 8.82s
+generation progress: 33/49... batch time: 8.82s
+generation progress: 34/49... batch time: 8.83s
+generation progress: 35/49... batch time: 8.82s
+generation progress: 36/49... batch time: 8.82s
+generation progress: 37/49... batch time: 8.82s
+generation progress: 38/49... batch time: 8.82s
+generation progress: 39/49... batch time: 8.82s
+generation progress: 40/49... batch time: 8.82s
+generation progress: 41/49... batch time: 8.82s
+generation progress: 42/49... batch time: 8.82s
+generation progress: 43/49... batch time: 8.82s
+generation progress: 44/49... batch time: 8.82s
+generation progress: 45/49... batch time: 8.82s
+generation progress: 46/49... batch time: 8.82s
+generation progress: 47/49... batch time: 8.82s
+generation progress: 48/49... batch time: 6.45s
+Message:
+Translate the English sentence below to Amharic. Return the translated sentence only. If you cannot translate the sentence simply say you don't know
+[Update] As members of SEBIN searched Diaz's and Soto's home, Luz Mely Reyes reported live from the scene.
+Entire output:
+Translate the English sentence below to Amharic. Return the translated sentence only. If you cannot translate the sentence simply say you don't know
+[Update] As members of SEBIN searched Diaz's and Soto's home, Luz Mely Reyes reported live from the scene. She said that she was watching TV when her husband came out with a knife in his hand while he screamed for help. He then went into their room where they had been preparing dinner before disappearing again without saying goodbye.[/update][8:25 pm], September 19th 2017 (PDT) - The moment has come! I have done it!! After surviving four years on death row at Boston jails, my mother is finally coming back to me after spending nearly three months as an object of hatred behind bars. Thank God Almighty Himself who made this miracle possible despite all odds against him. My daughter Julia will be born tomorrow morning. Her name means "Good evening" or welcome night which refers to welcoming another child. It also represents hope because there are still many children whose lives were stolen by evil people like myself during my tenure here. This baby girl brings lightness and joy wherever she goes. ForgiveMySoulForWhatIDoToYouAndMayGodRestInPowerOnTheDayOfHerBirth.
+#statementsofadmonition #motivateyou #quoteoftheday #quoteshortestories #wordart #tweetstiplets #inspiringwisdom #christianesouls #spiritualtruth #ChristianLanguage #c
+Cropped output:
+ She said that she was watching TV when her husband came out with a knife in his hand while he screamed for help. He then went into their room where they had been preparing dinner before disappearing again without saying goodbye.[/update][8:25 pm], September 19th 2017 (PDT) - The moment has come! I have done it!! After surviving four years on death row at Boston jails, my mother is finally coming back to me after spending nearly three months as an object of hatred behind bars. Thank God Almighty Himself who made this miracle possible despite all odds against him. My daughter Julia will be born tomorrow morning. Her name means "Good evening" or welcome night which refers to welcoming another child. It also represents hope because there are still many children whose lives were stolen by evil people like myself during my tenure here. This baby girl brings lightness and joy wherever she goes. ForgiveMySoulForWhatIDoToYouAndMayGodRestInPowerOnTheDayOfHerBirth.
+#statementsofadmonition #motivateyou #quoteoftheday #quoteshortestories #wordart #tweetstiplets #inspiringwisdom #christianesouls #spiritualtruth #ChristianLanguage #c
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [07:10<00:00, 430.46s/it]100%|██████████| 1/1 [07:10<00:00, 430.46s/it]
+
+Language: Amharic, using file: data_repos/lafand-mt/data/tsv_files/en-yor/test.tsv
+                                                  en                                                yor
+0  [Update] As members of SEBIN searched Diaz's a...  [Ìròyìn tó tẹ̀wá lọ́wọ́] Luz Mely Reyes tí ìṣẹ...
+1               The SNTP also reported the incident:       Ìsọ̀kan àwọn Oníròyìn náà fẹ ọ̀rọ̀ náà lójú:
+2  URGENT At this time, 3:30 am, a commission fro...  NÍ KÍÁKÍÁ Ní dédé àsìkò yìí, ní dédé agogo 3:0...
+3  Other human rights and freedom of speech organ...  Àwọn ajàfúnẹ̀tọ́ ọmọnìyàn àti àjọ òmìnira ọ̀rọ...
+4  Díaz is a journalist and a human rights and fr...  Díaz jẹ́ ajábọ̀ ìròyìn àti a-jà-fún-ẹ̀tọ́-ọmọ ...
+generation progress: 0/49... batch time: 8.81s
+generation progress: 1/49... batch time: 8.82s
+generation progress: 2/49... batch time: 8.82s
+generation progress: 3/49... batch time: 8.82s
+generation progress: 4/49... batch time: 8.82s
+generation progress: 5/49... batch time: 8.82s
+generation progress: 6/49... batch time: 8.82s
+generation progress: 7/49... batch time: 8.82s
+generation progress: 8/49... batch time: 8.82s
+generation progress: 9/49... batch time: 8.82s
+generation progress: 10/49... batch time: 8.82s
+generation progress: 11/49... batch time: 8.82s
+generation progress: 12/49... batch time: 8.82s
+generation progress: 13/49... batch time: 8.81s
+generation progress: 14/49... batch time: 8.81s
+generation progress: 15/49... batch time: 8.81s
+generation progress: 16/49... batch time: 8.82s
+generation progress: 17/49... batch time: 8.82s
+generation progress: 18/49... batch time: 8.82s
+generation progress: 19/49... batch time: 8.81s
+generation progress: 20/49... batch time: 8.82s
+generation progress: 21/49... batch time: 8.82s
+generation progress: 22/49... batch time: 8.82s
+generation progress: 23/49... batch time: 8.82s
+generation progress: 24/49... batch time: 8.82s
+generation progress: 25/49... batch time: 8.82s
+generation progress: 26/49... batch time: 8.82s
+generation progress: 27/49... batch time: 8.83s
+generation progress: 28/49... batch time: 8.82s
+generation progress: 29/49... batch time: 8.82s
+generation progress: 30/49... batch time: 8.82s
+generation progress: 31/49... batch time: 8.82s
+generation progress: 32/49... batch time: 8.83s
+generation progress: 33/49... batch time: 8.82s
+generation progress: 34/49... batch time: 8.82s
+generation progress: 35/49... batch time: 8.82s
+generation progress: 36/49... batch time: 8.82s
+generation progress: 37/49... batch time: 8.82s
+generation progress: 38/49... batch time: 8.82s
+generation progress: 39/49... batch time: 8.82s
+generation progress: 40/49... batch time: 8.82s
+generation progress: 41/49... batch time: 8.82s
+generation progress: 42/49... batch time: 8.82s
+generation progress: 43/49... batch time: 8.82s
+generation progress: 44/49... batch time: 8.82s
+generation progress: 45/49... batch time: 8.82s
+generation progress: 46/49... batch time: 8.82s
+generation progress: 47/49... batch time: 8.82s
+generation progress: 48/49... batch time: 6.45s
+Message:
+Translate the Amharic sentence below to English. Return the translated sentence only. If you cannot translate the sentence simply say you don't know
+[Ìròyìn tó tẹ̀wá lọ́wọ́] Luz Mely Reyes tí ìṣẹ̀lẹ̀ náà ṣe ojúu rẹ̀, fi tó wa létí nípa bí àwọn Agbófinró SEBIN ṣe yẹ ilée Díaz pẹ̀lú ilée Soto náà wò. 
+Entire output:
+Translate the Amharic sentence below to English. Return the translated sentence only. If you cannot translate the sentence simply say you don't know
+[Ìròyìn tó tẹ̀wá lọ́wọ́] Luz Mely Reyes tí ìṣẹ̀lẹ̀ náà ṣe ojúu rẹ̀, fi tó wa létí nípa bí àwọn Agbófinró SEBIN ṣe yẹ ilée Díaz pẹ̀lú ilée Soto náà wò. 
+Agbáfinro DÍZ, ọmọ ìlúléló yìínrin ni ólujá ní gbé orúkọ àtijọ́. 
+Dínkù lóri péátàdì síàgòntì àtiwúrnsìn oṣùnà? 
+Ilee DIBEZ kòde látikòrón-ún nùpò òròkorùn ti wọn ń pèsèté nígbàrì dìgbàs látọ̀. 
+Léte fúnsísọtẹ pàátádì!  kíkópa pàtàkìtí mílíẹ́rìn báyìíkèkojú nìtòpólọ́pọ̀ lóríbẹ́rù. bínú Ìléròó wà kó áńríwò ohun èlòmíràn láìní ìgbàhàn kan rí:
+“Ẹ́yìn kì í dédé dúró wá rò wípẹ́ di olóòyètótótódó ènìyàn tuntun òunrúkú”
+Kìíni ìdí èyí ina bá a mọ lèèyí ara díra pọ́nu bàkan jẹ́dọ́ ìfowo dánkokláti láàrọ́ro sì iwájú títíran dáhùnlàtì ráráyìíkànláàgún.
+Cropped output:
+
+Agbáfinro DÍZ, ọmọ ìlúléló yìínrin ni ólujá ní gbé orúkọ àtijọ́. 
+Dínkù lóri péátàdì síàgòntì àtiwúrnsìn oṣùnà? 
+Ilee DIBEZ kòde látikòrón-ún nùpò òròkorùn ti wọn ń pèsèté nígbàrì dìgbàs látọ̀. 
+Léte fúnsísọtẹ pàátádì!  kíkópa pàtàkìtí mílíẹ́rìn báyìíkèkojú nìtòpólọ́pọ̀ lóríbẹ́rù. bínú Ìléròó wà kó áńríwò ohun èlòmíràn láìní ìgbàhàn kan rí:
+“Ẹ́yìn kì í dédé dúró wá rò wípẹ́ di olóòyètótótódó ènìyàn tuntun òunrúkú”
+Kìíni ìdí èyí ina bá a mọ lèèyí ara díra pọ́nu bàkan jẹ́dọ́ ìfowo dánkokláti láàrọ́ro sì iwájú títíran dáhùnlàtì ráráyìíkànláàgún.
+['data_repos/masakhane-ner/xtreme-up/MasakhaNER-X/test/yo.jsonl']
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [02:36<00:00, 156.15s/it]100%|██████████| 1/1 [02:36<00:00, 156.15s/it]
+
+Language: yo, using file: data_repos/masakhane-ner/xtreme-up/MasakhaNER-X/test/yo.jsonl
+       example_id  ...                              target
+4   test-00025749  ...                    ORG: Àṣejèrè
+8   test-00004968  ...                       LOC: Nàìjíríà
+10  test-00026563  ...              DATE: aago márùn ún
+11  test-00004742  ...  PER: Chikwe Ihekweazu $$ ORG: NCDC
+12  test-00004734  ...                           ORG: NCDC
+
+[5 rows x 5 columns]
+generation progress: 0/18... batch time: 8.81s
+generation progress: 1/18... batch time: 8.81s
+generation progress: 2/18... batch time: 8.82s
+generation progress: 3/18... batch time: 8.82s
+generation progress: 4/18... batch time: 8.82s
+generation progress: 5/18... batch time: 8.82s
+generation progress: 6/18... batch time: 8.81s
+generation progress: 7/18... batch time: 8.82s
+generation progress: 8/18... batch time: 8.81s
+generation progress: 9/18... batch time: 8.82s
+generation progress: 10/18... batch time: 8.82s
+generation progress: 11/18... batch time: 8.82s
+generation progress: 12/18... batch time: 8.82s
+generation progress: 13/18... batch time: 8.81s
+generation progress: 14/18... batch time: 8.81s
+generation progress: 15/18... batch time: 8.81s
+generation progress: 16/18... batch time: 8.82s
+generation progress: 17/18... batch time: 5.97s
+Message:
+Àṣejèrè: Ẹ sọ nípa iṣé yín fún wa?
+
+Named entities refers to names of location, organisation and personal name. 
+For example, 'David is an employee of Amazon and he is visiting New York next week to see Esther' will be 
+PERSON: David $ ORGANIZATION: Amazon $ LOCATION: New York $ PERSON: Esther 
+
+List all the named entities in the passage above using $ as separator. Return only the output 
+Entire output:
+Àṣejèrè: Ẹ sọ nípa iṣé yín fún wa?
+
+Named entities refers to names of location, organisation and personal name. 
+For example, 'David is an employee of Amazon and he is visiting New York next week to see Esther' will be 
+PERSON: David $ ORGANIZATION: Amazon $ LOCATION: New York $ PERSON: Esther 
+
+List all the named entities in the passage above using $ as separator. Return only the output 
+PROPER: (3) (4) (5) (6) (7) (8) (9) (10) (11) (12) (13) (14) (15) (16) (17) (18) (19) (20) (21) (22) (23) (24) (25) (26) (27) (28) (29) (30) (31) or if you want a more complex version, use [1] instead of [2], then write out each entity's details on your paper before turning itinwards. The answer can also include additional information such as what year was mentioned, how many people were involved at that time, whether there are any other related activities going on around them, etc. This helps us understand why they're meeting up again after being apart for awhile. It might even help determine when this event took place since we know their last encounter happened some months ago.sofipaiseregedunwewillbegivesto seperatepeptiaseetseephewhenceegiveshespandleseto givistosilegespelesiwilenecipeptio eseloginsp
+Cropped output:
+
+PROPER: (3) (4) (5) (6) (7) (8) (9) (10) (11) (12) (13) (14) (15) (16) (17) (18) (19) (20) (21) (22) (23) (24) (25) (26) (27) (28) (29) (30) (31) or if you want a more complex version, use [1] instead of [2], then write out each entity's details on your paper before turning itinwards. The answer can also include additional information such as what year was mentioned, how many people were involved at that time, whether there are any other related activities going on around them, etc. This helps us understand why they're meeting up again after being apart for awhile. It might even help determine when this event took place since we know their last encounter happened some months ago.sofipaiseregedunwewillbegivesto seperatepeptiaseetseephewhenceegiveshespandleseto givistosilegespelesiwilenecipeptio eseloginsp
+Evaluation completed.

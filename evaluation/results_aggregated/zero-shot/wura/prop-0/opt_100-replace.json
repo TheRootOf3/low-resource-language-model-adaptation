@@ -1,0 +1,130 @@
+{
+    "amh": {
+        "qa": {},
+        "qah": {},
+        "mt-from-en": {
+            "chrf": 0.57,
+            "bleu": 0.0,
+            "nan_ratio": 0.4522661523625844
+        },
+        "mt-to-en": {
+            "chrf": 0.55,
+            "bleu": 0.0,
+            "nan_ratio": 0.14561234329797493
+        },
+        "ner": {
+            "f1": 0.0,
+            "nan_ratio": 1.0
+        },
+        "news_topic": {
+            "f1": 0.0,
+            "nan_ratio": 0.0
+        },
+        "sentiment": {
+            "f1": 2.65,
+            "nan_ratio": 0.6078039019509754
+        }
+    },
+    "ibo": {
+        "qa": {
+            "f1_squad": 12.8,
+            "em": 0.1,
+            "nan_ratio": 0.0
+        },
+        "qah": {
+            "f1_squad": 1.3,
+            "em": 0.0,
+            "nan_ratio": 0.0
+        },
+        "mt-from-en": {
+            "chrf": 9.51,
+            "bleu": 0.01,
+            "nan_ratio": 0.0006666666666666666
+        },
+        "mt-to-en": {
+            "chrf": 10.66,
+            "bleu": 0.04,
+            "nan_ratio": 0.08733333333333333
+        },
+        "ner": {
+            "f1": 0.0,
+            "nan_ratio": 0.0
+        },
+        "news_topic": {
+            "f1": 1.22,
+            "nan_ratio": 0.0
+        },
+        "sentiment": {
+            "f1": 26.91,
+            "nan_ratio": 0.0
+        }
+    },
+    "yor": {
+        "qa": {
+            "f1_squad": 13.0,
+            "em": 0.1,
+            "nan_ratio": 0.0
+        },
+        "qah": {
+            "f1_squad": 4.3,
+            "em": 0.0,
+            "nan_ratio": 0.0
+        },
+        "mt-from-en": {
+            "chrf": 9.89,
+            "bleu": 0.01,
+            "nan_ratio": 0.0
+        },
+        "mt-to-en": {
+            "chrf": 5.23,
+            "bleu": 0.01,
+            "nan_ratio": 0.1116816431322208
+        },
+        "ner": {
+            "f1": 0.0,
+            "nan_ratio": 0.031914893617021274
+        },
+        "news_topic": {
+            "f1": 0.26,
+            "nan_ratio": 0.0
+        },
+        "sentiment": {
+            "f1": 18.92,
+            "nan_ratio": 0.0
+        }
+    },
+    "hau": {
+        "qa": {
+            "f1_squad": 9.2,
+            "em": 0.1,
+            "nan_ratio": 0.013333333333333334
+        },
+        "qah": {
+            "f1_squad": 0.4,
+            "em": 0.0,
+            "nan_ratio": 0.0
+        },
+        "mt-from-en": {
+            "chrf": 5.03,
+            "bleu": 0.0,
+            "nan_ratio": 0.0
+        },
+        "mt-to-en": {
+            "chrf": 5.36,
+            "bleu": 0.01,
+            "nan_ratio": 0.5406666666666666
+        },
+        "ner": {
+            "f1": 0.0,
+            "nan_ratio": 0.0
+        },
+        "news_topic": {
+            "f1": 0.0,
+            "nan_ratio": 0.08791208791208792
+        },
+        "sentiment": {
+            "f1": 17.02,
+            "nan_ratio": 0.0
+        }
+    }
+}

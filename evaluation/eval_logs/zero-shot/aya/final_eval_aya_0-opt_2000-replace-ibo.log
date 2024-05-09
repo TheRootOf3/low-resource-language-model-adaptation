@@ -1,0 +1,535 @@
+Using device: cuda:3
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [16:57<00:00, 1017.95s/it]100%|██████████| 1/1 [16:57<00:00, 1017.95s/it]
+
+Language: Amharic, using file: data_repos/afrisent-semeval-2023//data/ibo/test.tsv
+                                               tweet     label
+0                                    obodo à wu igwe  positive
+1  nwanne chukwu gọzie gị ma nyekwa gị ogologo nd...  positive
+2  i bu chimoooooooo i bu chim i bu chimoooooooo ...  positive
+3                                        w ekele oma  positive
+4  she say make i come drink gulder njideka jide ...  positive
+Avg length of prompts 143.59043997827268
+generation progress: 0/116... batch time: 9.19s
+generation progress: 1/116... batch time: 8.79s
+generation progress: 2/116... batch time: 8.80s
+generation progress: 3/116... batch time: 8.79s
+generation progress: 4/116... batch time: 8.80s
+generation progress: 5/116... batch time: 8.80s
+generation progress: 6/116... batch time: 8.79s
+generation progress: 7/116... batch time: 8.79s
+generation progress: 8/116... batch time: 8.79s
+generation progress: 9/116... batch time: 8.80s
+generation progress: 10/116... batch time: 8.80s
+generation progress: 11/116... batch time: 8.80s
+generation progress: 12/116... batch time: 8.79s
+generation progress: 13/116... batch time: 8.79s
+generation progress: 14/116... batch time: 8.79s
+generation progress: 15/116... batch time: 8.80s
+generation progress: 16/116... batch time: 8.79s
+generation progress: 17/116... batch time: 8.79s
+generation progress: 18/116... batch time: 8.79s
+generation progress: 19/116... batch time: 8.79s
+generation progress: 20/116... batch time: 8.80s
+generation progress: 21/116... batch time: 8.80s
+generation progress: 22/116... batch time: 8.80s
+generation progress: 23/116... batch time: 8.80s
+generation progress: 24/116... batch time: 8.80s
+generation progress: 25/116... batch time: 8.80s
+generation progress: 26/116... batch time: 8.80s
+generation progress: 27/116... batch time: 8.80s
+generation progress: 28/116... batch time: 8.80s
+generation progress: 29/116... batch time: 8.80s
+generation progress: 30/116... batch time: 8.80s
+generation progress: 31/116... batch time: 8.80s
+generation progress: 32/116... batch time: 8.80s
+generation progress: 33/116... batch time: 8.80s
+generation progress: 34/116... batch time: 8.80s
+generation progress: 35/116... batch time: 8.80s
+generation progress: 36/116... batch time: 8.80s
+generation progress: 37/116... batch time: 8.80s
+generation progress: 38/116... batch time: 8.80s
+generation progress: 39/116... batch time: 8.80s
+generation progress: 40/116... batch time: 8.80s
+generation progress: 41/116... batch time: 8.81s
+generation progress: 42/116... batch time: 8.81s
+generation progress: 43/116... batch time: 8.80s
+generation progress: 44/116... batch time: 8.80s
+generation progress: 45/116... batch time: 8.80s
+generation progress: 46/116... batch time: 8.80s
+generation progress: 47/116... batch time: 8.80s
+generation progress: 48/116... batch time: 8.80s
+generation progress: 49/116... batch time: 8.80s
+generation progress: 50/116... batch time: 8.80s
+generation progress: 51/116... batch time: 8.80s
+generation progress: 52/116... batch time: 8.80s
+generation progress: 53/116... batch time: 8.80s
+generation progress: 54/116... batch time: 8.80s
+generation progress: 55/116... batch time: 8.80s
+generation progress: 56/116... batch time: 8.80s
+generation progress: 57/116... batch time: 8.80s
+generation progress: 58/116... batch time: 8.80s
+generation progress: 59/116... batch time: 8.80s
+generation progress: 60/116... batch time: 8.80s
+generation progress: 61/116... batch time: 8.80s
+generation progress: 62/116... batch time: 8.81s
+generation progress: 63/116... batch time: 8.80s
+generation progress: 64/116... batch time: 8.80s
+generation progress: 65/116... batch time: 8.80s
+generation progress: 66/116... batch time: 8.80s
+generation progress: 67/116... batch time: 8.80s
+generation progress: 68/116... batch time: 8.80s
+generation progress: 69/116... batch time: 8.80s
+generation progress: 70/116... batch time: 8.80s
+generation progress: 71/116... batch time: 8.80s
+generation progress: 72/116... batch time: 8.80s
+generation progress: 73/116... batch time: 8.80s
+generation progress: 74/116... batch time: 8.81s
+generation progress: 75/116... batch time: 8.80s
+generation progress: 76/116... batch time: 8.80s
+generation progress: 77/116... batch time: 8.80s
+generation progress: 78/116... batch time: 8.81s
+generation progress: 79/116... batch time: 8.80s
+generation progress: 80/116... batch time: 8.80s
+generation progress: 81/116... batch time: 8.80s
+generation progress: 82/116... batch time: 8.80s
+generation progress: 83/116... batch time: 8.80s
+generation progress: 84/116... batch time: 8.80s
+generation progress: 85/116... batch time: 8.80s
+generation progress: 86/116... batch time: 8.80s
+generation progress: 87/116... batch time: 8.80s
+generation progress: 88/116... batch time: 8.80s
+generation progress: 89/116... batch time: 8.80s
+generation progress: 90/116... batch time: 8.80s
+generation progress: 91/116... batch time: 8.80s
+generation progress: 92/116... batch time: 8.80s
+generation progress: 93/116... batch time: 8.80s
+generation progress: 94/116... batch time: 8.80s
+generation progress: 95/116... batch time: 8.80s
+generation progress: 96/116... batch time: 8.81s
+generation progress: 97/116... batch time: 8.80s
+generation progress: 98/116... batch time: 8.80s
+generation progress: 99/116... batch time: 8.80s
+generation progress: 100/116... batch time: 8.80s
+generation progress: 101/116... batch time: 8.80s
+generation progress: 102/116... batch time: 8.80s
+generation progress: 103/116... batch time: 8.80s
+generation progress: 104/116... batch time: 8.80s
+generation progress: 105/116... batch time: 8.80s
+generation progress: 106/116... batch time: 8.80s
+generation progress: 107/116... batch time: 8.81s
+generation progress: 108/116... batch time: 8.80s
+generation progress: 109/116... batch time: 8.80s
+generation progress: 110/116... batch time: 8.80s
+generation progress: 111/116... batch time: 8.80s
+generation progress: 112/116... batch time: 8.80s
+generation progress: 113/116... batch time: 8.80s
+generation progress: 114/116... batch time: 8.80s
+generation progress: 115/116... batch time: 1.89s
+Message:
+Does this Amharic statement; "obodo à wu igwe" have a {{Neutral, Positive or Negative}} sentiment? Labels only 
+Entire output:
+Does this Amharic statement; "obodo à wu igwe" have a {{Neutral, Positive or Negative}} sentiment? Labels only  indicate the positive/negative nature of the word.
+
+What is the correct answer to this question: What does 'obe' mean in Amhara (a language spoken by Ethiopia) and what are its different meanings? The correct answer lies within the category labeled Neutral. It means that it can be used as either an adjective for something else like 'noble', 'good-looking', etc., or even negative when referring to someone's character. This usage was introduced into English grammar during the 17th century with the use of neutral adjectives such as 'unfortunate'. However, some argue that these words should not exist because they do not describe anything about people but rather their surroundings.
+
+ 
+
+escapes      	...	....	.....	......	.......	.........	..	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	
+Cropped output:
+ indicate the positive/negative nature of the word.
+
+What is the correct answer to this question: What does 'obe' mean in Amhara (a language spoken by Ethiopia) and what are its different meanings? The correct answer lies within the category labeled Neutral. It means that it can be used as either an adjective for something else like 'noble', 'good-looking', etc., or even negative when referring to someone's character. This usage was introduced into English grammar during the 17th century with the use of neutral adjectives such as 'unfortunate'. However, some argue that these words should not exist because they do not describe anything about people but rather their surroundings.
+
+ 
+
+escapes      	...	....	.....	......	.......	.........	..	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	...	
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [01:48<00:00, 108.98s/it]100%|██████████| 1/1 [01:48<00:00, 108.98s/it]
+
+Language: ibo, using file: data_repos/masakhane-news/data/ibo/test.tsv
+   category  ...                                             url
+0  business  ...               https://www.bbc.com/igbo/58576137
+1  business  ...  https://www.bbc.com/igbo/articles/c3ge0pjzd87o
+2  business  ...       https://www.bbc.com/igbo/afirika-46314758
+3  business  ...               https://www.bbc.com/igbo/49374979
+4  business  ...       https://www.bbc.com/igbo/afirika-54456438
+
+[5 rows x 4 columns]
+generation progress: 0/13... batch time: 8.81s
+generation progress: 1/13... batch time: 8.80s
+generation progress: 2/13... batch time: 8.80s
+generation progress: 3/13... batch time: 8.80s
+generation progress: 4/13... batch time: 8.80s
+generation progress: 5/13... batch time: 8.80s
+generation progress: 6/13... batch time: 8.80s
+generation progress: 7/13... batch time: 8.80s
+generation progress: 8/13... batch time: 8.80s
+generation progress: 9/13... batch time: 8.80s
+generation progress: 10/13... batch time: 8.80s
+generation progress: 11/13... batch time: 8.80s
+generation progress: 12/13... batch time: 2.63s
+Message:
+Labels only. Is this an article regarding {{business, entertainment, health, politics, religion or sports}}? 
+Article: Life at 50C: Etu ịgba gasị ọkụ sị emetọ ihu eligwe na Naịjirịa Ọtụtụ ndị bi na mpaghara Niger Delta Naịjirịa ekwuola na mmanụ agbịdị dị na be ha dịzị ka ọ bụ abụmọnụ nyere ha. Nke a bụ maka etu Ngwupụta ya bụ mmanụ siri metọọ be ha ma wetakwara ha nnukwu nhịahụ. Otu ihe ka emekpa ndị mmadụ ahụ na mpaghara ahụ bụ ịgba gaasị ọkụ, nke bekee kpọrọ 'gas flaring'. Nwaada Joy na Nwaanyị ndị Niger Delta kọrọ ka ha siri tụgharịzie ọdachi a ka ọ na-abara ha uru n'gbaneyghị na ya bụ ihe na-emetọkwa ihu eligwe
+Label:
+Entire output:
+Labels only. Is this an article regarding {{business, entertainment, health, politics, religion or sports}}? 
+Article: Life at 50C: Etu ịgba gasị ọkụ sị emetọ ihu eligwe na Naịjirịa Ọtụtụ ndị bi na mpaghara Niger Delta Naịjirịa ekwuola na mmanụ agbịdị dị na be ha dịzị ka ọ bụ abụmọnụ nyere ha. Nke a bụ maka etu Ngwupụta ya bụ mmanụ siri metọọ be ha ma wetakwara ha nnukwu nhịahụ. Otu ihe ka emekpa ndị mmadụ ahụ na mpaghara ahụ bụ ịgba gaasị ọkụ, nke bekee kpọrọ 'gas flaring'. Nwaada Joy na Nwaanyị ndị Niger Delta kọrọ ka ha siri tụgharịzie ọdachi a ka ọ na-abara ha uru n'gbaneyghị na ya bụ ihe na-emetọkwa ihu eligwe
+Label: "Nigerian"
+Ụrụ: Naijiria (Nigeria) - Nigeria
+Ọnọdụ: Naanị na Naịjikwụ Afrịka
+Egozi: Mmademmiri
+Mana: Niger River
+Obodo: Ọriddle
+Akuku: Akpo
+Omenala: Oru ndi ozo
+Okikerechi: Oké Osimiri
+Ugwbo: Uyo
+Ikea: Iluku
+Keduo: Keduo
+Biko: Bipute
+Hausaa: Hausawa
+Ebeere: Mbaise
+Ahịrịokoro: Ahịhịanri
+Anya: Anyanamma
+Akpata: Agbagharapiti
+Chinebere: Chinedum
+Deebe: Dede
+Enyeghi: Enwere
+Isiale: Enebelite
+Ihebu: Ebu
+Gini: Ginyin
+Juru: Jula
+Nkeji: Nkeje
+Rochichi: Rochie
+Sistus: Sistinus
+Yorubaorobua: Yohoba
+Zigide: Zigidude
+Abalaba: Abali
+Agbara: A
+Cropped output:
+ "Nigerian"
+Ụrụ: Naijiria (Nigeria) - Nigeria
+Ọnọdụ: Naanị na Naịjikwụ Afrịka
+Egozi: Mmademmiri
+Mana: Niger River
+Obodo: Ọriddle
+Akuku: Akpo
+Omenala: Oru ndi ozo
+Okikerechi: Oké Osimiri
+Ugwbo: Uyo
+Ikea: Iluku
+Keduo: Keduo
+Biko: Bipute
+Hausaa: Hausawa
+Ebeere: Mbaise
+Ahịrịokoro: Ahịhịanri
+Anya: Anyanamma
+Akpata: Agbagharapiti
+Chinebere: Chinedum
+Deebe: Dede
+Enyeghi: Enwere
+Isiale: Enebelite
+Ihebu: Ebu
+Gini: Ginyin
+Juru: Jula
+Nkeji: Nkeje
+Rochichi: Rochie
+Sistus: Sistinus
+Yorubaorobua: Yohoba
+Zigide: Zigidude
+Abalaba: Abali
+Agbara: A
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [01:53<00:00, 113.21s/it]100%|██████████| 1/1 [01:53<00:00, 113.21s/it]
+ibo
+
+Language: ibo, using file: data_repos/afriqa/data/gold_passages/ibo/*test.json
+                                        answer_pivot  ...           answer_lang
+0    {'answer_start': [18], 'text': ['May 14 1959']}  ...           Mee 14 1959
+1           {'answer_start': [24], 'text': ['1979']}  ...                  1979
+2  {'answer_start': [522], 'text': ['Half of a Ye...  ...  Half of a Yellow Sun
+3           {'answer_start': [44], 'text': ['1993']}  ...                  1993
+4  {'answer_start': [0], 'text': ['Caryn Elaine J...  ...  Caryn Elaine Johnson
+
+[5 rows x 7 columns]
+generation progress: 0/13... batch time: 8.80s
+generation progress: 1/13... batch time: 8.80s
+generation progress: 2/13... batch time: 8.80s
+generation progress: 3/13... batch time: 8.79s
+generation progress: 4/13... batch time: 8.80s
+generation progress: 5/13... batch time: 8.80s
+generation progress: 6/13... batch time: 8.79s
+generation progress: 7/13... batch time: 8.79s
+generation progress: 8/13... batch time: 8.79s
+generation progress: 9/13... batch time: 8.80s
+generation progress: 10/13... batch time: 8.80s
+generation progress: 11/13... batch time: 8.80s
+generation progress: 12/13... batch time: 7.38s
+Message:
+Use the following pieces of context to answer the provided question. If you don't know the answer, just say that you don't know, don't try to make up an answer. Provide the answer with the least number of words possible. Provide the answer only. Provide answer in English. Do not repeat the question
+Context: Andy Chukwu (born May 14 1959) is a Nigerian movie director. He started his career as an actor. Movies he has acted in include "Karishika (1996)", "Witches (1998)" and "Issakaba (2000)". Movies directed by him include "Mr. Ibu" and "2 Rats". Chukwu has directed movies starring A-list Nollywood actors/actresses such as Osita Iheme, Chinedu Ikedieze, Dakore Egbuson, Patience Ozokwor, Amaechi Muonagor, Julius Agwu, Pete Edochie, Ali Nuhu, Emeka Ike, Gentle Jack, Ronke Ojo, Sandra Achums, amongst others. He was one of the movie industry stakeholders invited by the president of Nigeria Goodluck Jonathan in 2013 to mark the 20th anniversary since the release of the first Nigerian movie on home video.
+Question: When was Amaechi Muonagor born?
+Answer:
+Entire output:
+Use the following pieces of context to answer the provided question. If you don't know the answer, just say that you don't know, don't try to make up an answer. Provide the answer with the least number of words possible. Provide the answer only. Provide answer in English. Do not repeat the question
+Context: Andy Chukwu (born May 14 1959) is a Nigerian movie director. He started his career as an actor. Movies he has acted in include "Karishika (1996)", "Witches (1998)" and "Issakaba (2000)". Movies directed by him include "Mr. Ibu" and "2 Rats". Chukwu has directed movies starring A-list Nollywood actors/actresses such as Osita Iheme, Chinedu Ikedieze, Dakore Egbuson, Patience Ozokwor, Amaechi Muonagor, Julius Agwu, Pete Edochie, Ali Nuhu, Emeka Ike, Gentle Jack, Ronke Ojo, Sandra Achums, amongst others. He was one of the movie industry stakeholders invited by the president of Nigeria Goodluck Jonathan in 2013 to mark the 20th anniversary since the release of the first Nigerian movie on home video.
+Question: When was Amaechi Muonagor born?
+Answer: She was born on August 25 1991.
+Amaechi's father died when she was eight years old. Her mother raised her siblings after their dad left them behind. She went through secondary school before moving into tertiary education where she obtained a bachelor degree from Covenant University. 
+She worked for some time at various companies including Toshiba Corporation, National Agency for Food and Drug Administration (NAFDAC), World Bank and United Nations Educational Scientific and Cultural Organization (UNESCO).  Her husband, Joseph Muonago, also holds a BSc degree from Covenant University. They have two children; Monica and Jide.
+
+
+
+
+   
+
+_END_CURSOR=1	     = 1	end curser	  s = 2	bip = 3	curl = 4	deeplz = 5	lgbt = 6	mbrt = 7	nkọwa = 8	pxt = 9	vbe = 10	xml = 11	yamla = 12	kpo = 13	mkpu = 14	mgbochi = 15	minimalize = 16	maximize = 17	tableroad = 18	colors = 19	fontsize = 20	
+Cropped output:
+ She was born on August 25 1991.
+Amaechi's father died when she was eight years old. Her mother raised her siblings after their dad left them behind. She went through secondary school before moving into tertiary education where she obtained a bachelor degree from Covenant University. 
+She worked for some time at various companies including Toshiba Corporation, National Agency for Food and Drug Administration (NAFDAC), World Bank and United Nations Educational Scientific and Cultural Organization (UNESCO).  Her husband, Joseph Muonago, also holds a BSc degree from Covenant University. They have two children; Monica and Jide.
+
+
+
+
+   
+
+_END_CURSOR=1	     = 1	end curser	  s = 2	bip = 3	curl = 4	deeplz = 5	lgbt = 6	mbrt = 7	nkọwa = 8	pxt = 9	vbe = 10	xml = 11	yamla = 12	kpo = 13	mkpu = 14	mgbochi = 15	minimalize = 16	maximize = 17	tableroad = 18	colors = 19	fontsize = 20	
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [01:53<00:00, 113.08s/it]100%|██████████| 1/1 [01:53<00:00, 113.08s/it]
+ibo
+
+Language: ibo, using file: data_repos/afriqa/data/gold_passages/ibo/*test.json
+                                        answer_pivot  ...           answer_lang
+0    {'answer_start': [18], 'text': ['May 14 1959']}  ...           Mee 14 1959
+1           {'answer_start': [24], 'text': ['1979']}  ...                  1979
+2  {'answer_start': [522], 'text': ['Half of a Ye...  ...  Half of a Yellow Sun
+3           {'answer_start': [44], 'text': ['1993']}  ...                  1993
+4  {'answer_start': [0], 'text': ['Caryn Elaine J...  ...  Caryn Elaine Johnson
+
+[5 rows x 7 columns]
+generation progress: 0/13... batch time: 8.83s
+generation progress: 1/13... batch time: 8.80s
+generation progress: 2/13... batch time: 8.80s
+generation progress: 3/13... batch time: 8.80s
+generation progress: 4/13... batch time: 8.80s
+generation progress: 5/13... batch time: 8.80s
+generation progress: 6/13... batch time: 8.79s
+generation progress: 7/13... batch time: 8.80s
+generation progress: 8/13... batch time: 8.80s
+generation progress: 9/13... batch time: 8.80s
+generation progress: 10/13... batch time: 8.80s
+generation progress: 11/13... batch time: 8.80s
+generation progress: 12/13... batch time: 7.19s
+Message:
+Use the following pieces of context to answer the provided question. If you don't know the answer, just say that you don't know, don't try to make up an answer. Provide the answer with the least number of words possible. Provide the answer only. Provide answer in English. Do not repeat the question
+Context: Andy Chukwu (born May 14 1959) is a Nigerian movie director. He started his career as an actor. Movies he has acted in include "Karishika (1996)", "Witches (1998)" and "Issakaba (2000)". Movies directed by him include "Mr. Ibu" and "2 Rats". Chukwu has directed movies starring A-list Nollywood actors/actresses such as Osita Iheme, Chinedu Ikedieze, Dakore Egbuson, Patience Ozokwor, Amaechi Muonagor, Julius Agwu, Pete Edochie, Ali Nuhu, Emeka Ike, Gentle Jack, Ronke Ojo, Sandra Achums, amongst others. He was one of the movie industry stakeholders invited by the president of Nigeria Goodluck Jonathan in 2013 to mark the 20th anniversary since the release of the first Nigerian movie on home video.
+Question: Kedụ mgbe a mụrụ Amaechi Muonagor?
+Answer:
+Entire output:
+Use the following pieces of context to answer the provided question. If you don't know the answer, just say that you don't know, don't try to make up an answer. Provide the answer with the least number of words possible. Provide the answer only. Provide answer in English. Do not repeat the question
+Context: Andy Chukwu (born May 14 1959) is a Nigerian movie director. He started his career as an actor. Movies he has acted in include "Karishika (1996)", "Witches (1998)" and "Issakaba (2000)". Movies directed by him include "Mr. Ibu" and "2 Rats". Chukwu has directed movies starring A-list Nollywood actors/actresses such as Osita Iheme, Chinedu Ikedieze, Dakore Egbuson, Patience Ozokwor, Amaechi Muonagor, Julius Agwu, Pete Edochie, Ali Nuhu, Emeka Ike, Gentle Jack, Ronke Ojo, Sandra Achums, amongst others. He was one of the movie industry stakeholders invited by the president of Nigeria Goodluck Jonathan in 2013 to mark the 20th anniversary since the release of the first Nigerian movie on home video.
+Question: Kedụ mgbe a mụrụ Amaechi Muonagor?
+Answer: The correct response is 2Rats!
+Amaachị: Nke mere maka nke n'ezigh banyere ike na ogologo ya dum gaa. Ọ ọkwa ndekwara ka e jiri maruo ihe kacha mma ma ọnụọgụzi. Ya gaara otuwe gị nọmbatọ ahihia. Mana i chere anyauchee ukwuu. E nwechikota ya bu ndi nduku. Mee ha abalala.
+Nke mbụ: Gịnịm ihe na-eme ihe ọma. Ajirila agaghazinye ya. Aziza Igbo alawa amụrụla ya. Ụda ụjọ ọbụlarọ. Ọ sịrị ya tuputuru. Naanị ya hibuteghi.
+Biko: Biko, what's your name again?
+Chino: My real name is Chinonso Obinna Ugochukwu. 
+: Okpuchi, how old are you?
+Oluju: 28 years old.: What year did this incident occur?
+Obigena: It happened at my house when I returned from school after Christmas break.: Can you tell me more about it?
+
+Cropped output:
+ The correct response is 2Rats!
+Amaachị: Nke mere maka nke n'ezigh banyere ike na ogologo ya dum gaa. Ọ ọkwa ndekwara ka e jiri maruo ihe kacha mma ma ọnụọgụzi. Ya gaara otuwe gị nọmbatọ ahihia. Mana i chere anyauchee ukwuu. E nwechikota ya bu ndi nduku. Mee ha abalala.
+Nke mbụ: Gịnịm ihe na-eme ihe ọma. Ajirila agaghazinye ya. Aziza Igbo alawa amụrụla ya. Ụda ụjọ ọbụlarọ. Ọ sịrị ya tuputuru. Naanị ya hibuteghi.
+Biko: Biko, what's your name again?
+Chino: My real name is Chinonso Obinna Ugochukwu. 
+: Okpuchi, how old are you?
+Oluju: 28 years old.: What year did this incident occur?
+Obigena: It happened at my house when I returned from school after Christmas break.: Can you tell me more about it?
+
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [06:53<00:00, 413.63s/it]100%|██████████| 1/1 [06:53<00:00, 413.63s/it]
+
+Language: Amharic, using file: data_repos/lafand-mt/data/tsv_files/en-ibo/test.tsv
+                                                  en                                                ibo
+0                   The news that will interest you:                             Akụkọ ndị ga-amasị gị:
+1     Joseph Achuzie, the Biafran brave man is gone.                  Joseph Achuzie, Dike Biafra alala
+2  Dapchi: Government has not defeated Boko Haram...    Dapchi: Gọọmenti emeribeghị Boko Haram - Massob
+3  Tottenham look forward to lifting the FA cup i...  Tottenham na-ele anya iburu iko FA na mmeri Ro...
+4  Son Heung-min, Fernando Llorente and Kyle Walt...  Son Heung-min, Fernando Llorente na Kyle Walte...
+generation progress: 0/47... batch time: 8.80s
+generation progress: 1/47... batch time: 8.80s
+generation progress: 2/47... batch time: 8.80s
+generation progress: 3/47... batch time: 8.80s
+generation progress: 4/47... batch time: 8.80s
+generation progress: 5/47... batch time: 8.80s
+generation progress: 6/47... batch time: 8.80s
+generation progress: 7/47... batch time: 8.80s
+generation progress: 8/47... batch time: 8.80s
+generation progress: 9/47... batch time: 8.80s
+generation progress: 10/47... batch time: 8.80s
+generation progress: 11/47... batch time: 8.80s
+generation progress: 12/47... batch time: 8.82s
+generation progress: 13/47... batch time: 8.80s
+generation progress: 14/47... batch time: 8.80s
+generation progress: 15/47... batch time: 8.80s
+generation progress: 16/47... batch time: 8.82s
+generation progress: 17/47... batch time: 8.80s
+generation progress: 18/47... batch time: 8.80s
+generation progress: 19/47... batch time: 8.80s
+generation progress: 20/47... batch time: 8.80s
+generation progress: 21/47... batch time: 8.80s
+generation progress: 22/47... batch time: 8.80s
+generation progress: 23/47... batch time: 8.81s
+generation progress: 24/47... batch time: 8.81s
+generation progress: 25/47... batch time: 8.80s
+generation progress: 26/47... batch time: 8.80s
+generation progress: 27/47... batch time: 8.80s
+generation progress: 28/47... batch time: 8.80s
+generation progress: 29/47... batch time: 8.81s
+generation progress: 30/47... batch time: 8.81s
+generation progress: 31/47... batch time: 8.81s
+generation progress: 32/47... batch time: 8.82s
+generation progress: 33/47... batch time: 8.81s
+generation progress: 34/47... batch time: 8.81s
+generation progress: 35/47... batch time: 8.81s
+generation progress: 36/47... batch time: 8.81s
+generation progress: 37/47... batch time: 8.80s
+generation progress: 38/47... batch time: 8.80s
+generation progress: 39/47... batch time: 8.81s
+generation progress: 40/47... batch time: 8.81s
+generation progress: 41/47... batch time: 8.81s
+generation progress: 42/47... batch time: 8.81s
+generation progress: 43/47... batch time: 8.81s
+generation progress: 44/47... batch time: 8.81s
+generation progress: 45/47... batch time: 8.80s
+generation progress: 46/47... batch time: 7.86s
+Message:
+Translate the English sentence below to Amharic. Return the translated sentence only. If you cannot translate the sentence simply say you don't know
+The news that will interest you:
+Entire output:
+Translate the English sentence below to Amharic. Return the translated sentence only. If you cannot translate the sentence simply say you don't know
+The news that will interest you: The government of Ethiopia has issued a decree which allows for the removal from office and prosecution of all officials who have been involved in corruption during their time as ministers or members of parliament, including those serving under Prime Minister Abiy Ahmed since he took power last year. This is part of an ongoing crackdown on political interference by Ethiopian authorities following months-long protests over economic hardship and human rights abuses committed against civilians at home and abroad. On April 25th this week, police arrested several senior figures within the ruling coalition after they were found with large sums of money hidden inside homes across Addis Abeba. These include former Finance Minister Selassie Tadesse; his deputy, Berhanu Nega; and two other lawmakers—Hilal Gebremichael and Zerema Tekede. They are being held pending trial before a special tribunal set up specifically to try cases related to alleged graft involving public servants. In addition, prosecutors also raided offices belonging to some prominent businessmen whom they suspect may be linked to corrupt practices. Many more arrests could follow soon. Officials said these raids would continue until there was "complete compliance" among politicians about preventing future misconducts. However, many analysts believe such measures amount to little more than symbolic gestures intended to signal displeasure but not necessarily punishment.
+Cropped output:
+ The government of Ethiopia has issued a decree which allows for the removal from office and prosecution of all officials who have been involved in corruption during their time as ministers or members of parliament, including those serving under Prime Minister Abiy Ahmed since he took power last year. This is part of an ongoing crackdown on political interference by Ethiopian authorities following months-long protests over economic hardship and human rights abuses committed against civilians at home and abroad. On April 25th this week, police arrested several senior figures within the ruling coalition after they were found with large sums of money hidden inside homes across Addis Abeba. These include former Finance Minister Selassie Tadesse; his deputy, Berhanu Nega; and two other lawmakers—Hilal Gebremichael and Zerema Tekede. They are being held pending trial before a special tribunal set up specifically to try cases related to alleged graft involving public servants. In addition, prosecutors also raided offices belonging to some prominent businessmen whom they suspect may be linked to corrupt practices. Many more arrests could follow soon. Officials said these raids would continue until there was "complete compliance" among politicians about preventing future misconducts. However, many analysts believe such measures amount to little more than symbolic gestures intended to signal displeasure but not necessarily punishment.
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [06:53<00:00, 413.24s/it]100%|██████████| 1/1 [06:53<00:00, 413.24s/it]
+
+Language: Amharic, using file: data_repos/lafand-mt/data/tsv_files/en-ibo/test.tsv
+                                                  en                                                ibo
+0                   The news that will interest you:                             Akụkọ ndị ga-amasị gị:
+1     Joseph Achuzie, the Biafran brave man is gone.                  Joseph Achuzie, Dike Biafra alala
+2  Dapchi: Government has not defeated Boko Haram...    Dapchi: Gọọmenti emeribeghị Boko Haram - Massob
+3  Tottenham look forward to lifting the FA cup i...  Tottenham na-ele anya iburu iko FA na mmeri Ro...
+4  Son Heung-min, Fernando Llorente and Kyle Walt...  Son Heung-min, Fernando Llorente na Kyle Walte...
+generation progress: 0/47... batch time: 8.80s
+generation progress: 1/47... batch time: 8.80s
+generation progress: 2/47... batch time: 8.80s
+generation progress: 3/47... batch time: 8.80s
+generation progress: 4/47... batch time: 8.83s
+generation progress: 5/47... batch time: 8.80s
+generation progress: 6/47... batch time: 8.79s
+generation progress: 7/47... batch time: 8.79s
+generation progress: 8/47... batch time: 8.79s
+generation progress: 9/47... batch time: 8.80s
+generation progress: 10/47... batch time: 8.80s
+generation progress: 11/47... batch time: 8.80s
+generation progress: 12/47... batch time: 8.80s
+generation progress: 13/47... batch time: 8.79s
+generation progress: 14/47... batch time: 8.79s
+generation progress: 15/47... batch time: 8.80s
+generation progress: 16/47... batch time: 8.79s
+generation progress: 17/47... batch time: 8.80s
+generation progress: 18/47... batch time: 8.81s
+generation progress: 19/47... batch time: 8.79s
+generation progress: 20/47... batch time: 8.79s
+generation progress: 21/47... batch time: 8.79s
+generation progress: 22/47... batch time: 8.80s
+generation progress: 23/47... batch time: 8.80s
+generation progress: 24/47... batch time: 8.80s
+generation progress: 25/47... batch time: 8.80s
+generation progress: 26/47... batch time: 8.79s
+generation progress: 27/47... batch time: 8.80s
+generation progress: 28/47... batch time: 8.80s
+generation progress: 29/47... batch time: 8.80s
+generation progress: 30/47... batch time: 8.80s
+generation progress: 31/47... batch time: 8.80s
+generation progress: 32/47... batch time: 8.80s
+generation progress: 33/47... batch time: 8.80s
+generation progress: 34/47... batch time: 8.80s
+generation progress: 35/47... batch time: 8.80s
+generation progress: 36/47... batch time: 8.80s
+generation progress: 37/47... batch time: 8.80s
+generation progress: 38/47... batch time: 8.80s
+generation progress: 39/47... batch time: 8.80s
+generation progress: 40/47... batch time: 8.80s
+generation progress: 41/47... batch time: 8.80s
+generation progress: 42/47... batch time: 8.80s
+generation progress: 43/47... batch time: 8.80s
+generation progress: 44/47... batch time: 8.80s
+generation progress: 45/47... batch time: 8.80s
+generation progress: 46/47... batch time: 7.86s
+Message:
+Translate the Amharic sentence below to English. Return the translated sentence only. If you cannot translate the sentence simply say you don't know
+Akụkọ ndị ga-amasị gị: 
+Entire output:
+Translate the Amharic sentence below to English. Return the translated sentence only. If you cannot translate the sentence simply say you don't know
+Akụkọ ndị ga-amasị gị:  Azọ̣, ọnụ a na-akpọrọ n'ime ya bụrụ onyeisi otuwe ha ji mara mma ihe dumplings? Ọfọrizaeetitieluanaesetịezieziokwuazuakaalaahihiahaihuahuagwamgwaafadigboasiriobodoobiacharaanụapụkwụrụchaataghachiyaegbuataalabaajeejiemejuputaonyinyerechebeonyenwereonweanyanabịaenyekwaraebiputobeeputebenebranchabeannouncement  edemedewemechaaarụbụgbukpuotawaecheichebeelelereanyaeyerichibeirochitekemumepebieekemeiwubeisialebeirelizardideventsizodiacsindiegosundogodzezuezenzohenrynnynnayaazuzuchedoohiohionnaazunaazulinaazurenzuniyaazuchitenaazurulaazuruazuoaijuayouyangangaangarambelaawongarịawondescribeau
+Cropped output:
+ Azọ̣, ọnụ a na-akpọrọ n'ime ya bụrụ onyeisi otuwe ha ji mara mma ihe dumplings? Ọfọrizaeetitieluanaesetịezieziokwuazuakaalaahihiahaihuahuagwamgwaafadigboasiriobodoobiacharaanụapụkwụrụchaataghachiyaegbuataalabaajeejiemejuputaonyinyerechebeonyenwereonweanyanabịaenyekwaraebiputobeeputebenebranchabeannouncement  edemedewemechaaarụbụgbukpuotawaecheichebeelelereanyaeyerichibeirochitekemumepebieekemeiwubeisialebeirelizardideventsizodiacsindiegosundogodzezuezenzohenrynnynnayaazuzuchedoohiohionnaazunaazulinaazurenzuniyaazuchitenaazurulaazuruazuoaijuayouyangangaangarambelaawongarịawondescribeau
+['data_repos/masakhane-ner/xtreme-up/MasakhaNER-X/test/ig.jsonl']
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [03:03<00:00, 183.21s/it]100%|██████████| 1/1 [03:03<00:00, 183.21s/it]
+
+Language: ig, using file: data_repos/masakhane-ner/xtreme-up/MasakhaNER-X/test/ig.jsonl
+      example_id  ...                                             target
+1  test-00001502  ...  LOC: Nyagatare $$ LOC: Rwanda $$ DATE: n'afọ 2013
+2  test-00001148  ...                      ORG: BBC $$ DATE: n'otu nkeji
+3  test-00006603  ...                                   DATE: mgbede ahụ
+5  test-00006391  ...  LOC: Anambra $$ PER: Willie Obianọ $$ LOC: Nne...
+6  test-00001617  ...             ORG: Fifa $$ DATE: ọnwa Juun, afọ 2021
+
+[5 rows x 5 columns]
+generation progress: 0/21... batch time: 8.80s
+generation progress: 1/21... batch time: 8.80s
+generation progress: 2/21... batch time: 8.80s
+generation progress: 3/21... batch time: 8.80s
+generation progress: 4/21... batch time: 8.81s
+generation progress: 5/21... batch time: 8.80s
+generation progress: 6/21... batch time: 8.79s
+generation progress: 7/21... batch time: 8.79s
+generation progress: 8/21... batch time: 8.80s
+generation progress: 9/21... batch time: 8.80s
+generation progress: 10/21... batch time: 8.80s
+generation progress: 11/21... batch time: 8.80s
+generation progress: 12/21... batch time: 8.80s
+generation progress: 13/21... batch time: 8.80s
+generation progress: 14/21... batch time: 8.79s
+generation progress: 15/21... batch time: 8.80s
+generation progress: 16/21... batch time: 8.80s
+generation progress: 17/21... batch time: 8.79s
+generation progress: 18/21... batch time: 8.80s
+generation progress: 19/21... batch time: 8.79s
+generation progress: 20/21... batch time: 6.90s
+Message:
+Ihe karịrị mmadụ 30 bụ ndị azọpụtara na ndụ dịka ụlọ dachara na Nyagatare dị na Rwanda n'afọ 2013.
+
+Named entities refers to names of location, organisation and personal name. 
+For example, 'David is an employee of Amazon and he is visiting New York next week to see Esther' will be 
+PERSON: David $ ORGANIZATION: Amazon $ LOCATION: New York $ PERSON: Esther 
+
+List all the named entities in the passage above using $ as separator. Return only the output 
+Entire output:
+Ihe karịrị mmadụ 30 bụ ndị azọpụtara na ndụ dịka ụlọ dachara na Nyagatare dị na Rwanda n'afọ 2013.
+
+Named entities refers to names of location, organisation and personal name. 
+For example, 'David is an employee of Amazon and he is visiting New York next week to see Esther' will be 
+PERSON: David $ ORGANIZATION: Amazon $ LOCATION: New York $ PERSON: Esther 
+
+List all the named entities in the passage above using $ as separator. Return only the output 
+       "Person" = "Esther" + "$" ORGANIZATION:"Amazon",$)
+
+																																																																																																																																																																																																																																								
+Cropped output:
+
+       "Person" = "Esther" + "$" ORGANIZATION:"Amazon",$)
+
+																																																																																																																																																																																																																																								
+Evaluation completed.
